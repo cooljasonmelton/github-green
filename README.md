@@ -19,3 +19,9 @@ If a content source is unavailable, the workflow should use fallback data, skip 
 
 The repository is currently in its initial scaffolding phase. A later task will
 add the generated daily section without modifying this introduction.
+
+External content sources and attribution requirements are documented in
+[docs/sources.md](docs/sources.md).
+
+The delivery order, including the planned content-health alerting task, is in
+[docs/roadmap.md](docs/roadmap.md).
