@@ -1,0 +1,13 @@
+{
+  "name": "github-green",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "generate": "node scripts/generate-daily.js",
+    "test": "node --test"
+  }
+}
