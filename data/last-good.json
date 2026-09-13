@@ -2,18 +2,18 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1903,
-      "text": "The first race at the Milwaukee Mile in West Allis, Wisconsin is held. It is the oldest major speedway in the world.",
-      "title": "Milwaukee Mile",
-      "description": "Race track in West Allis, Wisconsin, United States",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Milwaukee_Mile"
+      "year": 1962,
+      "text": "An appeals court orders the University of Mississippi to admit James Meredith, the first African-American student admitted to the segregated university.",
+      "title": "James Meredith",
+      "description": "American civil rights activist (born 1933)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/James_Meredith"
     },
     "birthday": {
       "status": "live",
-      "name": "Franz Ernst Neumann",
-      "birthYear": 1798,
-      "knownFor": "German physicist and mineralogist (1798–1895)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Franz_Ernst_Neumann"
+      "name": "Ray Charles (conductor)",
+      "birthYear": 1918,
+      "knownFor": "American musician, conductor and arranger (1918–2015)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ray_Charles_(conductor)"
     },
     "photo": {
       "status": "live",
@@ -28,11 +28,11 @@
     },
     "culture": {
       "status": "live",
-      "year": 1977,
-      "text": "Atari, Inc. releases the Video Computer System (VCS), later renamed the Atari 2600 in 1982.",
-      "title": "Atari, Inc.",
-      "description": "American video game developer (1972–1992)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Atari%2C_Inc."
+      "year": 1985,
+      "text": "Super Mario Bros. is released in Japan for the NES, which starts the Super Mario series of platforming games.",
+      "title": "Super Mario Bros.",
+      "description": "1985 video game",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Super_Mario_Bros."
     }
   }
 }
