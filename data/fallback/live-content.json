@@ -1,0 +1,33 @@
+{
+  "history": [
+    {
+      "text": "Apollo 11 splashed down in the Pacific Ocean in 1969, ending the first crewed lunar landing mission.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Apollo_11"
+    }
+  ],
+  "birthday": [
+    {
+      "name": "Maya Angelou",
+      "birthYear": 1928,
+      "knownFor": "American poet, memoirist, and civil rights activist.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Maya_Angelou"
+    }
+  ],
+  "photo": [
+    {
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Breil-Brigels._%28actm%29_02.jpg/960px-Breil-Brigels._%28actm%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Breil-Brigels. Lag da Breil. Reservoir with low water level.",
+      "creator": "Agnes Monkelbaan",
+      "credit": "Wikimedia Commons featured picture",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Breil-Brigels._(actm)_02.jpg"
+    }
+  ],
+  "culture": [
+    {
+      "text": "Super Mario Bros. was released in Japan for the Nintendo Entertainment System in 1985.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Super_Mario_Bros."
+    }
+  ]
+}

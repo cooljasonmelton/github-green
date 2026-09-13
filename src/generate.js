@@ -1,6 +1,11 @@
 import { createDailyEntry } from './daily-entry.js';
 import { generateOfflineSections } from './offline-content.js';
 import { fetchBirthdays, fetchHistoricalEvents, fetchPhotoOfDay } from './providers/wikimedia.js';
+import {
+  readNetworkFallbacks,
+  readPreviousLiveSections,
+  resolveNetworkSections,
+} from './reliability.js';
 import { selectBirthday, selectCultureEvent, selectHistoricalEvent, selectPhoto } from './selectors/live-content.js';
 
 function dateInChicago(now) {
@@ -23,21 +28,22 @@ export async function generateDailyEntry({ date, now = new Date(), dataDirectory
   const entryDate = date ?? dateInChicago(now);
   const offlineSections = await generateOfflineSections(entryDate, { dataDirectory });
   const providerOptions = { fetchFn };
-  const [events, birthdays, photo] = await Promise.all([
+  const [events, birthdays, photo, fallbackSections, previousSections] = await Promise.all([
     fetchHistoricalEvents(entryDate, providerOptions),
     fetchBirthdays(entryDate, providerOptions),
     fetchPhotoOfDay(entryDate, providerOptions),
+    readNetworkFallbacks(entryDate, { dataDirectory }),
+    readPreviousLiveSections({ dataDirectory }),
   ]);
-  const history = selectHistoricalEvent(events, entryDate);
-  const birthday = selectBirthday(birthdays, entryDate);
-  const culture = selectCultureEvent(events, entryDate);
-  const selectedPhoto = selectPhoto(photo);
+  const liveSections = {
+    history: selectHistoricalEvent(events, entryDate),
+    birthday: selectBirthday(birthdays, entryDate),
+    culture: selectCultureEvent(events, entryDate),
+    photo: selectPhoto(photo),
+  };
 
   return createDailyEntry(entryDate, {
     ...offlineSections,
-    history: history && { status: 'live', ...history },
-    birthday: birthday && { status: 'live', ...birthday },
-    culture: culture && { status: 'live', ...culture },
-    photo: selectedPhoto && { status: 'live', ...selectedPhoto },
+    ...resolveNetworkSections(liveSections, fallbackSections, previousSections),
   });
 }

@@ -25,10 +25,11 @@ test('writes marker-safe README content, an archive, and stable same-day status'
   await writeDailyOutput(entry, { rootDirectory, generatedAt: '2026-09-12T12:00:00.000Z' });
   await writeDailyOutput(entry, { rootDirectory, generatedAt: '2026-09-12T13:00:00.000Z' });
 
-  const [readme, archive, status] = await Promise.all([
+  const [readme, archive, status, lastGood] = await Promise.all([
     readFile(join(rootDirectory, 'README.md'), 'utf8'),
     readFile(join(rootDirectory, 'archive', '2026-09-12.md'), 'utf8'),
     readFile(join(rootDirectory, 'data', 'last-run.json'), 'utf8'),
+    readFile(join(rootDirectory, 'data', 'last-good.json'), 'utf8'),
   ]);
 
   assert.match(readme, /^# Intro/m);
@@ -40,14 +41,19 @@ test('writes marker-safe README content, an archive, and stable same-day status'
     generatedAt: '2026-09-12T12:00:00.000Z',
     sections: Object.fromEntries(Object.entries(entry).filter(([key]) => key !== 'date').map(([key, value]) => [key, { status: value.status }])),
   });
+  assert.deepEqual(JSON.parse(lastGood).sections.history, entry.history);
 });
 
-test('refuses to rewrite a README with missing markers', async (t) => {
+test('records malformed README markers without rewriting the README', async (t) => {
   const rootDirectory = await mkdtemp(join(tmpdir(), 'github-green-output-'));
   t.after(() => rm(rootDirectory, { recursive: true, force: true }));
   const readmePath = join(rootDirectory, 'README.md');
   await writeFile(readmePath, '# Intro only\n');
 
-  await assert.rejects(() => writeDailyOutput(entry, { rootDirectory }), /DAILY_CONTENT/);
+  const output = await writeDailyOutput(entry, { rootDirectory });
+
+  assert.equal(output.readmeChanged, false);
+  assert.deepEqual(output.problems, [{ code: 'README_MARKERS_INVALID' }]);
   assert.equal(await readFile(readmePath, 'utf8'), '# Intro only\n');
+  assert.deepEqual(JSON.parse(await readFile(join(rootDirectory, 'data', 'last-run.json'), 'utf8')).problems, [{ code: 'README_MARKERS_INVALID' }]);
 });

@@ -6,6 +6,7 @@ import {
   fetchHistoricalEvents,
   fetchPhotoOfDay,
 } from '../src/providers/wikimedia.js';
+import { ProviderRequestError, fetchJson } from '../src/providers/http.js';
 
 const eventPayload = {
   events: [{
@@ -111,4 +112,21 @@ test('contains provider failures when a response is malformed or unsuccessful', 
 
   assert.deepEqual(malformedEvents, []);
   assert.equal(unavailablePhoto, null);
+});
+
+test('contains malformed JSON and request timeout failures', async () => {
+  const malformedJson = await fetchHistoricalEvents('2026-09-13', {
+    fetchFn: async () => ({ ok: true, status: 200, json: async () => { throw new SyntaxError('bad JSON'); } }),
+  });
+
+  await assert.rejects(
+    () => fetchJson('https://example.test/timeout', {
+      timeoutMs: 1,
+      fetchFn: async (_url, { signal }) => new Promise((_resolve, reject) => {
+        signal.addEventListener('abort', () => reject(new Error('aborted')), { once: true });
+      }),
+    }),
+    ProviderRequestError,
+  );
+  assert.deepEqual(malformedJson, []);
 });

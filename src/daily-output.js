@@ -79,7 +79,7 @@ function replaceGeneratedSection(readme, section) {
   if (start === -1 || end === -1 || end < start
     || readme.indexOf(START_MARKER, start + START_MARKER.length) !== -1
     || readme.indexOf(END_MARKER, end + END_MARKER.length) !== -1) {
-    throw new Error('README DAILY_CONTENT markers are missing or malformed');
+    return null;
   }
 
   return `${readme.slice(0, start + START_MARKER.length)}\n\n${section}\n\n${readme.slice(end)}`;
@@ -109,6 +109,18 @@ async function readLastRun(path) {
   }
 }
 
+function nextLastGood(existing, entry) {
+  return {
+    sections: Object.fromEntries(SECTION_NAMES.flatMap((name) => (
+      entry[name]?.status === 'live'
+        ? [[name, entry[name]]]
+        : existing?.sections?.[name]
+          ? [[name, existing.sections[name]]]
+          : []
+    ))),
+  };
+}
+
 export async function writeDailyOutput(entry, {
   rootDirectory = process.cwd(),
   generatedAt = new Date().toISOString(),
@@ -117,21 +129,32 @@ export async function writeDailyOutput(entry, {
   const archiveDirectory = join(rootDirectory, 'archive');
   const dataDirectory = join(rootDirectory, 'data');
   const statusPath = join(dataDirectory, 'last-run.json');
+  const lastGoodPath = join(dataDirectory, 'last-good.json');
   const section = renderDailySection(entry);
   const readme = await readFile(readmePath, 'utf8');
-  const existingStatus = await readLastRun(statusPath);
+  const [existingStatus, existingLastGood] = await Promise.all([
+    readLastRun(statusPath),
+    readLastRun(lastGoodPath),
+  ]);
+  const renderedReadme = replaceGeneratedSection(readme, section);
+  const problems = renderedReadme ? [] : [{ code: 'README_MARKERS_INVALID' }];
   const status = {
     date: entry.date,
-    generatedAt: existingStatus?.date === entry.date ? existingStatus.generatedAt : generatedAt,
+    generatedAt: existingStatus?.date === entry.date && typeof existingStatus.generatedAt === 'string'
+      ? existingStatus.generatedAt
+      : generatedAt,
     sections: Object.fromEntries(SECTION_NAMES.map((name) => [name, { status: entry[name].status }])),
+    ...(problems.length ? { problems } : {}),
   };
+  const lastGood = nextLastGood(existingLastGood, entry);
 
   await Promise.all([mkdir(archiveDirectory, { recursive: true }), mkdir(dataDirectory, { recursive: true })]);
-  const [readmeChanged, archiveChanged, statusChanged] = await Promise.all([
-    writeIfChanged(readmePath, replaceGeneratedSection(readme, section)),
+  const [readmeChanged, archiveChanged, statusChanged, lastGoodChanged] = await Promise.all([
+    renderedReadme ? writeIfChanged(readmePath, renderedReadme) : false,
     writeIfChanged(join(archiveDirectory, `${entry.date}.md`), `# Daily entry — ${entry.date}\n\n${section}\n`),
     writeIfChanged(statusPath, `${JSON.stringify(status, null, 2)}\n`),
+    writeIfChanged(lastGoodPath, `${JSON.stringify(lastGood, null, 2)}\n`),
   ]);
 
-  return { readmeChanged, archiveChanged, statusChanged, status };
+  return { readmeChanged, archiveChanged, statusChanged, lastGoodChanged, problems, status };
 }

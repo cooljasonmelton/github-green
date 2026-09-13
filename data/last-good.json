@@ -1,0 +1,38 @@
+{
+  "sections": {
+    "history": {
+      "status": "live",
+      "year": 1962,
+      "text": "An appeals court orders the University of Mississippi to admit James Meredith, the first African-American student admitted to the segregated university.",
+      "title": "James Meredith",
+      "description": "American civil rights activist (born 1933)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/James_Meredith"
+    },
+    "birthday": {
+      "status": "live",
+      "name": "Ray Charles (conductor)",
+      "birthYear": 1918,
+      "knownFor": "American musician, conductor and arranger (1918–2015)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ray_Charles_(conductor)"
+    },
+    "photo": {
+      "status": "live",
+      "title": "File:Breil-Brigels. (actm) 02.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Breil-Brigels._%28actm%29_02.jpg/960px-Breil-Brigels._%28actm%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Breil-Brigels. Lag da Breil. Reservoir with low water level.",
+      "creator": "Agnes Monkelbaan",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Breil-Brigels._(actm)_02.jpg"
+    },
+    "culture": {
+      "status": "live",
+      "year": 1985,
+      "text": "Super Mario Bros. is released in Japan for the NES, which starts the Super Mario series of platforming games.",
+      "title": "Super Mario Bros.",
+      "description": "1985 video game",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Super_Mario_Bros."
+    }
+  }
+}

@@ -8,6 +8,7 @@
   },
   "scripts": {
     "generate": "node scripts/generate-daily.js",
+    "generate:emergency": "node scripts/emergency-heartbeat.js",
     "test": "node --test"
   }
 }
