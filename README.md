@@ -2,28 +2,16 @@
 
 This repository exists to make one commit to GitHub every day.
 
-A scheduled GitHub Action updates this README and commits the result. The commit is attributed to my GitHub account so it appears on my contribution graph.
+A scheduled GitHub Action updates the README with unrelated daily items. This content is secondary.
 
-Once the content system is in place, the daily update will also include a few
-unrelated things:
-
-* vocabulary word
-* quote
-* historical event
-* notable birthday
-* photo
-* movie / music / pop-culture item
-* miscellaneous rotating fact
-
-If a content source is unavailable, the workflow should use fallback data, skip that section, or reuse a safe previous value rather than failing the entire job.
+The update can use fallback data, skip a section, or reuse a safe previous
+value when a source is unavailable.
 
 ## Daily automation
 
 The workflow runs at 7:17 AM in `America/Chicago` and can also be run manually
-from the Actions tab. Before enabling it, create repository variables
-`COMMIT_NAME` and `COMMIT_EMAIL`. `COMMIT_EMAIL` must be associated with the
-owner's GitHub account; a GitHub-provided noreply address is a good option when
-you do not want to publish a personal address.
+from the Actions tab. It needs repository variables `COMMIT_NAME` and
+`COMMIT_EMAIL`; the email must be associated with the owner's GitHub account.
 
 The workflow retries a rejected push once after rebasing. It cannot guarantee a
 contribution during a GitHub outage, missing write permission, bad repository
@@ -32,14 +20,13 @@ authentication, disabled Actions, or an unresolved push conflict.
 ## Content health alerts
 
 After ten consecutive failed Chicago dates for a live provider, the workflow
-opens or reopens one GitHub issue. Enable your preferred GitHub email or web
-notifications if you want those issues delivered outside GitHub.
+opens or reopens one GitHub issue. GitHub email or web notifications can deliver
+that alert outside the repository.
 
 External content sources and attribution requirements are documented in
 [docs/sources.md](docs/sources.md).
 
-The delivery order, including the planned content-health alerting task, is in
-[docs/roadmap.md](docs/roadmap.md).
+The delivery order is in [docs/roadmap.md](docs/roadmap.md).
 
 <!-- DAILY_CONTENT_START -->
 
