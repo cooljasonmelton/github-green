@@ -1,0 +1,93 @@
+name: Daily contribution
+
+on:
+  schedule:
+    - cron: '17 7 * * *'
+      timezone: 'America/Chicago'
+  workflow_dispatch:
+    inputs:
+      date:
+        description: Optional Chicago date in YYYY-MM-DD form
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-contribution-${{ github.event.repository.default_branch }}
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the default branch
+        uses: actions/checkout@v6
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Resolve the Chicago date
+        id: daily-date
+        shell: bash
+        run: |
+          DATE='${{ inputs.date }}'
+          if [ -z "$DATE" ]; then
+            DATE="$(TZ=America/Chicago date +%F)"
+          fi
+          echo "value=$DATE" >> "$GITHUB_OUTPUT"
+
+      - name: Generate daily content
+        id: generate
+        continue-on-error: true
+        run: npm run generate -- "${{ steps.daily-date.outputs.value }}"
+
+      - name: Record an emergency heartbeat
+        if: steps.generate.outcome == 'failure'
+        continue-on-error: true
+        run: |
+          echo 'Normal generation failed; recording an emergency heartbeat.'
+          npm run generate:emergency -- "${{ steps.daily-date.outputs.value }}"
+
+      - name: Configure commit identity
+        env:
+          COMMIT_NAME: ${{ vars.COMMIT_NAME }}
+          COMMIT_EMAIL: ${{ vars.COMMIT_EMAIL }}
+        shell: bash
+        run: |
+          if [ -z "$COMMIT_NAME" ] || [ -z "$COMMIT_EMAIL" ]; then
+            echo 'Set repository variables COMMIT_NAME and COMMIT_EMAIL before enabling this workflow.' >&2
+            exit 1
+          fi
+          git config user.name "$COMMIT_NAME"
+          git config user.email "$COMMIT_EMAIL"
+
+      - name: Commit the daily update
+        env:
+          DATE: ${{ steps.daily-date.outputs.value }}
+        shell: bash
+        run: |
+          git add -A -- README.md archive data
+          git commit --allow-empty -m "daily: $DATE"
+
+      - name: Push with one rebase retry
+        env:
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        shell: bash
+        run: |
+          for attempt in 1 2; do
+            if git push origin "HEAD:$DEFAULT_BRANCH"; then
+              exit 0
+            fi
+            if [ "$attempt" -eq 2 ]; then
+              exit 1
+            fi
+            git fetch origin "$DEFAULT_BRANCH"
+            git rebase "origin/$DEFAULT_BRANCH"
+          done

@@ -17,8 +17,17 @@ unrelated things:
 
 If a content source is unavailable, the workflow should use fallback data, skip that section, or reuse a safe previous value rather than failing the entire job.
 
-The repository is currently in its initial scaffolding phase. A later task will
-add the generated daily section without modifying this introduction.
+## Daily automation
+
+The workflow runs at 7:17 AM in `America/Chicago` and can also be run manually
+from the Actions tab. Before enabling it, create repository variables
+`COMMIT_NAME` and `COMMIT_EMAIL`. `COMMIT_EMAIL` must be associated with the
+owner's GitHub account; a GitHub-provided noreply address is a good option when
+you do not want to publish a personal address.
+
+The workflow retries a rejected push once after rebasing. It cannot guarantee a
+contribution during a GitHub outage, missing write permission, bad repository
+authentication, disabled Actions, or an unresolved push conflict.
 
 External content sources and attribution requirements are documented in
 [docs/sources.md](docs/sources.md).
