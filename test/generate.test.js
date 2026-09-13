@@ -4,7 +4,7 @@ import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import test from 'node:test';
 
-import { generateDailyEntry } from '../src/generate.js';
+import { generateDailyEntry, generateDailyResult } from '../src/generate.js';
 
 const offlineFetch = async () => {
   throw new Error('network is disabled in tests');
@@ -127,4 +127,27 @@ test('adds selected live sections without exposing provider response schemas', a
   assert.equal(entry.birthday.name, 'Maya Angelou');
   assert.equal(entry.culture.title, 'Example Show');
   assert.equal(entry.photo.creator, 'Example Photographer');
+});
+
+test('records successful provider responses even when selectors find no candidate', async () => {
+  const { entry, providerOutcomes } = await generateDailyResult({
+    date: '2026-09-12',
+    fetchFn: async (url) => {
+      if (url.includes('/events/')) return jsonResponse({ events: [] });
+      if (url.includes('/births/')) return jsonResponse({ births: [] });
+      return jsonResponse({ image: {
+        title: 'File:Example.jpg',
+        thumbnail: { source: 'https://upload.wikimedia.org/example.jpg' },
+        file_page: 'https://commons.wikimedia.org/wiki/File:Example.jpg',
+        artist: { text: 'Example Photographer' },
+        credit: { text: 'Own work' },
+        license: { type: 'CC BY-SA 4.0', url: 'https://creativecommons.org/licenses/by-sa/4.0' },
+        description: { text: 'An example photograph.' },
+      } });
+    },
+  });
+
+  assert.deepEqual(providerOutcomes, { history: true, birthday: true, photo: true });
+  assert.equal(entry.history.status, 'fallback');
+  assert.equal(entry.birthday.status, 'fallback');
 });

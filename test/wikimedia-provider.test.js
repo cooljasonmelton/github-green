@@ -130,3 +130,29 @@ test('contains malformed JSON and request timeout failures', async () => {
   );
   assert.deepEqual(malformedJson, []);
 });
+
+test('reports provider response success separately from selected content', async () => {
+  const outcomes = [];
+  const events = await fetchHistoricalEvents('2026-09-13', {
+    fetchFn: async () => jsonResponse({ events: [] }),
+    onResult: (success) => outcomes.push(success),
+  });
+  await fetchPhotoOfDay('2026-09-13', {
+    fetchFn: async () => jsonResponse({}, { ok: false, status: 503 }),
+    onResult: (success) => outcomes.push(success),
+  });
+
+  assert.deepEqual(events, []);
+  assert.deepEqual(outcomes, [true, false]);
+});
+
+test('reports a malformed non-empty provider list as a response-validation failure', async () => {
+  const outcomes = [];
+  const events = await fetchHistoricalEvents('2026-09-13', {
+    fetchFn: async () => jsonResponse({ events: [{}] }),
+    onResult: (success) => outcomes.push(success),
+  });
+
+  assert.deepEqual(events, []);
+  assert.deepEqual(outcomes, [false]);
+});

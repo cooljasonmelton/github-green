@@ -14,6 +14,14 @@ function requestOptions(options) {
   };
 }
 
+function reportResult(options, success) {
+  try {
+    options?.onResult?.(success);
+  } catch {
+    // Health reporting must not affect content retrieval.
+  }
+}
+
 function dateParts(date) {
   const match = /^(\d{4})-(\d{2})-(\d{2})$/.exec(date);
   if (!match) {
@@ -79,8 +87,14 @@ async function fetchOnThisDay(type, date, options) {
       requestOptions(options),
     );
 
-    return normalizeOnThisDayEntries(payload, type);
+    const entries = normalizeOnThisDayEntries(payload, type);
+    if (payload[type].length > 0 && entries.length === 0) {
+      throw new TypeError(`response did not include a valid ${type} entry`);
+    }
+    reportResult(options, true);
+    return entries;
   } catch {
+    reportResult(options, false);
     return [];
   }
 }
@@ -101,8 +115,11 @@ export async function fetchPhotoOfDay(date, options) {
       requestOptions(options),
     );
 
-    return normalizePhoto(payload);
+    const photo = normalizePhoto(payload);
+    reportResult(options, true);
+    return photo;
   } catch {
+    reportResult(options, false);
     return null;
   }
 }

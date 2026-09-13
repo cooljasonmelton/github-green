@@ -29,6 +29,12 @@ The workflow retries a rejected push once after rebasing. It cannot guarantee a
 contribution during a GitHub outage, missing write permission, bad repository
 authentication, disabled Actions, or an unresolved push conflict.
 
+## Content health alerts
+
+After ten consecutive failed Chicago dates for a live provider, the workflow
+opens or reopens one GitHub issue. Enable your preferred GitHub email or web
+notifications if you want those issues delivered outside GitHub.
+
 External content sources and attribution requirements are documented in
 [docs/sources.md](docs/sources.md).
 

@@ -24,14 +24,19 @@ function dateInChicago(now) {
   return `${values.year}-${values.month}-${values.day}`;
 }
 
-export async function generateDailyEntry({ date, now = new Date(), dataDirectory, fetchFn } = {}) {
+export async function generateDailyResult({ date, now = new Date(), dataDirectory, fetchFn } = {}) {
   const entryDate = date ?? dateInChicago(now);
   const offlineSections = await generateOfflineSections(entryDate, { dataDirectory });
   const providerOptions = { fetchFn };
+  const providerOutcomes = {};
+  const optionsFor = (provider) => ({
+    ...providerOptions,
+    onResult: (success) => { providerOutcomes[provider] = success; },
+  });
   const [events, birthdays, photo, fallbackSections, previousSections] = await Promise.all([
-    fetchHistoricalEvents(entryDate, providerOptions),
-    fetchBirthdays(entryDate, providerOptions),
-    fetchPhotoOfDay(entryDate, providerOptions),
+    fetchHistoricalEvents(entryDate, optionsFor('history')),
+    fetchBirthdays(entryDate, optionsFor('birthday')),
+    fetchPhotoOfDay(entryDate, optionsFor('photo')),
     readNetworkFallbacks(entryDate, { dataDirectory }),
     readPreviousLiveSections({ dataDirectory }),
   ]);
@@ -42,8 +47,21 @@ export async function generateDailyEntry({ date, now = new Date(), dataDirectory
     photo: selectPhoto(photo),
   };
 
-  return createDailyEntry(entryDate, {
+  const entry = createDailyEntry(entryDate, {
     ...offlineSections,
     ...resolveNetworkSections(liveSections, fallbackSections, previousSections),
   });
+
+  return {
+    entry,
+    providerOutcomes: {
+      history: providerOutcomes.history === true,
+      birthday: providerOutcomes.birthday === true,
+      photo: providerOutcomes.photo === true,
+    },
+  };
+}
+
+export async function generateDailyEntry(options = {}) {
+  return (await generateDailyResult(options)).entry;
 }

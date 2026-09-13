@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "providers": {
+    "history": {
+      "consecutiveFailures": 0,
+      "lastCheckedDate": null,
+      "lastFailureDate": null,
+      "lastOutcome": null,
+      "alerted": false
+    },
+    "birthday": {
+      "consecutiveFailures": 0,
+      "lastCheckedDate": null,
+      "lastFailureDate": null,
+      "lastOutcome": null,
+      "alerted": false
+    },
+    "photo": {
+      "consecutiveFailures": 0,
+      "lastCheckedDate": null,
+      "lastFailureDate": null,
+      "lastOutcome": null,
+      "alerted": false
+    }
+  }
+}
