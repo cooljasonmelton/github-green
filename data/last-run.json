@@ -1,6 +1,6 @@
 {
-  "date": "2001-09-11",
-  "generatedAt": "2026-09-13T06:15:55.383Z",
+  "date": "2026-09-13",
+  "generatedAt": "2026-09-13T07:03:30.708Z",
   "sections": {
     "word": {
       "status": "local"
@@ -9,16 +9,16 @@
       "status": "local"
     },
     "history": {
-      "status": "live"
+      "status": "fallback"
     },
     "birthday": {
-      "status": "live"
+      "status": "fallback"
     },
     "photo": {
       "status": "fallback"
     },
     "culture": {
-      "status": "live"
+      "status": "fallback"
     },
     "miscellaneous": {
       "status": "local"

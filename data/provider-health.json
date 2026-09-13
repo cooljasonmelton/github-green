@@ -2,24 +2,24 @@
   "version": 1,
   "providers": {
     "history": {
-      "consecutiveFailures": 0,
-      "lastCheckedDate": null,
-      "lastFailureDate": null,
-      "lastOutcome": null,
+      "consecutiveFailures": 1,
+      "lastCheckedDate": "2026-09-13",
+      "lastFailureDate": "2026-09-13",
+      "lastOutcome": "failure",
       "alerted": false
     },
     "birthday": {
-      "consecutiveFailures": 0,
-      "lastCheckedDate": null,
-      "lastFailureDate": null,
-      "lastOutcome": null,
+      "consecutiveFailures": 1,
+      "lastCheckedDate": "2026-09-13",
+      "lastFailureDate": "2026-09-13",
+      "lastOutcome": "failure",
       "alerted": false
     },
     "photo": {
-      "consecutiveFailures": 0,
-      "lastCheckedDate": null,
-      "lastFailureDate": null,
-      "lastOutcome": null,
+      "consecutiveFailures": 1,
+      "lastCheckedDate": "2026-09-13",
+      "lastFailureDate": "2026-09-13",
+      "lastOutcome": "failure",
       "alerted": false
     }
   }

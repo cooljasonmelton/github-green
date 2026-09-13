@@ -12,8 +12,8 @@ test('defines a Chicago-aware daily workflow with fallback generation and an emp
   assert.match(workflow, /timezone: 'America\/Chicago'/);
   assert.match(workflow, /contents: write/);
   assert.match(workflow, /issues: write/);
-  assert.match(workflow, /actions\/setup-node@v5/);
-  assert.doesNotMatch(workflow, /actions\/setup-node@v4/);
+  assert.match(workflow, /actions\/setup-node@v7/);
+  assert.doesNotMatch(workflow, /actions\/setup-node@v[456]/);
   assert.match(workflow, /npm run generate --/);
   assert.match(workflow, /npm run generate:emergency --/);
   assert.match(workflow, /provider-health-alerts/);

@@ -30,7 +30,7 @@ The delivery order is in [docs/roadmap.md](docs/roadmap.md).
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2001-09-11
+## Today — 2026-09-13
 
 ### Photo
 ![Breil-Brigels. Lag da Breil. Reservoir with low water level.](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Breil-Brigels._%28actm%29_02.jpg/960px-Breil-Brigels._%28actm%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
@@ -38,33 +38,33 @@ The delivery order is in [docs/roadmap.md](docs/roadmap.md).
 *Breil-Brigels. Lag da Breil. Reservoir with low water level.* — Agnes Monkelbaan. [Source](https://commons.wikimedia.org/wiki/File:Breil-Brigels._(actm)_02.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**resilient** — *adjective*
+**serendipity** — *noun*
 
-Able to recover quickly from difficulty or change.
+The occurrence of a fortunate discovery by chance.
 
-The resilient process continued after one input failed.
+Finding the note in the old book was pure serendipity.
 
 ### Quote
-> There is no charm equal to tenderness of heart.
+> Hope is the thing with feathers.
 
-— Jane Austen, *Emma*
+— Emily Dickinson, *"Hope" is the thing with feathers*
 
 ### On This Day
-The first race at the Milwaukee Mile in West Allis, Wisconsin is held. It is the oldest major speedway in the world.
+Apollo 11 splashed down in the Pacific Ocean in 1969, ending the first crewed lunar landing mission.
 
-[Source](https://en.wikipedia.org/wiki/Milwaukee_Mile)
+[Source](https://en.wikipedia.org/wiki/Apollo_11)
 
 ### Born Today
-**Franz Ernst Neumann** (1798) — German physicist and mineralogist (1798–1895)
+**Maya Angelou** (1928) — American poet, memoirist, and civil rights activist.
 
-[Source](https://en.wikipedia.org/wiki/Franz_Ernst_Neumann)
+[Source](https://en.wikipedia.org/wiki/Maya_Angelou)
 
 ### Pop Culture
-Atari, Inc. releases the Video Computer System (VCS), later renamed the Atari 2600 in 1982.
+Super Mario Bros. was released in Japan for the Nintendo Entertainment System in 1985.
 
-[Source](https://en.wikipedia.org/wiki/Atari%2C_Inc.)
+[Source](https://en.wikipedia.org/wiki/Super_Mario_Bros.)
 
 ### Miscellaneous
-**art:** The Louvre began as a medieval fortress before becoming a museum.
+**geography:** Africa is the only continent that extends into all four hemispheres.
 
 <!-- DAILY_CONTENT_END -->
