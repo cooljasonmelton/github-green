@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-13",
+  "generatedAt": "2026-09-13T05:35:41.051Z",
+  "sections": {
+    "word": {
+      "status": "local"
+    },
+    "quote": {
+      "status": "local"
+    },
+    "history": {
+      "status": "live"
+    },
+    "birthday": {
+      "status": "live"
+    },
+    "photo": {
+      "status": "live"
+    },
+    "culture": {
+      "status": "live"
+    },
+    "miscellaneous": {
+      "status": "local"
+    }
+  }
+}
