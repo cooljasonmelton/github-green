@@ -37,41 +37,39 @@ The delivery order, including the planned content-health alerting task, is in
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-09-13
+## Today — 2001-09-11
 
 ### Photo
-![Breil-Brigels. Lag da Breil. Reservoir with low water level.](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Breil-Brigels._%28actm%29_02.jpg/960px-Breil-Brigels._%28actm%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Breil-Brigels. Lag da Breil. Reservoir with low water level.* — Agnes Monkelbaan. [Source](https://commons.wikimedia.org/wiki/File:Breil-Brigels._(actm)_02.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Unavailable today.
 
 ### Word
-**serendipity** — *noun*
+**resilient** — *adjective*
 
-The occurrence of a fortunate discovery by chance.
+Able to recover quickly from difficulty or change.
 
-Finding the note in the old book was pure serendipity.
+The resilient process continued after one input failed.
 
 ### Quote
-> Hope is the thing with feathers.
+> There is no charm equal to tenderness of heart.
 
-— Emily Dickinson, *"Hope" is the thing with feathers*
+— Jane Austen, *Emma*
 
 ### On This Day
-An appeals court orders the University of Mississippi to admit James Meredith, the first African-American student admitted to the segregated university.
+The first race at the Milwaukee Mile in West Allis, Wisconsin is held. It is the oldest major speedway in the world.
 
-[Source](https://en.wikipedia.org/wiki/James_Meredith)
+[Source](https://en.wikipedia.org/wiki/Milwaukee_Mile)
 
 ### Born Today
-**Ray Charles (conductor)** (1918) — American musician, conductor and arranger (1918–2015)
+**Franz Ernst Neumann** (1798) — German physicist and mineralogist (1798–1895)
 
-[Source](https://en.wikipedia.org/wiki/Ray_Charles_(conductor))
+[Source](https://en.wikipedia.org/wiki/Franz_Ernst_Neumann)
 
 ### Pop Culture
-Super Mario Bros. is released in Japan for the NES, which starts the Super Mario series of platforming games.
+Atari, Inc. releases the Video Computer System (VCS), later renamed the Atari 2600 in 1982.
 
-[Source](https://en.wikipedia.org/wiki/Super_Mario_Bros.)
+[Source](https://en.wikipedia.org/wiki/Atari%2C_Inc.)
 
 ### Miscellaneous
-**geography:** Africa is the only continent that extends into all four hemispheres.
+**art:** The Louvre began as a medieval fortress before becoming a museum.
 
 <!-- DAILY_CONTENT_END -->
