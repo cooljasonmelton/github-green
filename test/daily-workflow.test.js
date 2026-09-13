@@ -11,6 +11,8 @@ test('defines a Chicago-aware daily workflow with fallback generation and an emp
   assert.match(workflow, /cron: '17 7 \* \* \*'/);
   assert.match(workflow, /timezone: 'America\/Chicago'/);
   assert.match(workflow, /contents: write/);
+  assert.match(workflow, /actions\/setup-node@v5/);
+  assert.doesNotMatch(workflow, /actions\/setup-node@v4/);
   assert.match(workflow, /npm run generate --/);
   assert.match(workflow, /npm run generate:emergency --/);
   assert.match(workflow, /git commit --allow-empty -m "daily: \$DATE"/);
