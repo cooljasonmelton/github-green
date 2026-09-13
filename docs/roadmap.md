@@ -17,6 +17,9 @@ before beginning the next one.
    appropriate, and an emergency heartbeat updater.
 7. **GitHub Actions workflow** — scheduled, Chicago-date-aware daily commit
    workflow with manual dispatch and a resilient push path.
+7a. **Fallback-photo rendering fix** — render valid attributed photos supplied
+    by the `fallback` or `previous` reliability paths, not only `live` photos;
+    add a regression test using the 2001-09-11 failure shape.
 7b. **Content health alerts** — alert on persistent provider outages without
    risking the daily commit path.
 8. **Pinned-repository README review** — concise, candid landing-page copy and

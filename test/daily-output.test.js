@@ -4,7 +4,7 @@ import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import test from 'node:test';
 
-import { writeDailyOutput } from '../src/daily-output.js';
+import { renderDailySection, writeDailyOutput } from '../src/daily-output.js';
 
 const entry = {
   date: '2026-09-12',
@@ -56,4 +56,16 @@ test('records malformed README markers without rewriting the README', async (t) 
   assert.deepEqual(output.problems, [{ code: 'README_MARKERS_INVALID' }]);
   assert.equal(await readFile(readmePath, 'utf8'), '# Intro only\n');
   assert.deepEqual(JSON.parse(await readFile(join(rootDirectory, 'data', 'last-run.json'), 'utf8')).problems, [{ code: 'README_MARKERS_INVALID' }]);
+});
+
+test('renders a valid fallback or previous photo instead of an unavailable placeholder', () => {
+  for (const status of ['fallback', 'previous']) {
+    const section = renderDailySection({
+      ...entry,
+      photo: { ...entry.photo, status },
+    });
+
+    assert.match(section, /!\[Example photo\]\(https:\/\/example\.com\/photo\.jpg\)/);
+    assert.doesNotMatch(section, /### Photo\nUnavailable today\./);
+  }
 });

@@ -18,7 +18,7 @@ function unavailable() {
 }
 
 function renderPhoto(photo) {
-  if (photo?.status !== 'live' || !isUrl(photo.imageUrl)) return unavailable();
+  if (!['live', 'fallback', 'previous'].includes(photo?.status) || !isUrl(photo.imageUrl)) return unavailable();
   return `![${photo.caption}](${photo.imageUrl})\n\n*${photo.caption}* — ${photo.creator}. ${link('Source', photo.sourceUrl)} · ${link(photo.license, photo.licenseUrl)}`;
 }
 
