@@ -1,4 +1,5 @@
 import { createDailyEntry } from './daily-entry.js';
+import { generateOfflineSections } from './offline-content.js';
 
 function dateInChicago(now) {
   const parts = new Intl.DateTimeFormat('en-US', {
@@ -16,6 +17,9 @@ function dateInChicago(now) {
   return `${values.year}-${values.month}-${values.day}`;
 }
 
-export async function generateDailyEntry({ date, now = new Date() } = {}) {
-  return createDailyEntry(date ?? dateInChicago(now));
+export async function generateDailyEntry({ date, now = new Date(), dataDirectory } = {}) {
+  const entryDate = date ?? dateInChicago(now);
+  const offlineSections = await generateOfflineSections(entryDate, { dataDirectory });
+
+  return createDailyEntry(entryDate, offlineSections);
 }

@@ -25,18 +25,16 @@ function isCalendarDate(value) {
   return !Number.isNaN(date.valueOf()) && date.toISOString().startsWith(value);
 }
 
-export function createDailyEntry(date) {
+export function createDailyEntry(date, sections = {}) {
   if (!isCalendarDate(date)) {
     throw new TypeError('date must be a valid YYYY-MM-DD calendar date');
   }
 
   return {
     date,
-    ...Object.fromEntries(
-      SECTION_NAMES.map((name) => [
-        name,
-        { status: SECTION_STATUSES.UNAVAILABLE },
-      ]),
-    ),
+    ...Object.fromEntries(SECTION_NAMES.map((name) => [
+      name,
+      { status: SECTION_STATUSES.UNAVAILABLE, ...sections[name] },
+    ])),
   };
 }

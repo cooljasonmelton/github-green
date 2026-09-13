@@ -1,0 +1,44 @@
+[
+  {
+    "word": "lucid",
+    "partOfSpeech": "adjective",
+    "definition": "Expressed clearly and easy to understand.",
+    "example": "Her lucid explanation made the new process less intimidating."
+  },
+  {
+    "word": "tenacious",
+    "partOfSpeech": "adjective",
+    "definition": "Tending to keep a firm hold of something; persistent.",
+    "example": "The tenacious researcher checked each source twice."
+  },
+  {
+    "word": "pragmatic",
+    "partOfSpeech": "adjective",
+    "definition": "Dealing with problems in a practical way.",
+    "example": "A pragmatic plan focused on the smallest useful next step."
+  },
+  {
+    "word": "serendipity",
+    "partOfSpeech": "noun",
+    "definition": "The occurrence of a fortunate discovery by chance.",
+    "example": "Finding the note in the old book was pure serendipity."
+  },
+  {
+    "word": "meticulous",
+    "partOfSpeech": "adjective",
+    "definition": "Showing great attention to detail.",
+    "example": "The meticulous inventory made the handoff straightforward."
+  },
+  {
+    "word": "resilient",
+    "partOfSpeech": "adjective",
+    "definition": "Able to recover quickly from difficulty or change.",
+    "example": "The resilient process continued after one input failed."
+  },
+  {
+    "word": "curious",
+    "partOfSpeech": "adjective",
+    "definition": "Eager to know or learn something.",
+    "example": "A curious question often reveals the useful edge case."
+  }
+]

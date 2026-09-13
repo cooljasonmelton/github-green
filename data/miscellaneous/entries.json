@@ -1,0 +1,30 @@
+[
+  {
+    "category": "space",
+    "fact": "A day on Venus lasts longer than a Venusian year."
+  },
+  {
+    "category": "animals",
+    "fact": "Octopuses have three hearts."
+  },
+  {
+    "category": "science",
+    "fact": "Light from the Sun reaches Earth in about eight minutes and twenty seconds."
+  },
+  {
+    "category": "geography",
+    "fact": "Africa is the only continent that extends into all four hemispheres."
+  },
+  {
+    "category": "technology",
+    "fact": "The first computer bug was a moth found in a relay of the Harvard Mark II."
+  },
+  {
+    "category": "art",
+    "fact": "The Louvre began as a medieval fortress before becoming a museum."
+  },
+  {
+    "category": "literature",
+    "fact": "The Gutenberg Bible was printed in Mainz around 1455."
+  }
+]
