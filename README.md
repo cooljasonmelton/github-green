@@ -7,10 +7,13 @@ A scheduled GitHub Action updates the README with unrelated daily items. This co
 The update can use fallback data, skip a section, or reuse a safe previous
 value when a source is unavailable.
 
+My current employer uses Bitbucket so even though I'm out here coding my ass off, I no longer have a gloriously green contribution chart. This project's purpose is to hack the contribution chart so I get at least one daily commit and keep it green.
+
 ## Daily automation
 
-The workflow runs at 7:17 AM in `America/Chicago` and can also be run manually
-from the Actions tab. It needs repository variables `COMMIT_NAME` and
+The workflow aims to run at 7:17 AM in `America/Chicago` and can also be run
+manually from the Actions tab. GitHub can delay or skip scheduled runs, so that
+time is not guaranteed. It needs repository variables `COMMIT_NAME` and
 `COMMIT_EMAIL`; the email must be associated with the owner's GitHub account.
 
 The workflow retries a rejected push once after rebasing. It cannot guarantee a
