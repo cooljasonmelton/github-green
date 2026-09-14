@@ -32,7 +32,7 @@ The delivery order is in [docs/roadmap.md](docs/roadmap.md).
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-09-13
+## Today — 2026-09-14
 
 ### Photo
 ![Breil-Brigels. Lag da Breil. Reservoir with low water level.](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Breil-Brigels._%28actm%29_02.jpg/960px-Breil-Brigels._%28actm%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
@@ -40,33 +40,33 @@ The delivery order is in [docs/roadmap.md](docs/roadmap.md).
 *Breil-Brigels. Lag da Breil. Reservoir with low water level.* — Agnes Monkelbaan. [Source](https://commons.wikimedia.org/wiki/File:Breil-Brigels._(actm)_02.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**serendipity** — *noun*
+**meticulous** — *adjective*
 
-The occurrence of a fortunate discovery by chance.
+Showing great attention to detail.
 
-Finding the note in the old book was pure serendipity.
+The meticulous inventory made the handoff straightforward.
 
 ### Quote
-> Hope is the thing with feathers.
+> Not all those who wander are lost.
 
-— Emily Dickinson, *"Hope" is the thing with feathers*
+— J. R. R. Tolkien, *The Fellowship of the Ring*
 
 ### On This Day
-An appeals court orders the University of Mississippi to admit James Meredith, the first African-American student admitted to the segregated university.
+The first recorded instance of the Catholic practice of perpetual Eucharistic adoration formally begins in Avignon, France.
 
-[Source](https://en.wikipedia.org/wiki/James_Meredith)
+[Source](https://en.wikipedia.org/wiki/Catholic_Church)
 
 ### Born Today
-**Ray Charles (conductor)** (1918) — American musician, conductor and arranger (1918–2015)
+**Kjell Gjerseth** (1946) — Norwegian novelist and journalist (1946–2025)
 
-[Source](https://en.wikipedia.org/wiki/Ray_Charles_(conductor))
+[Source](https://en.wikipedia.org/wiki/Kjell_Gjerseth)
 
 ### Pop Culture
-Super Mario Bros. is released in Japan for the NES, which starts the Super Mario series of platforming games.
+Napoleonic Wars: The French Grande Armée enters Moscow. The Fire of Moscow begins as soon as Russian troops leave the city.
 
-[Source](https://en.wikipedia.org/wiki/Super_Mario_Bros.)
+[Source](https://en.wikipedia.org/wiki/Napoleonic_Wars)
 
 ### Miscellaneous
-**geography:** Africa is the only continent that extends into all four hemispheres.
+**technology:** The first computer bug was a moth found in a relay of the Harvard Mark II.
 
 <!-- DAILY_CONTENT_END -->

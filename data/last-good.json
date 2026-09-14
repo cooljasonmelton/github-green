@@ -2,18 +2,18 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1962,
-      "text": "An appeals court orders the University of Mississippi to admit James Meredith, the first African-American student admitted to the segregated university.",
-      "title": "James Meredith",
-      "description": "American civil rights activist (born 1933)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/James_Meredith"
+      "year": 1226,
+      "text": "The first recorded instance of the Catholic practice of perpetual Eucharistic adoration formally begins in Avignon, France.",
+      "title": "Catholic Church",
+      "description": "Christian church based in Rome",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Catholic_Church"
     },
     "birthday": {
       "status": "live",
-      "name": "Ray Charles (conductor)",
-      "birthYear": 1918,
-      "knownFor": "American musician, conductor and arranger (1918–2015)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Ray_Charles_(conductor)"
+      "name": "Kjell Gjerseth",
+      "birthYear": 1946,
+      "knownFor": "Norwegian novelist and journalist (1946–2025)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kjell_Gjerseth"
     },
     "photo": {
       "status": "live",
@@ -28,11 +28,11 @@
     },
     "culture": {
       "status": "live",
-      "year": 1985,
-      "text": "Super Mario Bros. is released in Japan for the NES, which starts the Super Mario series of platforming games.",
-      "title": "Super Mario Bros.",
-      "description": "1985 video game",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Super_Mario_Bros."
+      "year": 1812,
+      "text": "Napoleonic Wars: The French Grande Armée enters Moscow. The Fire of Moscow begins as soon as Russian troops leave the city.",
+      "title": "Napoleonic Wars",
+      "description": "1803–1815 series of wars led by Napoleon",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Napoleonic_Wars"
     }
   }
 }
