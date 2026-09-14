@@ -9,16 +9,16 @@
       "status": "local"
     },
     "history": {
-      "status": "fallback"
+      "status": "live"
     },
     "birthday": {
-      "status": "fallback"
+      "status": "live"
     },
     "photo": {
-      "status": "fallback"
+      "status": "live"
     },
     "culture": {
-      "status": "fallback"
+      "status": "live"
     },
     "miscellaneous": {
       "status": "local"

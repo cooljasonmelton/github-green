@@ -52,17 +52,17 @@ Finding the note in the old book was pure serendipity.
 — Emily Dickinson, *"Hope" is the thing with feathers*
 
 ### On This Day
-Apollo 11 splashed down in the Pacific Ocean in 1969, ending the first crewed lunar landing mission.
+An appeals court orders the University of Mississippi to admit James Meredith, the first African-American student admitted to the segregated university.
 
-[Source](https://en.wikipedia.org/wiki/Apollo_11)
+[Source](https://en.wikipedia.org/wiki/James_Meredith)
 
 ### Born Today
-**Maya Angelou** (1928) — American poet, memoirist, and civil rights activist.
+**Ray Charles (conductor)** (1918) — American musician, conductor and arranger (1918–2015)
 
-[Source](https://en.wikipedia.org/wiki/Maya_Angelou)
+[Source](https://en.wikipedia.org/wiki/Ray_Charles_(conductor))
 
 ### Pop Culture
-Super Mario Bros. was released in Japan for the Nintendo Entertainment System in 1985.
+Super Mario Bros. is released in Japan for the NES, which starts the Super Mario series of platforming games.
 
 [Source](https://en.wikipedia.org/wiki/Super_Mario_Bros.)
 
