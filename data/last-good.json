@@ -2,29 +2,29 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1226,
-      "text": "The first recorded instance of the Catholic practice of perpetual Eucharistic adoration formally begins in Avignon, France.",
-      "title": "Catholic Church",
-      "description": "Christian church based in Rome",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Catholic_Church"
+      "year": 1963,
+      "text": "Baptist Church bombing: Four children are killed in the bombing of an African-American church in Birmingham, Alabama, United States.",
+      "title": "16th Street Baptist Church bombing",
+      "description": "1963 terrorist attack in Birmingham, Alabama",
+      "sourceUrl": "https://en.wikipedia.org/wiki/16th_Street_Baptist_Church_bombing"
     },
     "birthday": {
       "status": "live",
-      "name": "Kjell Gjerseth",
-      "birthYear": 1946,
-      "knownFor": "Norwegian novelist and journalist (1946–2025)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Kjell_Gjerseth"
+      "name": "Alexander Butlerov",
+      "birthYear": 1828,
+      "knownFor": "Russian chemist (1828–1886)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Alexander_Butlerov"
     },
     "photo": {
       "status": "live",
-      "title": "File:Breil-Brigels. (actm) 02.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Breil-Brigels._%28actm%29_02.jpg/960px-Breil-Brigels._%28actm%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "Breil-Brigels. Lag da Breil. Reservoir with low water level.",
-      "creator": "Agnes Monkelbaan",
-      "credit": "Own work",
+      "title": "File:Iglesia del colegio de los Jesuitas, Ponta Delgada, isla de San Miguel, Azores, Portugal, 2020-07-30, DD 09-11 HDR.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Iglesia_del_colegio_de_los_Jesuitas%2C_Ponta_Delgada%2C_isla_de_San_Miguel%2C_Azores%2C_Portugal%2C_2020-07-30%2C_DD_09-11_HDR.jpg/960px-Iglesia_del_colegio_de_los_Jesuitas%2C_Ponta_Delgada%2C_isla_de_San_Miguel%2C_Azores%2C_Portugal%2C_2020-07-30%2C_DD_09-11_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Church of the Jesuit College, Ponta Delgada, São Miguel Island, Azores, Portugal",
+      "creator": "Diego Delso",
+      "credit": "Self-photographed",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Breil-Brigels._(actm)_02.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iglesia_del_colegio_de_los_Jesuitas,_Ponta_Delgada,_isla_de_San_Miguel,_Azores,_Portugal,_2020-07-30,_DD_09-11_HDR.jpg"
     },
     "culture": {
       "status": "live",
