@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1963,
-      "text": "Baptist Church bombing: Four children are killed in the bombing of an African-American church in Birmingham, Alabama, United States.",
-      "title": "16th Street Baptist Church bombing",
-      "description": "1963 terrorist attack in Birmingham, Alabama",
-      "sourceUrl": "https://en.wikipedia.org/wiki/16th_Street_Baptist_Church_bombing"
+      "year": 1961,
+      "text": "Pakistan establishes its Space and Upper Atmosphere Research Commission with Abdus Salam as its head.",
+      "title": "SUPARCO",
+      "description": "National Space Agency of Pakistan",
+      "sourceUrl": "https://en.wikipedia.org/wiki/SUPARCO"
     },
     "birthday": {
       "status": "live",
-      "name": "Alexander Butlerov",
-      "birthYear": 1828,
-      "knownFor": "Russian chemist (1828–1886)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Alexander_Butlerov"
+      "name": "Jules Bass",
+      "birthYear": 1935,
+      "knownFor": "American director, producer and composer (1935–2022)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jules_Bass"
     },
     "photo": {
       "status": "live",
-      "title": "File:Iglesia del colegio de los Jesuitas, Ponta Delgada, isla de San Miguel, Azores, Portugal, 2020-07-30, DD 09-11 HDR.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Iglesia_del_colegio_de_los_Jesuitas%2C_Ponta_Delgada%2C_isla_de_San_Miguel%2C_Azores%2C_Portugal%2C_2020-07-30%2C_DD_09-11_HDR.jpg/960px-Iglesia_del_colegio_de_los_Jesuitas%2C_Ponta_Delgada%2C_isla_de_San_Miguel%2C_Azores%2C_Portugal%2C_2020-07-30%2C_DD_09-11_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "Church of the Jesuit College, Ponta Delgada, São Miguel Island, Azores, Portugal",
-      "creator": "Diego Delso",
-      "credit": "Self-photographed",
+      "title": "File:Eurasian coot (Fulica atra) with chicks.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Eurasian_coot_%28Fulica_atra%29_with_chicks.jpg/960px-Eurasian_coot_%28Fulica_atra%29_with_chicks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Eurasian coot (Fulica atra) with chicks, Estanque de San Lázaro, Trujillo, Spain.",
+      "creator": "Charles J. Sharp",
+      "credit": "Own work, from Sharp Photography, sharpphotography.co.uk",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iglesia_del_colegio_de_los_Jesuitas,_Ponta_Delgada,_isla_de_San_Miguel,_Azores,_Portugal,_2020-07-30,_DD_09-11_HDR.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eurasian_coot_(Fulica_atra)_with_chicks.jpg"
     },
     "culture": {
       "status": "live",
-      "year": 1812,
-      "text": "Napoleonic Wars: The French Grande Armée enters Moscow. The Fire of Moscow begins as soon as Russian troops leave the city.",
-      "title": "Napoleonic Wars",
-      "description": "1803–1815 series of wars led by Napoleon",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Napoleonic_Wars"
+      "year": 1979,
+      "text": "The Sugarhill Gang released their first single, Rapper's Delight.",
+      "title": "The Sugarhill Gang",
+      "description": "American old-school hip-hop group",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Sugarhill_Gang"
     }
   }
 }

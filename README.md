@@ -32,41 +32,41 @@ The delivery order is in [docs/roadmap.md](docs/roadmap.md).
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-09-15
+## Today — 2026-09-16
 
 ### Photo
-![Church of the Jesuit College, Ponta Delgada, São Miguel Island, Azores, Portugal](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Iglesia_del_colegio_de_los_Jesuitas%2C_Ponta_Delgada%2C_isla_de_San_Miguel%2C_Azores%2C_Portugal%2C_2020-07-30%2C_DD_09-11_HDR.jpg/960px-Iglesia_del_colegio_de_los_Jesuitas%2C_Ponta_Delgada%2C_isla_de_San_Miguel%2C_Azores%2C_Portugal%2C_2020-07-30%2C_DD_09-11_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Eurasian coot (Fulica atra) with chicks, Estanque de San Lázaro, Trujillo, Spain.](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Eurasian_coot_%28Fulica_atra%29_with_chicks.jpg/960px-Eurasian_coot_%28Fulica_atra%29_with_chicks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Church of the Jesuit College, Ponta Delgada, São Miguel Island, Azores, Portugal* — Diego Delso. [Source](https://commons.wikimedia.org/wiki/File:Iglesia_del_colegio_de_los_Jesuitas,_Ponta_Delgada,_isla_de_San_Miguel,_Azores,_Portugal,_2020-07-30,_DD_09-11_HDR.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Eurasian coot (Fulica atra) with chicks, Estanque de San Lázaro, Trujillo, Spain.* — Charles J. Sharp. [Source](https://commons.wikimedia.org/wiki/File:Eurasian_coot_(Fulica_atra)_with_chicks.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**resilient** — *adjective*
+**curious** — *adjective*
 
-Able to recover quickly from difficulty or change.
+Eager to know or learn something.
 
-The resilient process continued after one input failed.
+A curious question often reveals the useful edge case.
 
 ### Quote
-> There is no charm equal to tenderness of heart.
+> All that we see or seem is but a dream within a dream.
 
-— Jane Austen, *Emma*
+— Edgar Allan Poe, *A Dream Within a Dream*
 
 ### On This Day
-Baptist Church bombing: Four children are killed in the bombing of an African-American church in Birmingham, Alabama, United States.
+Pakistan establishes its Space and Upper Atmosphere Research Commission with Abdus Salam as its head.
 
-[Source](https://en.wikipedia.org/wiki/16th_Street_Baptist_Church_bombing)
+[Source](https://en.wikipedia.org/wiki/SUPARCO)
 
 ### Born Today
-**Alexander Butlerov** (1828) — Russian chemist (1828–1886)
+**Jules Bass** (1935) — American director, producer and composer (1935–2022)
 
-[Source](https://en.wikipedia.org/wiki/Alexander_Butlerov)
+[Source](https://en.wikipedia.org/wiki/Jules_Bass)
 
 ### Pop Culture
-Super Mario Bros. was released in Japan for the Nintendo Entertainment System in 1985.
+The Sugarhill Gang released their first single, Rapper's Delight.
 
-[Source](https://en.wikipedia.org/wiki/Super_Mario_Bros.)
+[Source](https://en.wikipedia.org/wiki/The_Sugarhill_Gang)
 
 ### Miscellaneous
-**art:** The Louvre began as a medieval fortress before becoming a museum.
+**literature:** The Gutenberg Bible was printed in Mainz around 1455.
 
 <!-- DAILY_CONTENT_END -->
