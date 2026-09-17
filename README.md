@@ -32,41 +32,41 @@ The delivery order is in [docs/roadmap.md](docs/roadmap.md).
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-09-16
+## Today — 2026-09-17
 
 ### Photo
-![Eurasian coot (Fulica atra) with chicks, Estanque de San Lázaro, Trujillo, Spain.](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Eurasian_coot_%28Fulica_atra%29_with_chicks.jpg/960px-Eurasian_coot_%28Fulica_atra%29_with_chicks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Breil-Brigels. Lag da Breil. Reservoir with low water level.](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Breil-Brigels._%28actm%29_02.jpg/960px-Breil-Brigels._%28actm%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Eurasian coot (Fulica atra) with chicks, Estanque de San Lázaro, Trujillo, Spain.* — Charles J. Sharp. [Source](https://commons.wikimedia.org/wiki/File:Eurasian_coot_(Fulica_atra)_with_chicks.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Breil-Brigels. Lag da Breil. Reservoir with low water level.* — Agnes Monkelbaan. [Source](https://commons.wikimedia.org/wiki/File:Breil-Brigels._(actm)_02.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**curious** — *adjective*
+**lucid** — *adjective*
 
-Eager to know or learn something.
+Expressed clearly and easy to understand.
 
-A curious question often reveals the useful edge case.
+Her lucid explanation made the new process less intimidating.
 
 ### Quote
-> All that we see or seem is but a dream within a dream.
+> The unexamined life is not worth living.
 
-— Edgar Allan Poe, *A Dream Within a Dream*
+— Socrates, *Plato, Apology*
 
 ### On This Day
-Pakistan establishes its Space and Upper Atmosphere Research Commission with Abdus Salam as its head.
+The Treaty of Bergerac is signed between King Henry III of France and the Huguenots.
 
-[Source](https://en.wikipedia.org/wiki/SUPARCO)
+[Source](https://en.wikipedia.org/wiki/Treaty_of_Bergerac)
 
 ### Born Today
-**Jules Bass** (1935) — American director, producer and composer (1935–2022)
+**Ralph Sharon** (1923) — British-American jazz pianist (1923–2015)
 
-[Source](https://en.wikipedia.org/wiki/Jules_Bass)
+[Source](https://en.wikipedia.org/wiki/Ralph_Sharon)
 
 ### Pop Culture
-The Sugarhill Gang released their first single, Rapper's Delight.
+The first version of the Linux kernel (0.01) is released to the Internet.
 
-[Source](https://en.wikipedia.org/wiki/The_Sugarhill_Gang)
+[Source](https://en.wikipedia.org/wiki/Linux)
 
 ### Miscellaneous
-**literature:** The Gutenberg Bible was printed in Mainz around 1455.
+**space:** A day on Venus lasts longer than a Venusian year.
 
 <!-- DAILY_CONTENT_END -->

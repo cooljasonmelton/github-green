@@ -2,18 +2,18 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1961,
-      "text": "Pakistan establishes its Space and Upper Atmosphere Research Commission with Abdus Salam as its head.",
-      "title": "SUPARCO",
-      "description": "National Space Agency of Pakistan",
-      "sourceUrl": "https://en.wikipedia.org/wiki/SUPARCO"
+      "year": 1577,
+      "text": "The Treaty of Bergerac is signed between King Henry III of France and the Huguenots.",
+      "title": "Treaty of Bergerac",
+      "description": "1577 treaty between France and the Huguenots",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Treaty_of_Bergerac"
     },
     "birthday": {
       "status": "live",
-      "name": "Jules Bass",
-      "birthYear": 1935,
-      "knownFor": "American director, producer and composer (1935–2022)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Jules_Bass"
+      "name": "Ralph Sharon",
+      "birthYear": 1923,
+      "knownFor": "British-American jazz pianist (1923–2015)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ralph_Sharon"
     },
     "photo": {
       "status": "live",
@@ -28,11 +28,11 @@
     },
     "culture": {
       "status": "live",
-      "year": 1979,
-      "text": "The Sugarhill Gang released their first single, Rapper's Delight.",
-      "title": "The Sugarhill Gang",
-      "description": "American old-school hip-hop group",
-      "sourceUrl": "https://en.wikipedia.org/wiki/The_Sugarhill_Gang"
+      "year": 1991,
+      "text": "The first version of the Linux kernel (0.01) is released to the Internet.",
+      "title": "Linux",
+      "description": "Family of Unix-like operating systems that use the Linux kernel",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Linux"
     }
   }
 }
