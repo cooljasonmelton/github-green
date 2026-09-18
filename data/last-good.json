@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1577,
-      "text": "The Treaty of Bergerac is signed between King Henry III of France and the Huguenots.",
-      "title": "Treaty of Bergerac",
-      "description": "1577 treaty between France and the Huguenots",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Treaty_of_Bergerac"
+      "year": 1956,
+      "text": "The New York Yankees win their 22nd American League pennant against the Chicago White Sox; during the game, Mickey Mantle hits his 50th home run of the season.",
+      "title": "New York Yankees",
+      "description": "Major League Baseball franchise",
+      "sourceUrl": "https://en.wikipedia.org/wiki/New_York_Yankees"
     },
     "birthday": {
       "status": "live",
-      "name": "Ralph Sharon",
-      "birthYear": 1923,
-      "knownFor": "British-American jazz pianist (1923–2015)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Ralph_Sharon"
+      "name": "Joseph F. Enright",
+      "birthYear": 1910,
+      "knownFor": "United States Navy officer",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Joseph_F._Enright"
     },
     "photo": {
       "status": "live",
-      "title": "File:Eurasian coot (Fulica atra) with chicks.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Eurasian_coot_%28Fulica_atra%29_with_chicks.jpg/960px-Eurasian_coot_%28Fulica_atra%29_with_chicks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "Eurasian coot (Fulica atra) with chicks, Estanque de San Lázaro, Trujillo, Spain.",
-      "creator": "Charles J. Sharp",
-      "credit": "Own work, from Sharp Photography, sharpphotography.co.uk",
+      "title": "File:Norderney, Promenade, Wegbeleuchtung -- 2025 -- 9015.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Norderney%2C_Promenade%2C_Wegbeleuchtung_--_2025_--_9015.jpg/960px-Norderney%2C_Promenade%2C_Wegbeleuchtung_--_2025_--_9015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Street lights on the promenade, Norderney, Lower Saxony, Germany",
+      "creator": "Dietmar Rabich",
+      "credit": "Own work",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eurasian_coot_(Fulica_atra)_with_chicks.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Norderney,_Promenade,_Wegbeleuchtung_--_2025_--_9015.jpg"
     },
     "culture": {
       "status": "live",
-      "year": 1991,
-      "text": "The first version of the Linux kernel (0.01) is released to the Internet.",
-      "title": "Linux",
-      "description": "Family of Unix-like operating systems that use the Linux kernel",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Linux"
+      "year": 1965,
+      "text": "Mel Brooks and Buck Henry's spy-comedy series Get Smart premieres on NBC Television.",
+      "title": "Mel Brooks",
+      "description": "American filmmaker, actor and comedian (born 1926)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mel_Brooks"
     }
   }
 }

@@ -32,41 +32,41 @@ The delivery order is in [docs/roadmap.md](docs/roadmap.md).
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-09-17
+## Today — 2026-09-18
 
 ### Photo
-![Breil-Brigels. Lag da Breil. Reservoir with low water level.](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Breil-Brigels._%28actm%29_02.jpg/960px-Breil-Brigels._%28actm%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Street lights on the promenade, Norderney, Lower Saxony, Germany](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Norderney%2C_Promenade%2C_Wegbeleuchtung_--_2025_--_9015.jpg/960px-Norderney%2C_Promenade%2C_Wegbeleuchtung_--_2025_--_9015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Breil-Brigels. Lag da Breil. Reservoir with low water level.* — Agnes Monkelbaan. [Source](https://commons.wikimedia.org/wiki/File:Breil-Brigels._(actm)_02.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Street lights on the promenade, Norderney, Lower Saxony, Germany* — Dietmar Rabich. [Source](https://commons.wikimedia.org/wiki/File:Norderney,_Promenade,_Wegbeleuchtung_--_2025_--_9015.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**lucid** — *adjective*
+**tenacious** — *adjective*
 
-Expressed clearly and easy to understand.
+Tending to keep a firm hold of something; persistent.
 
-Her lucid explanation made the new process less intimidating.
+The tenacious researcher checked each source twice.
 
 ### Quote
-> The unexamined life is not worth living.
+> To thine own self be true.
 
-— Socrates, *Plato, Apology*
+— William Shakespeare, *Hamlet, Act 1, Scene 3*
 
 ### On This Day
-The Treaty of Bergerac is signed between King Henry III of France and the Huguenots.
+The New York Yankees win their 22nd American League pennant against the Chicago White Sox; during the game, Mickey Mantle hits his 50th home run of the season.
 
-[Source](https://en.wikipedia.org/wiki/Treaty_of_Bergerac)
+[Source](https://en.wikipedia.org/wiki/New_York_Yankees)
 
 ### Born Today
-**Ralph Sharon** (1923) — British-American jazz pianist (1923–2015)
+**Joseph F. Enright** (1910) — United States Navy officer
 
-[Source](https://en.wikipedia.org/wiki/Ralph_Sharon)
+[Source](https://en.wikipedia.org/wiki/Joseph_F._Enright)
 
 ### Pop Culture
-The first version of the Linux kernel (0.01) is released to the Internet.
+Mel Brooks and Buck Henry's spy-comedy series Get Smart premieres on NBC Television.
 
-[Source](https://en.wikipedia.org/wiki/Linux)
+[Source](https://en.wikipedia.org/wiki/Mel_Brooks)
 
 ### Miscellaneous
-**space:** A day on Venus lasts longer than a Venusian year.
+**animals:** Octopuses have three hearts.
 
 <!-- DAILY_CONTENT_END -->
