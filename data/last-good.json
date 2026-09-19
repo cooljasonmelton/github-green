@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1956,
-      "text": "The New York Yankees win their 22nd American League pennant against the Chicago White Sox; during the game, Mickey Mantle hits his 50th home run of the season.",
-      "title": "New York Yankees",
-      "description": "Major League Baseball franchise",
-      "sourceUrl": "https://en.wikipedia.org/wiki/New_York_Yankees"
+      "year": 1983,
+      "text": "Saint Kitts and Nevis gains its independence.",
+      "title": "Saint Kitts and Nevis",
+      "description": "Country in the West Indies",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis"
     },
     "birthday": {
       "status": "live",
-      "name": "Joseph F. Enright",
-      "birthYear": 1910,
-      "knownFor": "United States Navy officer",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Joseph_F._Enright"
+      "name": "Joe Morgan",
+      "birthYear": 1943,
+      "knownFor": "American baseball player and analyst (1943–2020)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Joe_Morgan"
     },
     "photo": {
       "status": "live",
-      "title": "File:Norderney, Promenade, Wegbeleuchtung -- 2025 -- 9015.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Norderney%2C_Promenade%2C_Wegbeleuchtung_--_2025_--_9015.jpg/960px-Norderney%2C_Promenade%2C_Wegbeleuchtung_--_2025_--_9015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "Street lights on the promenade, Norderney, Lower Saxony, Germany",
-      "creator": "Dietmar Rabich",
+      "title": "File:Zitting Cisticola in Bhigwan August 2025 by Tisha Mukherjee 01.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Zitting_Cisticola_in_Bhigwan_August_2025_by_Tisha_Mukherjee_01.jpg/960px-Zitting_Cisticola_in_Bhigwan_August_2025_by_Tisha_Mukherjee_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "A fan-tailed warbler (Zitting cisticola) in Bhigwan, Maharashtra, India.",
+      "creator": "Tisha Mukherjee",
       "credit": "Own work",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Norderney,_Promenade,_Wegbeleuchtung_--_2025_--_9015.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zitting_Cisticola_in_Bhigwan_August_2025_by_Tisha_Mukherjee_01.jpg"
     },
     "culture": {
       "status": "live",
-      "year": 1965,
-      "text": "Mel Brooks and Buck Henry's spy-comedy series Get Smart premieres on NBC Television.",
-      "title": "Mel Brooks",
-      "description": "American filmmaker, actor and comedian (born 1926)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Mel_Brooks"
+      "year": 2016,
+      "text": "In the wake of a manhunt, the suspect in a series of bombings in New York and New Jersey is apprehended after a shootout with police.",
+      "title": "2016 New York and New Jersey bombings",
+      "description": "Bombing attack in the United States",
+      "sourceUrl": "https://en.wikipedia.org/wiki/2016_New_York_and_New_Jersey_bombings"
     }
   }
 }

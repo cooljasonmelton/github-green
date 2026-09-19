@@ -32,41 +32,41 @@ The delivery order is in [docs/roadmap.md](docs/roadmap.md).
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-09-18
+## Today — 2026-09-19
 
 ### Photo
-![Street lights on the promenade, Norderney, Lower Saxony, Germany](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Norderney%2C_Promenade%2C_Wegbeleuchtung_--_2025_--_9015.jpg/960px-Norderney%2C_Promenade%2C_Wegbeleuchtung_--_2025_--_9015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![A fan-tailed warbler (Zitting cisticola) in Bhigwan, Maharashtra, India.](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Zitting_Cisticola_in_Bhigwan_August_2025_by_Tisha_Mukherjee_01.jpg/960px-Zitting_Cisticola_in_Bhigwan_August_2025_by_Tisha_Mukherjee_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Street lights on the promenade, Norderney, Lower Saxony, Germany* — Dietmar Rabich. [Source](https://commons.wikimedia.org/wiki/File:Norderney,_Promenade,_Wegbeleuchtung_--_2025_--_9015.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*A fan-tailed warbler (Zitting cisticola) in Bhigwan, Maharashtra, India.* — Tisha Mukherjee. [Source](https://commons.wikimedia.org/wiki/File:Zitting_Cisticola_in_Bhigwan_August_2025_by_Tisha_Mukherjee_01.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**tenacious** — *adjective*
+**pragmatic** — *adjective*
 
-Tending to keep a firm hold of something; persistent.
+Dealing with problems in a practical way.
 
-The tenacious researcher checked each source twice.
+A pragmatic plan focused on the smallest useful next step.
 
 ### Quote
-> To thine own self be true.
+> I have measured out my life with coffee spoons.
 
-— William Shakespeare, *Hamlet, Act 1, Scene 3*
+— T. S. Eliot, *The Love Song of J. Alfred Prufrock*
 
 ### On This Day
-The New York Yankees win their 22nd American League pennant against the Chicago White Sox; during the game, Mickey Mantle hits his 50th home run of the season.
+Saint Kitts and Nevis gains its independence.
 
-[Source](https://en.wikipedia.org/wiki/New_York_Yankees)
+[Source](https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis)
 
 ### Born Today
-**Joseph F. Enright** (1910) — United States Navy officer
+**Joe Morgan** (1943) — American baseball player and analyst (1943–2020)
 
-[Source](https://en.wikipedia.org/wiki/Joseph_F._Enright)
+[Source](https://en.wikipedia.org/wiki/Joe_Morgan)
 
 ### Pop Culture
-Mel Brooks and Buck Henry's spy-comedy series Get Smart premieres on NBC Television.
+In the wake of a manhunt, the suspect in a series of bombings in New York and New Jersey is apprehended after a shootout with police.
 
-[Source](https://en.wikipedia.org/wiki/Mel_Brooks)
+[Source](https://en.wikipedia.org/wiki/2016_New_York_and_New_Jersey_bombings)
 
 ### Miscellaneous
-**animals:** Octopuses have three hearts.
+**science:** Light from the Sun reaches Earth in about eight minutes and twenty seconds.
 
 <!-- DAILY_CONTENT_END -->
