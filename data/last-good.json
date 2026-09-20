@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1983,
-      "text": "Saint Kitts and Nevis gains its independence.",
-      "title": "Saint Kitts and Nevis",
-      "description": "Country in the West Indies",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis"
+      "year": 1973,
+      "text": "Singer Jim Croce, songwriter and musician Maury Muehleisen and four others die when their light aircraft crashes shortly after takeoff from Natchitoches Regional Airport in Louisiana.",
+      "title": "Jim Croce",
+      "description": "American singer-songwriter (1943–1973)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jim_Croce"
     },
     "birthday": {
       "status": "live",
-      "name": "Joe Morgan",
-      "birthYear": 1943,
-      "knownFor": "American baseball player and analyst (1943–2020)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Joe_Morgan"
+      "name": "Malik Meraj Khalid",
+      "birthYear": 1915,
+      "knownFor": "Pakistani politician (1916–2003)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Malik_Meraj_Khalid"
     },
     "photo": {
       "status": "live",
-      "title": "File:Zitting Cisticola in Bhigwan August 2025 by Tisha Mukherjee 01.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Zitting_Cisticola_in_Bhigwan_August_2025_by_Tisha_Mukherjee_01.jpg/960px-Zitting_Cisticola_in_Bhigwan_August_2025_by_Tisha_Mukherjee_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "A fan-tailed warbler (Zitting cisticola) in Bhigwan, Maharashtra, India.",
-      "creator": "Tisha Mukherjee",
+      "title": "File:Bloeiwijze van een Rostrinucula dependens. 11-10-2025. (d.j.b).jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Bloeiwijze_van_een_Rostrinucula_dependens._11-10-2025._%28d.j.b%29.jpg/960px-Bloeiwijze_van_een_Rostrinucula_dependens._11-10-2025._%28d.j.b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Inflorescence of a Rostrinucula dependens. This subshrub is native to China and blooms from August to October. Focus stack of 54 photos.",
+      "creator": "Dominicus Johannes Bergsma.",
       "credit": "Own work",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zitting_Cisticola_in_Bhigwan_August_2025_by_Tisha_Mukherjee_01.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bloeiwijze_van_een_Rostrinucula_dependens._11-10-2025._(d.j.b).jpg"
     },
     "culture": {
       "status": "live",
-      "year": 2016,
-      "text": "In the wake of a manhunt, the suspect in a series of bombings in New York and New Jersey is apprehended after a shootout with police.",
-      "title": "2016 New York and New Jersey bombings",
-      "description": "Bombing attack in the United States",
-      "sourceUrl": "https://en.wikipedia.org/wiki/2016_New_York_and_New_Jersey_bombings"
+      "year": 1946,
+      "text": "The first Cannes Film Festival is held, having been delayed for seven years due to World War II.",
+      "title": "Cannes Film Festival",
+      "description": "Annual film festival in France",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cannes_Film_Festival"
     }
   }
 }
