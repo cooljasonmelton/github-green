@@ -32,41 +32,41 @@ The delivery order is in [docs/roadmap.md](docs/roadmap.md).
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-09-20
+## Today — 2026-09-21
 
 ### Photo
-![Inflorescence of a Rostrinucula dependens. This subshrub is native to China and blooms from August to October. Focus stack of 54 photos.](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Bloeiwijze_van_een_Rostrinucula_dependens._11-10-2025._%28d.j.b%29.jpg/960px-Bloeiwijze_van_een_Rostrinucula_dependens._11-10-2025._%28d.j.b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Breil-Brigels. Lag da Breil. Reservoir with low water level.](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Breil-Brigels._%28actm%29_02.jpg/960px-Breil-Brigels._%28actm%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Inflorescence of a Rostrinucula dependens. This subshrub is native to China and blooms from August to October. Focus stack of 54 photos.* — Dominicus Johannes Bergsma.. [Source](https://commons.wikimedia.org/wiki/File:Bloeiwijze_van_een_Rostrinucula_dependens._11-10-2025._(d.j.b).jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Breil-Brigels. Lag da Breil. Reservoir with low water level.* — Agnes Monkelbaan. [Source](https://commons.wikimedia.org/wiki/File:Breil-Brigels._(actm)_02.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**serendipity** — *noun*
+**meticulous** — *adjective*
 
-The occurrence of a fortunate discovery by chance.
+Showing great attention to detail.
 
-Finding the note in the old book was pure serendipity.
+The meticulous inventory made the handoff straightforward.
 
 ### Quote
-> Hope is the thing with feathers.
+> Not all those who wander are lost.
 
-— Emily Dickinson, *"Hope" is the thing with feathers*
+— J. R. R. Tolkien, *The Fellowship of the Ring*
 
 ### On This Day
-Singer Jim Croce, songwriter and musician Maury Muehleisen and four others die when their light aircraft crashes shortly after takeoff from Natchitoches Regional Airport in Louisiana.
+Malév Flight 203 crashes near Urziceni, killing 29 people.
 
-[Source](https://en.wikipedia.org/wiki/Jim_Croce)
+[Source](https://en.wikipedia.org/wiki/Mal%C3%A9v_Flight_203)
 
 ### Born Today
-**Malik Meraj Khalid** (1915) — Pakistani politician (1916–2003)
+**Dan Borislow** (1961) — American entrepreneur, sports team owner and thoroughbred horse breeder
 
-[Source](https://en.wikipedia.org/wiki/Malik_Meraj_Khalid)
+[Source](https://en.wikipedia.org/wiki/Dan_Borislow)
 
 ### Pop Culture
-The first Cannes Film Festival is held, having been delayed for seven years due to World War II.
+The first Monday Night Football game is between the Cleveland Browns and the New York Jets.
 
-[Source](https://en.wikipedia.org/wiki/Cannes_Film_Festival)
+[Source](https://en.wikipedia.org/wiki/Monday_Night_Football)
 
 ### Miscellaneous
-**geography:** Africa is the only continent that extends into all four hemispheres.
+**technology:** The first computer bug was a moth found in a relay of the Harvard Mark II.
 
 <!-- DAILY_CONTENT_END -->

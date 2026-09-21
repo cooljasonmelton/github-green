@@ -2,18 +2,18 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1973,
-      "text": "Singer Jim Croce, songwriter and musician Maury Muehleisen and four others die when their light aircraft crashes shortly after takeoff from Natchitoches Regional Airport in Louisiana.",
-      "title": "Jim Croce",
-      "description": "American singer-songwriter (1943–1973)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Jim_Croce"
+      "year": 1977,
+      "text": "Malév Flight 203 crashes near Urziceni, killing 29 people.",
+      "title": "Malév Flight 203",
+      "description": "1977 aviation accident in Romania",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mal%C3%A9v_Flight_203"
     },
     "birthday": {
       "status": "live",
-      "name": "Malik Meraj Khalid",
-      "birthYear": 1915,
-      "knownFor": "Pakistani politician (1916–2003)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Malik_Meraj_Khalid"
+      "name": "Dan Borislow",
+      "birthYear": 1961,
+      "knownFor": "American entrepreneur, sports team owner and thoroughbred horse breeder",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dan_Borislow"
     },
     "photo": {
       "status": "live",
@@ -28,11 +28,11 @@
     },
     "culture": {
       "status": "live",
-      "year": 1946,
-      "text": "The first Cannes Film Festival is held, having been delayed for seven years due to World War II.",
-      "title": "Cannes Film Festival",
-      "description": "Annual film festival in France",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Cannes_Film_Festival"
+      "year": 1970,
+      "text": "The first Monday Night Football game is between the Cleveland Browns and the New York Jets.",
+      "title": "Monday Night Football",
+      "description": "Live television broadcast of weekly National Football League (NFL) games",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Monday_Night_Football"
     }
   }
 }
