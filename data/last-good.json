@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1977,
-      "text": "Malév Flight 203 crashes near Urziceni, killing 29 people.",
-      "title": "Malév Flight 203",
-      "description": "1977 aviation accident in Romania",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Mal%C3%A9v_Flight_203"
+      "year": 1761,
+      "text": "George III and Charlotte of Mecklenburg-Strelitz are crowned King and Queen, respectively, of the Kingdom of Great Britain.",
+      "title": "George III",
+      "description": "King of Great Britain and Ireland from 1760 to 1820",
+      "sourceUrl": "https://en.wikipedia.org/wiki/George_III"
     },
     "birthday": {
       "status": "live",
-      "name": "Dan Borislow",
-      "birthYear": 1961,
-      "knownFor": "American entrepreneur, sports team owner and thoroughbred horse breeder",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Dan_Borislow"
+      "name": "Maurice Blanchot",
+      "birthYear": 1907,
+      "knownFor": "French writer (1907–2003)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Maurice_Blanchot"
     },
     "photo": {
       "status": "live",
-      "title": "File:Bloeiwijze van een Rostrinucula dependens. 11-10-2025. (d.j.b).jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Bloeiwijze_van_een_Rostrinucula_dependens._11-10-2025._%28d.j.b%29.jpg/960px-Bloeiwijze_van_een_Rostrinucula_dependens._11-10-2025._%28d.j.b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "Inflorescence of a Rostrinucula dependens. This subshrub is native to China and blooms from August to October. Focus stack of 54 photos.",
-      "creator": "Dominicus Johannes Bergsma.",
+      "title": "File:Beach of Cape Fiolent, Crimea.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Beach_of_Cape_Fiolent%2C_Crimea.jpg/960px-Beach_of_Cape_Fiolent%2C_Crimea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Beach of Cape Fiolent during the storm at sea. Cape Fiolent in Crimea is of ancient Jurassic origin. Upper Miocene lava and carbonate intrusions on heavily eroded Jurassic foundation.",
+      "creator": "Vyacheslav Argenberg",
       "credit": "Own work",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bloeiwijze_van_een_Rostrinucula_dependens._11-10-2025._(d.j.b).jpg"
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beach_of_Cape_Fiolent,_Crimea.jpg"
     },
     "culture": {
       "status": "live",
-      "year": 1970,
-      "text": "The first Monday Night Football game is between the Cleveland Browns and the New York Jets.",
-      "title": "Monday Night Football",
-      "description": "Live television broadcast of weekly National Football League (NFL) games",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Monday_Night_Football"
+      "year": 1862,
+      "text": "A preliminary version of the Emancipation Proclamation is released by Abraham Lincoln.",
+      "title": "Emancipation Proclamation",
+      "description": "Executive order by U.S. president Abraham Lincoln freeing slaves in the South",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Emancipation_Proclamation"
     }
   }
 }
