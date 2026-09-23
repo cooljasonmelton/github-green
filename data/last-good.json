@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1761,
-      "text": "George III and Charlotte of Mecklenburg-Strelitz are crowned King and Queen, respectively, of the Kingdom of Great Britain.",
-      "title": "George III",
-      "description": "King of Great Britain and Ireland from 1760 to 1820",
-      "sourceUrl": "https://en.wikipedia.org/wiki/George_III"
+      "year": 1957,
+      "text": "Little Rock schools integration crisis: President Dwight D. Eisenhower sends the 101st Airborne Division to Little Rock, Arkansas, and federalizes the Arkansas National Guard, ordering both to support the integration of Little Rock Central High School.",
+      "title": "Little Rock Nine",
+      "description": "African-American students enrolled at a previously segregated high school",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Little_Rock_Nine"
     },
     "birthday": {
       "status": "live",
-      "name": "Maurice Blanchot",
-      "birthYear": 1907,
-      "knownFor": "French writer (1907–2003)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Maurice_Blanchot"
+      "name": "Lloyd J. Old",
+      "birthYear": 1933,
+      "knownFor": "American immunologist (1933–2011)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lloyd_J._Old"
     },
     "photo": {
       "status": "live",
-      "title": "File:Beach of Cape Fiolent, Crimea.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Beach_of_Cape_Fiolent%2C_Crimea.jpg/960px-Beach_of_Cape_Fiolent%2C_Crimea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "Beach of Cape Fiolent during the storm at sea. Cape Fiolent in Crimea is of ancient Jurassic origin. Upper Miocene lava and carbonate intrusions on heavily eroded Jurassic foundation.",
-      "creator": "Vyacheslav Argenberg",
+      "title": "File:Zabytkowa cerkiew wpisana na listę UNESCO.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Zabytkowa_cerkiew_wpisana_na_list%C4%99_UNESCO.jpg/960px-Zabytkowa_cerkiew_wpisana_na_list%C4%99_UNESCO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Paraskevi of Iconium church in Kwiatoń, Southern Poland.",
+      "creator": "Piter329c",
       "credit": "Own work",
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beach_of_Cape_Fiolent,_Crimea.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zabytkowa_cerkiew_wpisana_na_list%C4%99_UNESCO.jpg"
     },
     "culture": {
       "status": "live",
-      "year": 1862,
-      "text": "A preliminary version of the Emancipation Proclamation is released by Abraham Lincoln.",
-      "title": "Emancipation Proclamation",
-      "description": "Executive order by U.S. president Abraham Lincoln freeing slaves in the South",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Emancipation_Proclamation"
+      "year": 1952,
+      "text": "After being accused of financial improprieties, Senator Richard Nixon delivers his \"Checkers speech\" nationwide on television and radio, defending his actions and successfully salvaging his nomination as the Republican candidate for Vice President.",
+      "title": "Richard Nixon",
+      "description": "President of the United States from 1969 to 1974",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Richard_Nixon"
     }
   }
 }
