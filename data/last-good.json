@@ -2,18 +2,18 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1957,
-      "text": "Little Rock schools integration crisis: President Dwight D. Eisenhower sends the 101st Airborne Division to Little Rock, Arkansas, and federalizes the Arkansas National Guard, ordering both to support the integration of Little Rock Central High School.",
-      "title": "Little Rock Nine",
-      "description": "African-American students enrolled at a previously segregated high school",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Little_Rock_Nine"
+      "year": 1972,
+      "text": "Japan Airlines Flight 472 lands at Juhu Aerodrome instead of Santacruz Airport in Bombay, India, overrunning the runway and resulting in 11 injuries.",
+      "title": "Japan Air Lines Flight 472 (1972)",
+      "description": "1972 aviation accident in Bombay, India",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Japan_Air_Lines_Flight_472_(1972)"
     },
     "birthday": {
       "status": "live",
-      "name": "Lloyd J. Old",
-      "birthYear": 1933,
-      "knownFor": "American immunologist (1933–2011)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Lloyd_J._Old"
+      "name": "Lottie Dod",
+      "birthYear": 1871,
+      "knownFor": "English tennis player (1871–1960)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lottie_Dod"
     },
     "photo": {
       "status": "live",
@@ -28,11 +28,11 @@
     },
     "culture": {
       "status": "live",
-      "year": 1952,
-      "text": "After being accused of financial improprieties, Senator Richard Nixon delivers his \"Checkers speech\" nationwide on television and radio, defending his actions and successfully salvaging his nomination as the Republican candidate for Vice President.",
-      "title": "Richard Nixon",
-      "description": "President of the United States from 1969 to 1974",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Richard_Nixon"
+      "year": 2007,
+      "text": "Between 30,000 and 100,000 people take part in anti-government protests in Yangon, Burma, the largest in 20 years.",
+      "title": "Saffron Revolution",
+      "description": "Series of protests in Myanmar in 2007",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Saffron_Revolution"
     }
   }
 }

@@ -32,41 +32,41 @@ The delivery order is in [docs/roadmap.md](docs/roadmap.md).
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-09-23
+## Today — 2026-09-24
 
 ### Photo
-![Paraskevi of Iconium church in Kwiatoń, Southern Poland.](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Zabytkowa_cerkiew_wpisana_na_list%C4%99_UNESCO.jpg/960px-Zabytkowa_cerkiew_wpisana_na_list%C4%99_UNESCO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Breil-Brigels. Lag da Breil. Reservoir with low water level.](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Breil-Brigels._%28actm%29_02.jpg/960px-Breil-Brigels._%28actm%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Paraskevi of Iconium church in Kwiatoń, Southern Poland.* — Piter329c. [Source](https://commons.wikimedia.org/wiki/File:Zabytkowa_cerkiew_wpisana_na_list%C4%99_UNESCO.jpg) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)
+*Breil-Brigels. Lag da Breil. Reservoir with low water level.* — Agnes Monkelbaan. [Source](https://commons.wikimedia.org/wiki/File:Breil-Brigels._(actm)_02.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**curious** — *adjective*
+**lucid** — *adjective*
 
-Eager to know or learn something.
+Expressed clearly and easy to understand.
 
-A curious question often reveals the useful edge case.
+Her lucid explanation made the new process less intimidating.
 
 ### Quote
-> All that we see or seem is but a dream within a dream.
+> The unexamined life is not worth living.
 
-— Edgar Allan Poe, *A Dream Within a Dream*
+— Socrates, *Plato, Apology*
 
 ### On This Day
-Little Rock schools integration crisis: President Dwight D. Eisenhower sends the 101st Airborne Division to Little Rock, Arkansas, and federalizes the Arkansas National Guard, ordering both to support the integration of Little Rock Central High School.
+Japan Airlines Flight 472 lands at Juhu Aerodrome instead of Santacruz Airport in Bombay, India, overrunning the runway and resulting in 11 injuries.
 
-[Source](https://en.wikipedia.org/wiki/Little_Rock_Nine)
+[Source](https://en.wikipedia.org/wiki/Japan_Air_Lines_Flight_472_(1972))
 
 ### Born Today
-**Lloyd J. Old** (1933) — American immunologist (1933–2011)
+**Lottie Dod** (1871) — English tennis player (1871–1960)
 
-[Source](https://en.wikipedia.org/wiki/Lloyd_J._Old)
+[Source](https://en.wikipedia.org/wiki/Lottie_Dod)
 
 ### Pop Culture
-After being accused of financial improprieties, Senator Richard Nixon delivers his "Checkers speech" nationwide on television and radio, defending his actions and successfully salvaging his nomination as the Republican candidate for Vice President.
+Between 30,000 and 100,000 people take part in anti-government protests in Yangon, Burma, the largest in 20 years.
 
-[Source](https://en.wikipedia.org/wiki/Richard_Nixon)
+[Source](https://en.wikipedia.org/wiki/Saffron_Revolution)
 
 ### Miscellaneous
-**literature:** The Gutenberg Bible was printed in Mainz around 1455.
+**space:** A day on Venus lasts longer than a Venusian year.
 
 <!-- DAILY_CONTENT_END -->
