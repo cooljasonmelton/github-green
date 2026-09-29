@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1924,
-      "text": "The first aerial circumnavigation is completed by a team from the US Army.",
-      "title": "First aerial circumnavigation",
-      "description": "1924 aviation feat by American officers",
-      "sourceUrl": "https://en.wikipedia.org/wiki/First_aerial_circumnavigation"
+      "year": 1714,
+      "text": "The Cossacks of the Tsardom of Russia kill about 800 people overnight in Hailuoto during the Great Wrath.",
+      "title": "Cossacks",
+      "description": "Military estate of East Slavic people",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cossacks"
     },
     "birthday": {
       "status": "live",
-      "name": "Ed Sullivan",
-      "birthYear": 1901,
-      "knownFor": "American host and columnist (1901–1974)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Ed_Sullivan"
+      "name": "Rhodri Morgan",
+      "birthYear": 1939,
+      "knownFor": "First Minister of Wales from 2000 to 2009",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rhodri_Morgan"
     },
     "photo": {
       "status": "live",
-      "title": "File:Cisterna Basílica, Estambul, Turquía, 2024-09-28, DD 58-60 HDR.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Cisterna_Bas%C3%ADlica%2C_Estambul%2C_Turqu%C3%ADa%2C_2024-09-28%2C_DD_58-60_HDR.jpg/960px-Cisterna_Bas%C3%ADlica%2C_Estambul%2C_Turqu%C3%ADa%2C_2024-09-28%2C_DD_58-60_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "View of the Basilica Cistern, Istanbul, Turkey. The Basilica Cistern, or Cisterna Basilica is the largest of several hundred ancient cisterns that lie beneath the city. This subterranean cistern was called Basilica because it was located under a large public square, the Stoa Basilica, on the First Hill of Constantinople. The cistern, built in the 6th century during the reign of Byzantine emperor Justinian I, provided a water filtration system for the Great Palace of Constantinople and other buildings on the First Hill, and continued to provide water to the Topkapı Palace after the Ottoman conquest in 1453 and into modern times. Today it is kept with little water, for public access inside the space.",
-      "creator": "Diego Delso",
+      "title": "File:Ceiling Painted Dome Cupola Angels Fighting Demons in Vatican Museums.png",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Ceiling_Painted_Dome_Cupola_Angels_Fighting_Demons_in_Vatican_Museums.png/960px-Ceiling_Painted_Dome_Cupola_Angels_Fighting_Demons_in_Vatican_Museums.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Ceiling Painted Dome Cupola Angels Fighting Demons in the Vatican Museums. Today is Michaelmas in much of Western Christianity.",
+      "creator": "Livioandronico2013",
       "credit": "Own work",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cisterna_Bas%C3%ADlica,_Estambul,_Turqu%C3%ADa,_2024-09-28,_DD_58-60_HDR.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ceiling_Painted_Dome_Cupola_Angels_Fighting_Demons_in_Vatican_Museums.png"
     },
     "culture": {
       "status": "live",
-      "year": 2014,
-      "text": "The 2014 Hong Kong protests begin in response to restrictive political reforms imposed by the NPC in Beijing.",
-      "title": "2014 Hong Kong protests",
-      "description": "Series of sit-in street protests",
-      "sourceUrl": "https://en.wikipedia.org/wiki/2014_Hong_Kong_protests"
+      "year": 1975,
+      "text": "WGPR becomes the first black-owned-and-operated television station in the US.",
+      "title": "WWJ-TV",
+      "description": "Television station in Detroit",
+      "sourceUrl": "https://en.wikipedia.org/wiki/WWJ-TV"
     }
   }
 }
