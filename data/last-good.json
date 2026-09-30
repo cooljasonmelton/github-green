@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1714,
-      "text": "The Cossacks of the Tsardom of Russia kill about 800 people overnight in Hailuoto during the Great Wrath.",
-      "title": "Cossacks",
-      "description": "Military estate of East Slavic people",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Cossacks"
+      "year": 1744,
+      "text": "War of the Austrian Succession: France and Spain defeat Sardinia at the Battle of Madonna dell'Olmo, but soon have to withdraw from Sardinia.",
+      "title": "War of the Austrian Succession",
+      "description": "1740–1748 war between European powers",
+      "sourceUrl": "https://en.wikipedia.org/wiki/War_of_the_Austrian_Succession"
     },
     "birthday": {
       "status": "live",
-      "name": "Rhodri Morgan",
-      "birthYear": 1939,
-      "knownFor": "First Minister of Wales from 2000 to 2009",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Rhodri_Morgan"
+      "name": "Héctor Lavoe",
+      "birthYear": 1946,
+      "knownFor": "Puerto Rican salsa singer (1946–1993)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/H%C3%A9ctor_Lavoe"
     },
     "photo": {
       "status": "live",
-      "title": "File:Ceiling Painted Dome Cupola Angels Fighting Demons in Vatican Museums.png",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Ceiling_Painted_Dome_Cupola_Angels_Fighting_Demons_in_Vatican_Museums.png/960px-Ceiling_Painted_Dome_Cupola_Angels_Fighting_Demons_in_Vatican_Museums.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "Ceiling Painted Dome Cupola Angels Fighting Demons in the Vatican Museums. Today is Michaelmas in much of Western Christianity.",
-      "creator": "Livioandronico2013",
-      "credit": "Own work",
+      "title": "File:Split Cathedral Bell Tower From The Vestibule - Split.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Split_Cathedral_Bell_Tower_From_The_Vestibule_-_Split.jpg/960px-Split_Cathedral_Bell_Tower_From_The_Vestibule_-_Split.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "The tower of the Cathedral of Saint Domnius (Split, Croatia) as seen from the Vestibule of Diocletian's Palace.",
+      "creator": "Sumitsurai",
+      "credit": "Self-photographed This photo was taken with Sony ILCE-6000",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ceiling_Painted_Dome_Cupola_Angels_Fighting_Demons_in_Vatican_Museums.png"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Split_Cathedral_Bell_Tower_From_The_Vestibule_-_Split.jpg"
     },
     "culture": {
       "status": "live",
-      "year": 1975,
-      "text": "WGPR becomes the first black-owned-and-operated television station in the US.",
-      "title": "WWJ-TV",
-      "description": "Television station in Detroit",
-      "sourceUrl": "https://en.wikipedia.org/wiki/WWJ-TV"
+      "year": 1960,
+      "text": "The Flintstones, the first prime-time animated sitcom, premieres on ABC television.",
+      "title": "The Flintstones",
+      "description": "American animated television series",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Flintstones"
     }
   }
 }
