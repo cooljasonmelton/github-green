@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1744,
-      "text": "War of the Austrian Succession: France and Spain defeat Sardinia at the Battle of Madonna dell'Olmo, but soon have to withdraw from Sardinia.",
-      "title": "War of the Austrian Succession",
-      "description": "1740–1748 war between European powers",
-      "sourceUrl": "https://en.wikipedia.org/wiki/War_of_the_Austrian_Succession"
+      "year": 1949,
+      "text": "The People's Republic of China is established.",
+      "title": "China",
+      "description": "Country in East Asia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/China"
     },
     "birthday": {
       "status": "live",
-      "name": "Héctor Lavoe",
-      "birthYear": 1946,
-      "knownFor": "Puerto Rican salsa singer (1946–1993)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/H%C3%A9ctor_Lavoe"
+      "name": "Pierre Veyron",
+      "birthYear": 1903,
+      "knownFor": "French racing driver (1903–1970)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pierre_Veyron"
     },
     "photo": {
       "status": "live",
-      "title": "File:Split Cathedral Bell Tower From The Vestibule - Split.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Split_Cathedral_Bell_Tower_From_The_Vestibule_-_Split.jpg/960px-Split_Cathedral_Bell_Tower_From_The_Vestibule_-_Split.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "The tower of the Cathedral of Saint Domnius (Split, Croatia) as seen from the Vestibule of Diocletian's Palace.",
-      "creator": "Sumitsurai",
-      "credit": "Self-photographed This photo was taken with Sony ILCE-6000",
+      "title": "File:Catedral de la Encarnación, Málaga, España, 2023-05-19, DD 37-39 HDR.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Catedral_de_la_Encarnaci%C3%B3n%2C_M%C3%A1laga%2C_Espa%C3%B1a%2C_2023-05-19%2C_DD_37-39_HDR.jpg/960px-Catedral_de_la_Encarnaci%C3%B3n%2C_M%C3%A1laga%2C_Espa%C3%B1a%2C_2023-05-19%2C_DD_37-39_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Choir of the Málaga Cathedral, Andalusia, Spain. The Roman Catholic church was built in the Renaissance architectural tradition between 1528 and 1782 following the plans drawn by Diego de Siloe. The temple is considered one of the Renaissance jewels in all Andalusia.",
+      "creator": "Diego Delso",
+      "credit": "Own work",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Split_Cathedral_Bell_Tower_From_The_Vestibule_-_Split.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catedral_de_la_Encarnaci%C3%B3n,_M%C3%A1laga,_Espa%C3%B1a,_2023-05-19,_DD_37-39_HDR.jpg"
     },
     "culture": {
       "status": "live",
-      "year": 1960,
-      "text": "The Flintstones, the first prime-time animated sitcom, premieres on ABC television.",
-      "title": "The Flintstones",
-      "description": "American animated television series",
-      "sourceUrl": "https://en.wikipedia.org/wiki/The_Flintstones"
+      "year": 1903,
+      "text": "Baseball: The Boston Americans play the Pittsburgh Pirates in the first game of the modern World Series.",
+      "title": "Baseball",
+      "description": "Bat-and-ball game",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Baseball"
     }
   }
 }
