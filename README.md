@@ -32,41 +32,41 @@ The delivery order is in [docs/roadmap.md](docs/roadmap.md).
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-10-01
+## Today — 2026-10-02
 
 ### Photo
-![Choir of the Málaga Cathedral, Andalusia, Spain. The Roman Catholic church was built in the Renaissance architectural tradition between 1528 and 1782 following the plans drawn by Diego de Siloe. The temple is considered one of the Renaissance jewels in all Andalusia.](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Catedral_de_la_Encarnaci%C3%B3n%2C_M%C3%A1laga%2C_Espa%C3%B1a%2C_2023-05-19%2C_DD_37-39_HDR.jpg/960px-Catedral_de_la_Encarnaci%C3%B3n%2C_M%C3%A1laga%2C_Espa%C3%B1a%2C_2023-05-19%2C_DD_37-39_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Breil-Brigels. Lag da Breil. Reservoir with low water level.](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Breil-Brigels._%28actm%29_02.jpg/960px-Breil-Brigels._%28actm%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Choir of the Málaga Cathedral, Andalusia, Spain. The Roman Catholic church was built in the Renaissance architectural tradition between 1528 and 1782 following the plans drawn by Diego de Siloe. The temple is considered one of the Renaissance jewels in all Andalusia.* — Diego Delso. [Source](https://commons.wikimedia.org/wiki/File:Catedral_de_la_Encarnaci%C3%B3n,_M%C3%A1laga,_Espa%C3%B1a,_2023-05-19,_DD_37-39_HDR.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Breil-Brigels. Lag da Breil. Reservoir with low water level.* — Agnes Monkelbaan. [Source](https://commons.wikimedia.org/wiki/File:Breil-Brigels._(actm)_02.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**lucid** — *adjective*
+**tenacious** — *adjective*
 
-Expressed clearly and easy to understand.
+Tending to keep a firm hold of something; persistent.
 
-Her lucid explanation made the new process less intimidating.
+The tenacious researcher checked each source twice.
 
 ### Quote
-> The unexamined life is not worth living.
+> To thine own self be true.
 
-— Socrates, *Plato, Apology*
+— William Shakespeare, *Hamlet, Act 1, Scene 3*
 
 ### On This Day
-The People's Republic of China is established.
+Aeroperú Flight 603 crashes into the ocean near Peru, killing all 70 people on board.
 
-[Source](https://en.wikipedia.org/wiki/China)
+[Source](https://en.wikipedia.org/wiki/Aeroper%C3%BA_Flight_603)
 
 ### Born Today
-**Pierre Veyron** (1903) — French racing driver (1903–1970)
+**Dereck Whittenburg** (1960) — American basketball player and coach (born 1960)
 
-[Source](https://en.wikipedia.org/wiki/Pierre_Veyron)
+[Source](https://en.wikipedia.org/wiki/Dereck_Whittenburg)
 
 ### Pop Culture
-Baseball: The Boston Americans play the Pittsburgh Pirates in the first game of the modern World Series.
+The Beltway sniper attacks begin in Washington, D.C., extending over three weeks and killing 10 people.
 
-[Source](https://en.wikipedia.org/wiki/Baseball)
+[Source](https://en.wikipedia.org/wiki/D.C._sniper_attacks)
 
 ### Miscellaneous
-**space:** A day on Venus lasts longer than a Venusian year.
+**animals:** Octopuses have three hearts.
 
 <!-- DAILY_CONTENT_END -->
