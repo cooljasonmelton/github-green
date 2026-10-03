@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1996,
-      "text": "Aeroperú Flight 603 crashes into the ocean near Peru, killing all 70 people on board.",
-      "title": "Aeroperú Flight 603",
-      "description": "1996 aviation accident in the Pacific Ocean",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Aeroper%C3%BA_Flight_603"
+      "year": 2015,
+      "text": "Forty-two people are killed and 33 go missing in the Kunduz hospital airstrike in Afghanistan.",
+      "title": "Kunduz hospital airstrike",
+      "description": "2015 U.S. air strike on a hospital in Afghanistan",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kunduz_hospital_airstrike"
     },
     "birthday": {
       "status": "live",
-      "name": "Dereck Whittenburg",
-      "birthYear": 1960,
-      "knownFor": "American basketball player and coach (born 1960)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Dereck_Whittenburg"
+      "name": "Eddie DeGarmo",
+      "birthYear": 1954,
+      "knownFor": "American musician (born 1954)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Eddie_DeGarmo"
     },
     "photo": {
       "status": "live",
-      "title": "File:Catedral de la Encarnación, Málaga, España, 2023-05-19, DD 37-39 HDR.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Catedral_de_la_Encarnaci%C3%B3n%2C_M%C3%A1laga%2C_Espa%C3%B1a%2C_2023-05-19%2C_DD_37-39_HDR.jpg/960px-Catedral_de_la_Encarnaci%C3%B3n%2C_M%C3%A1laga%2C_Espa%C3%B1a%2C_2023-05-19%2C_DD_37-39_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "Choir of the Málaga Cathedral, Andalusia, Spain. The Roman Catholic church was built in the Renaissance architectural tradition between 1528 and 1782 following the plans drawn by Diego de Siloe. The temple is considered one of the Renaissance jewels in all Andalusia.",
-      "creator": "Diego Delso",
-      "credit": "Own work",
+      "title": "File:Brown booby (Sula leucogaster plotus) male in flight Michaelmas Cay.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Brown_booby_%28Sula_leucogaster_plotus%29_male_in_flight_Michaelmas_Cay.jpg/960px-Brown_booby_%28Sula_leucogaster_plotus%29_male_in_flight_Michaelmas_Cay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Brown booby (Sula leucogaster plotus) male in flight over Michaelmas Cay, Great Barrier Reef, Queensland, Australia.",
+      "creator": "Charles J. Sharp",
+      "credit": "Own work, from Sharp Photography, sharpphotography.co.uk",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catedral_de_la_Encarnaci%C3%B3n,_M%C3%A1laga,_Espa%C3%B1a,_2023-05-19,_DD_37-39_HDR.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brown_booby_(Sula_leucogaster_plotus)_male_in_flight_Michaelmas_Cay.jpg"
     },
     "culture": {
       "status": "live",
-      "year": 2002,
-      "text": "The Beltway sniper attacks begin in Washington, D.C., extending over three weeks and killing 10 people.",
-      "title": "D.C. sniper attacks",
-      "description": "2002 series of coordinated shootings in the Washington, D.C. area",
-      "sourceUrl": "https://en.wikipedia.org/wiki/D.C._sniper_attacks"
+      "year": 1919,
+      "text": "Cincinnati Reds pitcher Adolfo Luque becomes the first Latin American player to appear in a World Series.",
+      "title": "Cincinnati Reds",
+      "description": "Major League Baseball franchise in Cincinnati, Ohio",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cincinnati_Reds"
     }
   }
 }
