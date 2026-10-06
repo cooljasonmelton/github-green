@@ -1,6 +1,6 @@
 # github-green
 
-This repository exists to make one commit to GitHub every day.
+This repository makes one commit to GitHub every day.
 
 A scheduled GitHub Action updates the README with unrelated daily items. This content is secondary.
 
