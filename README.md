@@ -7,7 +7,7 @@ A scheduled GitHub Action updates the README with unrelated daily items. This co
 The update can use fallback data, skip a section, or reuse a safe previous
 value when a source is unavailable.
 
->My current employer uses Bitbucket so even though I'm out here coding my ass off, I no longer have a beautiful green contribution chart. I'm hacking the contribution chart by automating at one daily commit each day.
+>My current employer uses Bitbucket so even though I'm out here coding my ass off, I no longer have a beautiful green contribution chart. I'm hacking the it by automating one daily commit.
 
 See [automation and content-health notes](#automation-and-content-health-notes) below.
 
