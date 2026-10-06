@@ -9,6 +9,8 @@ test('defines a Chicago-aware daily workflow with fallback generation and an emp
 
   assert.match(workflow, /workflow_dispatch:/);
   assert.match(workflow, /cron: '17 7 \* \* \*'/);
+  assert.match(workflow, /cron: '17 10 \* \* \*'/);
+  assert.match(workflow, /cron: '17 13 \* \* \*'/);
   assert.match(workflow, /timezone: 'America\/Chicago'/);
   assert.match(workflow, /contents: write/);
   assert.match(workflow, /issues: write/);
@@ -16,6 +18,8 @@ test('defines a Chicago-aware daily workflow with fallback generation and an emp
   assert.doesNotMatch(workflow, /actions\/setup-node@v[456]/);
   assert.match(workflow, /npm run generate --/);
   assert.match(workflow, /npm run generate:emergency --/);
+  assert.match(workflow, /data\/last-run\.json/);
+  assert.match(workflow, /steps\.daily-run\.outputs\.needed == 'true'/);
   assert.match(workflow, /provider-health-alerts/);
   assert.match(workflow, /Alert on persistent provider outages[\s\S]*continue-on-error: true/);
   assert.match(workflow, /git commit --allow-empty -m "daily: \$DATE"/);
