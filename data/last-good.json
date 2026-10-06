@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1895,
-      "text": "Horace Rawlins wins the first U.S. Open Men's Golf Championship.",
-      "title": "Horace Rawlins",
-      "description": "English professional golfer (1874–1935)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Horace_Rawlins"
+      "year": 1990,
+      "text": "Space Shuttle Discovery is launched on STS-41, and deploys the Ulysses space probe to study the Sun's polar regions.",
+      "title": "Space Shuttle Discovery",
+      "description": "Space Shuttle orbiter (1984–2011)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery"
     },
     "birthday": {
       "status": "live",
-      "name": "Gail Gilmore",
-      "birthYear": 1937,
-      "knownFor": "Canadian actress (1937–2014)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Gail_Gilmore"
+      "name": "Sheila Greibach",
+      "birthYear": 1939,
+      "knownFor": "American computer scientist",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sheila_Greibach"
     },
     "photo": {
       "status": "live",
-      "title": "File:Basilica dei Santi Apostoli (Rome) - Ceiling.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Basilica_dei_Santi_Apostoli_%28Rome%29_-_Ceiling.jpg/960px-Basilica_dei_Santi_Apostoli_%28Rome%29_-_Ceiling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "Baciccio's Triumph of Franciscan Order depicts the Apostles recommending Francis of Assisi, Anthony of Padua, and other Franciscans to Christ for admittance into Heaven. The fresco is on the vaulted ceiling of the Church of the Twelve Holy Apostles in Rome. This year is the 800th anniversary of Francis of Assisi's death. Today is his feast day.",
-      "creator": "Livioandronico2013",
+      "title": "File:Bessen van een Mahonia aquifolium. 17-08-2025. (actm.) 01.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Bessen_van_een_Mahonia_aquifolium._17-08-2025._%28actm.%29_01.jpg/960px-Bessen_van_een_Mahonia_aquifolium._17-08-2025._%28actm.%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Berries from a Mahonia aquifolium shrub. Focus stack of 19 photos.",
+      "creator": "Agnes Monkelbaan",
       "credit": "Own work",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Basilica_dei_Santi_Apostoli_(Rome)_-_Ceiling.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bessen_van_een_Mahonia_aquifolium._17-08-2025._(actm.)_01.jpg"
     },
     "culture": {
       "status": "live",
-      "year": 1919,
-      "text": "Cincinnati Reds pitcher Adolfo Luque becomes the first Latin American player to appear in a World Series.",
-      "title": "Cincinnati Reds",
-      "description": "Major League Baseball franchise in Cincinnati, Ohio",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Cincinnati_Reds"
+      "year": 1854,
+      "text": "In England the great fire of Newcastle and Gateshead leads to 53 deaths and hundreds injured.",
+      "title": "Great fire of Newcastle and Gateshead",
+      "description": "1854 series of fires and an explosion in Tyne and Wear, England",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Great_fire_of_Newcastle_and_Gateshead"
     }
   }
 }

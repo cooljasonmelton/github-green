@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-10-04
+## Today — 2026-10-06
 
 ### Photo
-![Baciccio's Triumph of Franciscan Order depicts the Apostles recommending Francis of Assisi, Anthony of Padua, and other Franciscans to Christ for admittance into Heaven. The fresco is on the vaulted ceiling of the Church of the Twelve Holy Apostles in Rome. This year is the 800th anniversary of Francis of Assisi's death. Today is his feast day.](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Basilica_dei_Santi_Apostoli_%28Rome%29_-_Ceiling.jpg/960px-Basilica_dei_Santi_Apostoli_%28Rome%29_-_Ceiling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Berries from a Mahonia aquifolium shrub. Focus stack of 19 photos.](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Bessen_van_een_Mahonia_aquifolium._17-08-2025._%28actm.%29_01.jpg/960px-Bessen_van_een_Mahonia_aquifolium._17-08-2025._%28actm.%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Baciccio's Triumph of Franciscan Order depicts the Apostles recommending Francis of Assisi, Anthony of Padua, and other Franciscans to Christ for admittance into Heaven. The fresco is on the vaulted ceiling of the Church of the Twelve Holy Apostles in Rome. This year is the 800th anniversary of Francis of Assisi's death. Today is his feast day.* — Livioandronico2013. [Source](https://commons.wikimedia.org/wiki/File:Basilica_dei_Santi_Apostoli_(Rome)_-_Ceiling.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Berries from a Mahonia aquifolium shrub. Focus stack of 19 photos.* — Agnes Monkelbaan. [Source](https://commons.wikimedia.org/wiki/File:Bessen_van_een_Mahonia_aquifolium._17-08-2025._(actm.)_01.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**serendipity** — *noun*
+**resilient** — *adjective*
 
-The occurrence of a fortunate discovery by chance.
+Able to recover quickly from difficulty or change.
 
-Finding the note in the old book was pure serendipity.
+The resilient process continued after one input failed.
 
 ### Quote
-> Hope is the thing with feathers.
+> There is no charm equal to tenderness of heart.
 
-— Emily Dickinson, *"Hope" is the thing with feathers*
+— Jane Austen, *Emma*
 
 ### On This Day
-Horace Rawlins wins the first U.S. Open Men's Golf Championship.
+Space Shuttle Discovery is launched on STS-41, and deploys the Ulysses space probe to study the Sun's polar regions.
 
-[Source](https://en.wikipedia.org/wiki/Horace_Rawlins)
+[Source](https://en.wikipedia.org/wiki/Space_Shuttle_Discovery)
 
 ### Born Today
-**Gail Gilmore** (1937) — Canadian actress (1937–2014)
+**Sheila Greibach** (1939) — American computer scientist
 
-[Source](https://en.wikipedia.org/wiki/Gail_Gilmore)
+[Source](https://en.wikipedia.org/wiki/Sheila_Greibach)
 
 ### Pop Culture
-Super Mario Bros. was released in Japan for the Nintendo Entertainment System in 1985.
+In England the great fire of Newcastle and Gateshead leads to 53 deaths and hundreds injured.
 
-[Source](https://en.wikipedia.org/wiki/Super_Mario_Bros.)
+[Source](https://en.wikipedia.org/wiki/Great_fire_of_Newcastle_and_Gateshead)
 
 ### Miscellaneous
-**geography:** Africa is the only continent that extends into all four hemispheres.
+**art:** The Louvre began as a medieval fortress before becoming a museum.
 
 <!-- DAILY_CONTENT_END -->
 
