@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-10-06
+## Today — 2026-10-07
 
 ### Photo
-![Berries from a Mahonia aquifolium shrub. Focus stack of 19 photos.](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Bessen_van_een_Mahonia_aquifolium._17-08-2025._%28actm.%29_01.jpg/960px-Bessen_van_een_Mahonia_aquifolium._17-08-2025._%28actm.%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Coturnix coromandelica (Rain Quail) in Bhigwan, Maharashtra, India.](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Rain_Quail_in_Bhigwan_August_2025_by_Tisha_Mukherjee_13.jpg/960px-Rain_Quail_in_Bhigwan_August_2025_by_Tisha_Mukherjee_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Berries from a Mahonia aquifolium shrub. Focus stack of 19 photos.* — Agnes Monkelbaan. [Source](https://commons.wikimedia.org/wiki/File:Bessen_van_een_Mahonia_aquifolium._17-08-2025._(actm.)_01.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Coturnix coromandelica (Rain Quail) in Bhigwan, Maharashtra, India.* — Tisha Mukherjee. [Source](https://commons.wikimedia.org/wiki/File:Rain_Quail_in_Bhigwan_August_2025_by_Tisha_Mukherjee_13.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**resilient** — *adjective*
+**curious** — *adjective*
 
-Able to recover quickly from difficulty or change.
+Eager to know or learn something.
 
-The resilient process continued after one input failed.
+A curious question often reveals the useful edge case.
 
 ### Quote
-> There is no charm equal to tenderness of heart.
+> All that we see or seem is but a dream within a dream.
 
-— Jane Austen, *Emma*
+— Edgar Allan Poe, *A Dream Within a Dream*
 
 ### On This Day
-Space Shuttle Discovery is launched on STS-41, and deploys the Ulysses space probe to study the Sun's polar regions.
+Cornell University holds opening day ceremonies; initial student enrollment is 412, the highest at any American university to that date.
 
-[Source](https://en.wikipedia.org/wiki/Space_Shuttle_Discovery)
+[Source](https://en.wikipedia.org/wiki/Cornell_University)
 
 ### Born Today
-**Sheila Greibach** (1939) — American computer scientist
+**Dick Jauron** (1950) — American football player and coach (1950–2025)
 
-[Source](https://en.wikipedia.org/wiki/Sheila_Greibach)
+[Source](https://en.wikipedia.org/wiki/Dick_Jauron)
 
 ### Pop Culture
-In England the great fire of Newcastle and Gateshead leads to 53 deaths and hundreds injured.
+Georgia Tech defeats Cumberland University 222–0 in the most lopsided college football game in American history.
 
-[Source](https://en.wikipedia.org/wiki/Great_fire_of_Newcastle_and_Gateshead)
+[Source](https://en.wikipedia.org/wiki/1916_Cumberland_vs._Georgia_Tech_football_game)
 
 ### Miscellaneous
-**art:** The Louvre began as a medieval fortress before becoming a museum.
+**literature:** The Gutenberg Bible was printed in Mainz around 1455.
 
 <!-- DAILY_CONTENT_END -->
 

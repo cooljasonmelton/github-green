@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1990,
-      "text": "Space Shuttle Discovery is launched on STS-41, and deploys the Ulysses space probe to study the Sun's polar regions.",
-      "title": "Space Shuttle Discovery",
-      "description": "Space Shuttle orbiter (1984–2011)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery"
+      "year": 1868,
+      "text": "Cornell University holds opening day ceremonies; initial student enrollment is 412, the highest at any American university to that date.",
+      "title": "Cornell University",
+      "description": "Private university in Ithaca, New York, US",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cornell_University"
     },
     "birthday": {
       "status": "live",
-      "name": "Sheila Greibach",
-      "birthYear": 1939,
-      "knownFor": "American computer scientist",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Sheila_Greibach"
+      "name": "Dick Jauron",
+      "birthYear": 1950,
+      "knownFor": "American football player and coach (1950–2025)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dick_Jauron"
     },
     "photo": {
       "status": "live",
-      "title": "File:Bessen van een Mahonia aquifolium. 17-08-2025. (actm.) 01.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Bessen_van_een_Mahonia_aquifolium._17-08-2025._%28actm.%29_01.jpg/960px-Bessen_van_een_Mahonia_aquifolium._17-08-2025._%28actm.%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "Berries from a Mahonia aquifolium shrub. Focus stack of 19 photos.",
-      "creator": "Agnes Monkelbaan",
+      "title": "File:Rain Quail in Bhigwan August 2025 by Tisha Mukherjee 13.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Rain_Quail_in_Bhigwan_August_2025_by_Tisha_Mukherjee_13.jpg/960px-Rain_Quail_in_Bhigwan_August_2025_by_Tisha_Mukherjee_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Coturnix coromandelica (Rain Quail) in Bhigwan, Maharashtra, India.",
+      "creator": "Tisha Mukherjee",
       "credit": "Own work",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bessen_van_een_Mahonia_aquifolium._17-08-2025._(actm.)_01.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rain_Quail_in_Bhigwan_August_2025_by_Tisha_Mukherjee_13.jpg"
     },
     "culture": {
       "status": "live",
-      "year": 1854,
-      "text": "In England the great fire of Newcastle and Gateshead leads to 53 deaths and hundreds injured.",
-      "title": "Great fire of Newcastle and Gateshead",
-      "description": "1854 series of fires and an explosion in Tyne and Wear, England",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Great_fire_of_Newcastle_and_Gateshead"
+      "year": 1916,
+      "text": "Georgia Tech defeats Cumberland University 222–0 in the most lopsided college football game in American history.",
+      "title": "1916 Cumberland vs. Georgia Tech football game",
+      "description": "College football game regarded as the most lopsided game in American Football",
+      "sourceUrl": "https://en.wikipedia.org/wiki/1916_Cumberland_vs._Georgia_Tech_football_game"
     }
   }
 }
