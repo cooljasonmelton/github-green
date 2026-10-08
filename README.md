@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-10-07
+## Today — 2026-10-08
 
 ### Photo
-![Coturnix coromandelica (Rain Quail) in Bhigwan, Maharashtra, India.](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Rain_Quail_in_Bhigwan_August_2025_by_Tisha_Mukherjee_13.jpg/960px-Rain_Quail_in_Bhigwan_August_2025_by_Tisha_Mukherjee_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Jaguar (Panthera onca) drinking from the river in Mato Grosso, Brazil](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/011_Jaguar_drinking_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg/960px-011_Jaguar_drinking_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Coturnix coromandelica (Rain Quail) in Bhigwan, Maharashtra, India.* — Tisha Mukherjee. [Source](https://commons.wikimedia.org/wiki/File:Rain_Quail_in_Bhigwan_August_2025_by_Tisha_Mukherjee_13.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Jaguar (Panthera onca) drinking from the river in Mato Grosso, Brazil* — Giles Laurent. [Source](https://commons.wikimedia.org/wiki/File:011_Jaguar_drinking_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**curious** — *adjective*
+**lucid** — *adjective*
 
-Eager to know or learn something.
+Expressed clearly and easy to understand.
 
-A curious question often reveals the useful edge case.
+Her lucid explanation made the new process less intimidating.
 
 ### Quote
-> All that we see or seem is but a dream within a dream.
+> The unexamined life is not worth living.
 
-— Edgar Allan Poe, *A Dream Within a Dream*
+— Socrates, *Plato, Apology*
 
 ### On This Day
-Cornell University holds opening day ceremonies; initial student enrollment is 412, the highest at any American university to that date.
+American Civil War: The Confederate invasion of Kentucky is halted at the Battle of Perryville.
 
-[Source](https://en.wikipedia.org/wiki/Cornell_University)
+[Source](https://en.wikipedia.org/wiki/American_Civil_War)
 
 ### Born Today
-**Dick Jauron** (1950) — American football player and coach (1950–2025)
+**Betty Boothroyd** (1929) — British politician (1929–2023)
 
-[Source](https://en.wikipedia.org/wiki/Dick_Jauron)
+[Source](https://en.wikipedia.org/wiki/Betty_Boothroyd)
 
 ### Pop Culture
-Georgia Tech defeats Cumberland University 222–0 in the most lopsided college football game in American history.
+The New York Yankees's Don Larsen pitches the only perfect game in a World Series.
 
-[Source](https://en.wikipedia.org/wiki/1916_Cumberland_vs._Georgia_Tech_football_game)
+[Source](https://en.wikipedia.org/wiki/Don_Larsen)
 
 ### Miscellaneous
-**literature:** The Gutenberg Bible was printed in Mainz around 1455.
+**space:** A day on Venus lasts longer than a Venusian year.
 
 <!-- DAILY_CONTENT_END -->
 
