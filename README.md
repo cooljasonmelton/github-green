@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-10-08
+## Today — 2026-10-09
 
 ### Photo
-![Jaguar (Panthera onca) drinking from the river in Mato Grosso, Brazil](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/011_Jaguar_drinking_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg/960px-011_Jaguar_drinking_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![PO boxes at the historic U.S. Post Office in downtown Chico, California. Today is International World Post Day.](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/PO_boxes_at_the_historic_Chico_Post_Office_%282024%29-L1005460.jpg/960px-PO_boxes_at_the_historic_Chico_Post_Office_%282024%29-L1005460.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Jaguar (Panthera onca) drinking from the river in Mato Grosso, Brazil* — Giles Laurent. [Source](https://commons.wikimedia.org/wiki/File:011_Jaguar_drinking_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*PO boxes at the historic U.S. Post Office in downtown Chico, California. Today is International World Post Day.* — Frank Schulenburg. [Source](https://commons.wikimedia.org/wiki/File:PO_boxes_at_the_historic_Chico_Post_Office_(2024)-L1005460.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**lucid** — *adjective*
+**tenacious** — *adjective*
 
-Expressed clearly and easy to understand.
+Tending to keep a firm hold of something; persistent.
 
-Her lucid explanation made the new process less intimidating.
+The tenacious researcher checked each source twice.
 
 ### Quote
-> The unexamined life is not worth living.
+> To thine own self be true.
 
-— Socrates, *Plato, Apology*
+— William Shakespeare, *Hamlet, Act 1, Scene 3*
 
 ### On This Day
-American Civil War: The Confederate invasion of Kentucky is halted at the Battle of Perryville.
+In Chicago, the National Guard is called in as demonstrations continue over the trial of the "Chicago Eight".
 
-[Source](https://en.wikipedia.org/wiki/American_Civil_War)
+[Source](https://en.wikipedia.org/wiki/Chicago)
 
 ### Born Today
-**Betty Boothroyd** (1929) — British politician (1929–2023)
+**Harry Hooton** (1908) — Australian poet and anarchist
 
-[Source](https://en.wikipedia.org/wiki/Betty_Boothroyd)
+[Source](https://en.wikipedia.org/wiki/Harry_Hooton)
 
 ### Pop Culture
-The New York Yankees's Don Larsen pitches the only perfect game in a World Series.
+The popular children's television show Thomas The Tank Engine & Friends, based on The Railway Series by the Reverend Wilbert Awdry, premieres on ITV.
 
-[Source](https://en.wikipedia.org/wiki/Don_Larsen)
+[Source](https://en.wikipedia.org/wiki/Thomas_%26_Friends)
 
 ### Miscellaneous
-**space:** A day on Venus lasts longer than a Venusian year.
+**animals:** Octopuses have three hearts.
 
 <!-- DAILY_CONTENT_END -->
 

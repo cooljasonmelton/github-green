@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1862,
-      "text": "American Civil War: The Confederate invasion of Kentucky is halted at the Battle of Perryville.",
-      "title": "American Civil War",
-      "description": "1861–1865 conflict in the United States",
-      "sourceUrl": "https://en.wikipedia.org/wiki/American_Civil_War"
+      "year": 1969,
+      "text": "In Chicago, the National Guard is called in as demonstrations continue over the trial of the \"Chicago Eight\".",
+      "title": "Chicago",
+      "description": "Most populous city in Illinois, US",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Chicago"
     },
     "birthday": {
       "status": "live",
-      "name": "Betty Boothroyd",
-      "birthYear": 1929,
-      "knownFor": "British politician (1929–2023)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Betty_Boothroyd"
+      "name": "Harry Hooton",
+      "birthYear": 1908,
+      "knownFor": "Australian poet and anarchist",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Harry_Hooton"
     },
     "photo": {
       "status": "live",
-      "title": "File:011 Jaguar drinking in Encontro das Águas State Park Photo by Giles Laurent.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/011_Jaguar_drinking_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg/960px-011_Jaguar_drinking_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "Jaguar (Panthera onca) drinking from the river in Mato Grosso, Brazil",
-      "creator": "Giles Laurent",
-      "credit": "Own work, from gileslaurent.com",
+      "title": "File:PO boxes at the historic Chico Post Office (2024)-L1005460.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/PO_boxes_at_the_historic_Chico_Post_Office_%282024%29-L1005460.jpg/960px-PO_boxes_at_the_historic_Chico_Post_Office_%282024%29-L1005460.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "PO boxes at the historic U.S. Post Office in downtown Chico, California. Today is International World Post Day.",
+      "creator": "Frank Schulenburg",
+      "credit": "Self-photographed This photo was taken with Leica M11",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:011_Jaguar_drinking_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PO_boxes_at_the_historic_Chico_Post_Office_(2024)-L1005460.jpg"
     },
     "culture": {
       "status": "live",
-      "year": 1956,
-      "text": "The New York Yankees's Don Larsen pitches the only perfect game in a World Series.",
-      "title": "Don Larsen",
-      "description": "American baseball player (1929–2020)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Don_Larsen"
+      "year": 1984,
+      "text": "The popular children's television show Thomas The Tank Engine & Friends, based on The Railway Series by the Reverend Wilbert Awdry, premieres on ITV.",
+      "title": "Thomas & Friends",
+      "description": "British children's television series",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Thomas_%26_Friends"
     }
   }
 }
