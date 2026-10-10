@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1969,
-      "text": "In Chicago, the National Guard is called in as demonstrations continue over the trial of the \"Chicago Eight\".",
-      "title": "Chicago",
-      "description": "Most populous city in Illinois, US",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Chicago"
+      "year": 1997,
+      "text": "Austral Líneas Aéreas Flight 2553 crashes and explodes in Uruguay, killing 74.",
+      "title": "Austral Líneas Aéreas Flight 2553",
+      "description": "1997 aviation accident in Uruguay",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Austral_L%C3%ADneas_A%C3%A9reas_Flight_2553"
     },
     "birthday": {
       "status": "live",
-      "name": "Harry Hooton",
-      "birthYear": 1908,
-      "knownFor": "Australian poet and anarchist",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Harry_Hooton"
+      "name": "Raymond Tallis",
+      "birthYear": 1946,
+      "knownFor": "British philosopher (born 1946)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Raymond_Tallis"
     },
     "photo": {
       "status": "live",
-      "title": "File:PO boxes at the historic Chico Post Office (2024)-L1005460.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/PO_boxes_at_the_historic_Chico_Post_Office_%282024%29-L1005460.jpg/960px-PO_boxes_at_the_historic_Chico_Post_Office_%282024%29-L1005460.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "PO boxes at the historic U.S. Post Office in downtown Chico, California. Today is International World Post Day.",
-      "creator": "Frank Schulenburg",
-      "credit": "Self-photographed This photo was taken with Leica M11",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PO_boxes_at_the_historic_Chico_Post_Office_(2024)-L1005460.jpg"
+      "title": "File:Bust of Germanicus, front - Getty Museum (2021.66).jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Bust_of_Germanicus%2C_front_-_Getty_Museum_%282021.66%29.jpg/960px-Bust_of_Germanicus%2C_front_-_Getty_Museum_%282021.66%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Bust of Germanicus, Getty Villa, California. The young Germanicus is depicted before the Roman rite of depositio barbae, the first shaving of the beard. Adopted by emperor Tiberius, Germanicus should succed him as Emperor, if he hadn't died on this day 2007 years ago.",
+      "creator": "J. Paul Getty Museum",
+      "credit": "The Getty Center, Object 10A1E7\n\n\n\n\n\nThis image was taken from the Getty Research Institute's Open Content Program, which states the following regarding their assessment that no known copyright restrictions exist:\nOpen content images are digital surrogates of works of art that are in the Getty's collections and in the public domain, for which we hold all rights, or for which we are not aware of any rights restrictions.\nWhile the Getty Research Institute cannot make an absolute statement on the copyright status of a given image, \"Open content images can be used for any purpose without first seeking permission from the Getty.\"\nMore information can be found at http://www.getty.edu/about/opencontent.html.No known copyright restrictionsNo restrictionshttp://www.getty.edu/about/opencontent.htmlfalse",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bust_of_Germanicus,_front_-_Getty_Museum_(2021.66).jpg"
     },
     "culture": {
       "status": "live",
-      "year": 1984,
-      "text": "The popular children's television show Thomas The Tank Engine & Friends, based on The Railway Series by the Reverend Wilbert Awdry, premieres on ITV.",
-      "title": "Thomas & Friends",
-      "description": "British children's television series",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Thomas_%26_Friends"
+      "year": 1970,
+      "text": "Canada's October Crisis escalates when Quebec Vice Premier Pierre Laporte is kidnapped by members of the Front de libération du Québec.",
+      "title": "October Crisis",
+      "description": "1970 series of events in Quebec, Canada",
+      "sourceUrl": "https://en.wikipedia.org/wiki/October_Crisis"
     }
   }
 }
