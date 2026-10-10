@@ -20,9 +20,13 @@ test('defines a Chicago-aware daily workflow with fallback generation and an emp
   assert.match(workflow, /npm run generate:emergency --/);
   assert.match(workflow, /data\/last-run\.json/);
   assert.match(workflow, /steps\.daily-run\.outputs\.needed == 'true'/);
+  assert.match(workflow, /- name: Identify daily attempt/);
+  assert.match(workflow, /'17 7 \* \* \*'\) ATTEMPT='attempt 1'/);
+  assert.match(workflow, /'17 10 \* \* \*'\) ATTEMPT='attempt 2'/);
+  assert.match(workflow, /'17 13 \* \* \*'\) ATTEMPT='attempt 3'/);
   assert.match(workflow, /provider-health-alerts/);
   assert.match(workflow, /Alert on persistent provider outages[\s\S]*continue-on-error: true/);
-  assert.match(workflow, /git commit --allow-empty -m "daily: \$DATE"/);
+  assert.match(workflow, /git commit --allow-empty -m "daily: \$DATE \(\$ATTEMPT\)"/);
   assert.match(workflow, /git rebase "origin\/\$DEFAULT_BRANCH"/);
   assert.match(workflow, /COMMIT_NAME/);
   assert.match(workflow, /COMMIT_EMAIL/);
