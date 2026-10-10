@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1990,
-      "text": "Space Shuttle Discovery is launched on STS-41, and deploys the Ulysses space probe to study the Sun's polar regions.",
-      "title": "Space Shuttle Discovery",
-      "description": "Space Shuttle orbiter (1984–2011)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery"
+      "year": 1997,
+      "text": "Austral Líneas Aéreas Flight 2553 crashes and explodes in Uruguay, killing 74.",
+      "title": "Austral Líneas Aéreas Flight 2553",
+      "description": "1997 aviation accident in Uruguay",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Austral_L%C3%ADneas_A%C3%A9reas_Flight_2553"
     },
     "birthday": {
       "status": "live",
-      "name": "Sheila Greibach",
-      "birthYear": 1939,
-      "knownFor": "American computer scientist",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Sheila_Greibach"
+      "name": "Raymond Tallis",
+      "birthYear": 1946,
+      "knownFor": "British philosopher (born 1946)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Raymond_Tallis"
     },
     "photo": {
       "status": "live",
-      "title": "File:Bessen van een Mahonia aquifolium. 17-08-2025. (actm.) 01.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Bessen_van_een_Mahonia_aquifolium._17-08-2025._%28actm.%29_01.jpg/960px-Bessen_van_een_Mahonia_aquifolium._17-08-2025._%28actm.%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "Berries from a Mahonia aquifolium shrub. Focus stack of 19 photos.",
-      "creator": "Agnes Monkelbaan",
-      "credit": "Own work",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bessen_van_een_Mahonia_aquifolium._17-08-2025._(actm.)_01.jpg"
+      "title": "File:Bust of Germanicus, front - Getty Museum (2021.66).jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Bust_of_Germanicus%2C_front_-_Getty_Museum_%282021.66%29.jpg/960px-Bust_of_Germanicus%2C_front_-_Getty_Museum_%282021.66%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Bust of Germanicus, Getty Villa, California. The young Germanicus is depicted before the Roman rite of depositio barbae, the first shaving of the beard. Adopted by emperor Tiberius, Germanicus should succed him as Emperor, if he hadn't died on this day 2007 years ago.",
+      "creator": "J. Paul Getty Museum",
+      "credit": "The Getty Center, Object 10A1E7\n\n\n\n\n\nThis image was taken from the Getty Research Institute's Open Content Program, which states the following regarding their assessment that no known copyright restrictions exist:\nOpen content images are digital surrogates of works of art that are in the Getty's collections and in the public domain, for which we hold all rights, or for which we are not aware of any rights restrictions.\nWhile the Getty Research Institute cannot make an absolute statement on the copyright status of a given image, \"Open content images can be used for any purpose without first seeking permission from the Getty.\"\nMore information can be found at http://www.getty.edu/about/opencontent.html.No known copyright restrictionsNo restrictionshttp://www.getty.edu/about/opencontent.htmlfalse",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bust_of_Germanicus,_front_-_Getty_Museum_(2021.66).jpg"
     },
     "culture": {
       "status": "live",
-      "year": 1854,
-      "text": "In England the great fire of Newcastle and Gateshead leads to 53 deaths and hundreds injured.",
-      "title": "Great fire of Newcastle and Gateshead",
-      "description": "1854 series of fires and an explosion in Tyne and Wear, England",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Great_fire_of_Newcastle_and_Gateshead"
+      "year": 1970,
+      "text": "Canada's October Crisis escalates when Quebec Vice Premier Pierre Laporte is kidnapped by members of the Front de libération du Québec.",
+      "title": "October Crisis",
+      "description": "1970 series of events in Quebec, Canada",
+      "sourceUrl": "https://en.wikipedia.org/wiki/October_Crisis"
     }
   }
 }
