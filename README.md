@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-10-10
+## Today — 2026-10-11
 
 ### Photo
-![Bust of Germanicus, Getty Villa, California. The young Germanicus is depicted before the Roman rite of depositio barbae, the first shaving of the beard. Adopted by emperor Tiberius, Germanicus should succed him as Emperor, if he hadn't died on this day 2007 years ago.](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Bust_of_Germanicus%2C_front_-_Getty_Museum_%282021.66%29.jpg/960px-Bust_of_Germanicus%2C_front_-_Getty_Museum_%282021.66%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Archaeological area of Cantona, Puebla, Mexico](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Zona_arqueol%C3%B3gica_de_Cantona%2C_Puebla%2C_M%C3%A9xico%2C_2013-10-11%2C_DD_43.JPG/960px-Zona_arqueol%C3%B3gica_de_Cantona%2C_Puebla%2C_M%C3%A9xico%2C_2013-10-11%2C_DD_43.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Bust of Germanicus, Getty Villa, California. The young Germanicus is depicted before the Roman rite of depositio barbae, the first shaving of the beard. Adopted by emperor Tiberius, Germanicus should succed him as Emperor, if he hadn't died on this day 2007 years ago.* — J. Paul Getty Museum. [Source](https://commons.wikimedia.org/wiki/File:Bust_of_Germanicus,_front_-_Getty_Museum_(2021.66).jpg) · CC0
+*Archaeological area of Cantona, Puebla, Mexico* — Diego Delso. [Source](https://commons.wikimedia.org/wiki/File:Zona_arqueol%C3%B3gica_de_Cantona,_Puebla,_M%C3%A9xico,_2013-10-11,_DD_43.JPG) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**pragmatic** — *adjective*
+**serendipity** — *noun*
 
-Dealing with problems in a practical way.
+The occurrence of a fortunate discovery by chance.
 
-A pragmatic plan focused on the smallest useful next step.
+Finding the note in the old book was pure serendipity.
 
 ### Quote
-> I have measured out my life with coffee spoons.
+> Hope is the thing with feathers.
 
-— T. S. Eliot, *The Love Song of J. Alfred Prufrock*
+— Emily Dickinson, *"Hope" is the thing with feathers*
 
 ### On This Day
-Austral Líneas Aéreas Flight 2553 crashes and explodes in Uruguay, killing 74.
+George Washington is posthumously promoted to the grade of General of the Armies.
 
-[Source](https://en.wikipedia.org/wiki/Austral_L%C3%ADneas_A%C3%A9reas_Flight_2553)
+[Source](https://en.wikipedia.org/wiki/George_Washington)
 
 ### Born Today
-**Raymond Tallis** (1946) — British philosopher (born 1946)
+**Michael J. Nelson** (1964) — American comedian and writer (born 1964)
 
-[Source](https://en.wikipedia.org/wiki/Raymond_Tallis)
+[Source](https://en.wikipedia.org/wiki/Michael_J._Nelson)
 
 ### Pop Culture
-Canada's October Crisis escalates when Quebec Vice Premier Pierre Laporte is kidnapped by members of the Front de libération du Québec.
+CBS's field-sequential color system for television is the first to be licensed for broadcast by the U.S. Federal Communications Commission.
 
-[Source](https://en.wikipedia.org/wiki/October_Crisis)
+[Source](https://en.wikipedia.org/wiki/Field-sequential_color_system)
 
 ### Miscellaneous
-**science:** Light from the Sun reaches Earth in about eight minutes and twenty seconds.
+**geography:** Africa is the only continent that extends into all four hemispheres.
 
 <!-- DAILY_CONTENT_END -->
 
