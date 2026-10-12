@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-10-11
+## Today — 2026-10-12
 
 ### Photo
-![Archaeological area of Cantona, Puebla, Mexico](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Zona_arqueol%C3%B3gica_de_Cantona%2C_Puebla%2C_M%C3%A9xico%2C_2013-10-11%2C_DD_43.JPG/960px-Zona_arqueol%C3%B3gica_de_Cantona%2C_Puebla%2C_M%C3%A9xico%2C_2013-10-11%2C_DD_43.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Gotland Grand National 2023. Gotland Grand National has long been considered the world’s largest Enduro competition and was first run in 1984.](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Gotland_Grand_National_October_2023_12.jpg/960px-Gotland_Grand_National_October_2023_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Archaeological area of Cantona, Puebla, Mexico* — Diego Delso. [Source](https://commons.wikimedia.org/wiki/File:Zona_arqueol%C3%B3gica_de_Cantona,_Puebla,_M%C3%A9xico,_2013-10-11,_DD_43.JPG) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Gotland Grand National 2023. Gotland Grand National has long been considered the world’s largest Enduro competition and was first run in 1984.* — Arild Vågen. [Source](https://commons.wikimedia.org/wiki/File:Gotland_Grand_National_October_2023_12.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**serendipity** — *noun*
+**meticulous** — *adjective*
 
-The occurrence of a fortunate discovery by chance.
+Showing great attention to detail.
 
-Finding the note in the old book was pure serendipity.
+The meticulous inventory made the handoff straightforward.
 
 ### Quote
-> Hope is the thing with feathers.
+> Not all those who wander are lost.
 
-— Emily Dickinson, *"Hope" is the thing with feathers*
+— J. R. R. Tolkien, *The Fellowship of the Ring*
 
 ### On This Day
-George Washington is posthumously promoted to the grade of General of the Armies.
+Battle of Hatfield Chase: King Edwin of Northumbria is defeated and killed by an alliance under Penda of Mercia and Cadwallon of Gwynedd.
 
-[Source](https://en.wikipedia.org/wiki/George_Washington)
+[Source](https://en.wikipedia.org/wiki/Battle_of_Hatfield_Chase)
 
 ### Born Today
-**Michael J. Nelson** (1964) — American comedian and writer (born 1964)
+**Paul Hawkins (racing driver)** (1937) — Australian racing driver (1937–1969)
 
-[Source](https://en.wikipedia.org/wiki/Michael_J._Nelson)
+[Source](https://en.wikipedia.org/wiki/Paul_Hawkins_(racing_driver))
 
 ### Pop Culture
-CBS's field-sequential color system for television is the first to be licensed for broadcast by the U.S. Federal Communications Commission.
+The Finnish Yle TV2 channel's Ajankohtainen kakkonen current affairs program airs controversial Homoilta episode (literally "gay night"), which leads to the resignation of almost 50,000 Finns from the Evangelical Lutheran Church.
 
-[Source](https://en.wikipedia.org/wiki/Field-sequential_color_system)
+[Source](https://en.wikipedia.org/wiki/Yle_TV2)
 
 ### Miscellaneous
-**geography:** Africa is the only continent that extends into all four hemispheres.
+**technology:** The first computer bug was a moth found in a relay of the Harvard Mark II.
 
 <!-- DAILY_CONTENT_END -->
 

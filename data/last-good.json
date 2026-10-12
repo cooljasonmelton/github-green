@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1976,
-      "text": "George Washington is posthumously promoted to the grade of General of the Armies.",
-      "title": "George Washington",
-      "description": "Founding Father, U.S. president from 1789 to 1797",
-      "sourceUrl": "https://en.wikipedia.org/wiki/George_Washington"
+      "year": 633,
+      "text": "Battle of Hatfield Chase: King Edwin of Northumbria is defeated and killed by an alliance under Penda of Mercia and Cadwallon of Gwynedd.",
+      "title": "Battle of Hatfield Chase",
+      "description": "Battle between the kingdoms of Northumbria, Gwynedd and Mercia (633 AD)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Hatfield_Chase"
     },
     "birthday": {
       "status": "live",
-      "name": "Michael J. Nelson",
-      "birthYear": 1964,
-      "knownFor": "American comedian and writer (born 1964)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Michael_J._Nelson"
+      "name": "Paul Hawkins (racing driver)",
+      "birthYear": 1937,
+      "knownFor": "Australian racing driver (1937–1969)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Paul_Hawkins_(racing_driver)"
     },
     "photo": {
       "status": "live",
-      "title": "File:Zona arqueológica de Cantona, Puebla, México, 2013-10-11, DD 43.JPG",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Zona_arqueol%C3%B3gica_de_Cantona%2C_Puebla%2C_M%C3%A9xico%2C_2013-10-11%2C_DD_43.JPG/960px-Zona_arqueol%C3%B3gica_de_Cantona%2C_Puebla%2C_M%C3%A9xico%2C_2013-10-11%2C_DD_43.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "Archaeological area of Cantona, Puebla, Mexico",
-      "creator": "Diego Delso",
+      "title": "File:Gotland Grand National October 2023 12.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Gotland_Grand_National_October_2023_12.jpg/960px-Gotland_Grand_National_October_2023_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Gotland Grand National 2023. Gotland Grand National has long been considered the world’s largest Enduro competition and was first run in 1984.",
+      "creator": "Arild Vågen",
       "credit": "Own work",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zona_arqueol%C3%B3gica_de_Cantona,_Puebla,_M%C3%A9xico,_2013-10-11,_DD_43.JPG"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gotland_Grand_National_October_2023_12.jpg"
     },
     "culture": {
       "status": "live",
-      "year": 1950,
-      "text": "CBS's field-sequential color system for television is the first to be licensed for broadcast by the U.S. Federal Communications Commission.",
-      "title": "Field-sequential color system",
-      "description": "Color television system",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Field-sequential_color_system"
+      "year": 2010,
+      "text": "The Finnish Yle TV2 channel's Ajankohtainen kakkonen current affairs program airs controversial Homoilta episode (literally \"gay night\"), which leads to the resignation of almost 50,000 Finns from the Evangelical Lutheran Church.",
+      "title": "Yle TV2",
+      "description": "Finnish television channel",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Yle_TV2"
     }
   }
 }
