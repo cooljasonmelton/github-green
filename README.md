@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-10-12
+## Today — 2026-10-13
 
 ### Photo
-![Gotland Grand National 2023. Gotland Grand National has long been considered the world’s largest Enduro competition and was first run in 1984.](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Gotland_Grand_National_October_2023_12.jpg/960px-Gotland_Grand_National_October_2023_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Desert elephant (Loxodonta africana) spraying sand on herself while guarding her sleeping baby. She has covered the baby with a branch. In Damaraland, Namibia](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Desert_elephant_%28Loxodonta_africana%29_spraying_sand.jpg/960px-Desert_elephant_%28Loxodonta_africana%29_spraying_sand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Gotland Grand National 2023. Gotland Grand National has long been considered the world’s largest Enduro competition and was first run in 1984.* — Arild Vågen. [Source](https://commons.wikimedia.org/wiki/File:Gotland_Grand_National_October_2023_12.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Desert elephant (Loxodonta africana) spraying sand on herself while guarding her sleeping baby. She has covered the baby with a branch. In Damaraland, Namibia* — Charles J. Sharp. [Source](https://commons.wikimedia.org/wiki/File:Desert_elephant_(Loxodonta_africana)_spraying_sand.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**meticulous** — *adjective*
+**resilient** — *adjective*
 
-Showing great attention to detail.
+Able to recover quickly from difficulty or change.
 
-The meticulous inventory made the handoff straightforward.
+The resilient process continued after one input failed.
 
 ### Quote
-> Not all those who wander are lost.
+> There is no charm equal to tenderness of heart.
 
-— J. R. R. Tolkien, *The Fellowship of the Ring*
+— Jane Austen, *Emma*
 
 ### On This Day
-Battle of Hatfield Chase: King Edwin of Northumbria is defeated and killed by an alliance under Penda of Mercia and Cadwallon of Gwynedd.
+Port Royal, the capital of French Acadia, falls in a siege by British forces.
 
-[Source](https://en.wikipedia.org/wiki/Battle_of_Hatfield_Chase)
+[Source](https://en.wikipedia.org/wiki/Siege_of_Port_Royal_(1710))
 
 ### Born Today
-**Paul Hawkins (racing driver)** (1937) — Australian racing driver (1937–1969)
+**Turgut Özal** (1927) — President of Turkey from 1989 to 1993
 
-[Source](https://en.wikipedia.org/wiki/Paul_Hawkins_(racing_driver))
+[Source](https://en.wikipedia.org/wiki/Turgut_%C3%96zal)
 
 ### Pop Culture
-The Finnish Yle TV2 channel's Ajankohtainen kakkonen current affairs program airs controversial Homoilta episode (literally "gay night"), which leads to the resignation of almost 50,000 Finns from the Evangelical Lutheran Church.
+The Boston Red Sox win the first modern World Series, defeating the Pittsburgh Pirates in the eighth game.
 
-[Source](https://en.wikipedia.org/wiki/Yle_TV2)
+[Source](https://en.wikipedia.org/wiki/1903_World_Series)
 
 ### Miscellaneous
-**technology:** The first computer bug was a moth found in a relay of the Harvard Mark II.
+**art:** The Louvre began as a medieval fortress before becoming a museum.
 
 <!-- DAILY_CONTENT_END -->
 

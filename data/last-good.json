@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 633,
-      "text": "Battle of Hatfield Chase: King Edwin of Northumbria is defeated and killed by an alliance under Penda of Mercia and Cadwallon of Gwynedd.",
-      "title": "Battle of Hatfield Chase",
-      "description": "Battle between the kingdoms of Northumbria, Gwynedd and Mercia (633 AD)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Hatfield_Chase"
+      "year": 1710,
+      "text": "Port Royal, the capital of French Acadia, falls in a siege by British forces.",
+      "title": "Siege of Port Royal (1710)",
+      "description": "Part of Queen Anne's War",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Siege_of_Port_Royal_(1710)"
     },
     "birthday": {
       "status": "live",
-      "name": "Paul Hawkins (racing driver)",
-      "birthYear": 1937,
-      "knownFor": "Australian racing driver (1937–1969)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Paul_Hawkins_(racing_driver)"
+      "name": "Turgut Özal",
+      "birthYear": 1927,
+      "knownFor": "President of Turkey from 1989 to 1993",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Turgut_%C3%96zal"
     },
     "photo": {
       "status": "live",
-      "title": "File:Gotland Grand National October 2023 12.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Gotland_Grand_National_October_2023_12.jpg/960px-Gotland_Grand_National_October_2023_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "Gotland Grand National 2023. Gotland Grand National has long been considered the world’s largest Enduro competition and was first run in 1984.",
-      "creator": "Arild Vågen",
-      "credit": "Own work",
+      "title": "File:Desert elephant (Loxodonta africana) spraying sand.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Desert_elephant_%28Loxodonta_africana%29_spraying_sand.jpg/960px-Desert_elephant_%28Loxodonta_africana%29_spraying_sand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Desert elephant (Loxodonta africana) spraying sand on herself while guarding her sleeping baby. She has covered the baby with a branch. In Damaraland, Namibia",
+      "creator": "Charles J. Sharp",
+      "credit": "Own work, from Sharp Photography, sharpphotography.co.uk",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gotland_Grand_National_October_2023_12.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Desert_elephant_(Loxodonta_africana)_spraying_sand.jpg"
     },
     "culture": {
       "status": "live",
-      "year": 2010,
-      "text": "The Finnish Yle TV2 channel's Ajankohtainen kakkonen current affairs program airs controversial Homoilta episode (literally \"gay night\"), which leads to the resignation of almost 50,000 Finns from the Evangelical Lutheran Church.",
-      "title": "Yle TV2",
-      "description": "Finnish television channel",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Yle_TV2"
+      "year": 1903,
+      "text": "The Boston Red Sox win the first modern World Series, defeating the Pittsburgh Pirates in the eighth game.",
+      "title": "1903 World Series",
+      "description": "First modern Major League Baseball championship",
+      "sourceUrl": "https://en.wikipedia.org/wiki/1903_World_Series"
     }
   }
 }
