@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-10-13
+## Today — 2026-10-14
 
 ### Photo
-![Desert elephant (Loxodonta africana) spraying sand on herself while guarding her sleeping baby. She has covered the baby with a branch. In Damaraland, Namibia](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Desert_elephant_%28Loxodonta_africana%29_spraying_sand.jpg/960px-Desert_elephant_%28Loxodonta_africana%29_spraying_sand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Great Blue Heron (Ardea herodias), hunting at Richardson Bay near Strawberry, California](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Great_Blue_Heron_%28Ardea_herodias%29%2C_hunting.jpg/960px-Great_Blue_Heron_%28Ardea_herodias%29%2C_hunting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Desert elephant (Loxodonta africana) spraying sand on herself while guarding her sleeping baby. She has covered the baby with a branch. In Damaraland, Namibia* — Charles J. Sharp. [Source](https://commons.wikimedia.org/wiki/File:Desert_elephant_(Loxodonta_africana)_spraying_sand.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Great Blue Heron (Ardea herodias), hunting at Richardson Bay near Strawberry, California* — Frank Schulenburg. [Source](https://commons.wikimedia.org/wiki/File:Great_Blue_Heron_(Ardea_herodias),_hunting.jpg) · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
 
 ### Word
-**resilient** — *adjective*
+**curious** — *adjective*
 
-Able to recover quickly from difficulty or change.
+Eager to know or learn something.
 
-The resilient process continued after one input failed.
+A curious question often reveals the useful edge case.
 
 ### Quote
-> There is no charm equal to tenderness of heart.
+> All that we see or seem is but a dream within a dream.
 
-— Jane Austen, *Emma*
+— Edgar Allan Poe, *A Dream Within a Dream*
 
 ### On This Day
-Port Royal, the capital of French Acadia, falls in a siege by British forces.
+An RAF Avro Vulcan bomber explodes and crashes over Żabbar, Malta after an aborted landing, killing five crew members and one person on the ground.
 
-[Source](https://en.wikipedia.org/wiki/Siege_of_Port_Royal_(1710))
+[Source](https://en.wikipedia.org/wiki/Royal_Air_Force)
 
 ### Born Today
-**Turgut Özal** (1927) — President of Turkey from 1989 to 1993
+**Yvon Durelle** (1929) — Canadian boxer (1929–2007)
 
-[Source](https://en.wikipedia.org/wiki/Turgut_%C3%96zal)
+[Source](https://en.wikipedia.org/wiki/Yvon_Durelle)
 
 ### Pop Culture
-The Boston Red Sox win the first modern World Series, defeating the Pittsburgh Pirates in the eighth game.
+The Steve Bartman Incident takes place at Wrigley Field in Chicago, Illinois.
 
-[Source](https://en.wikipedia.org/wiki/1903_World_Series)
+[Source](https://en.wikipedia.org/wiki/Steve_Bartman_incident)
 
 ### Miscellaneous
-**art:** The Louvre began as a medieval fortress before becoming a museum.
+**literature:** The Gutenberg Bible was printed in Mainz around 1455.
 
 <!-- DAILY_CONTENT_END -->
 
