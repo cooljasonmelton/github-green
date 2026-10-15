@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-10-14
+## Today — 2026-10-15
 
 ### Photo
-![Great Blue Heron (Ardea herodias), hunting at Richardson Bay near Strawberry, California](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Great_Blue_Heron_%28Ardea_herodias%29%2C_hunting.jpg/960px-Great_Blue_Heron_%28Ardea_herodias%29%2C_hunting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![White teatfish (Holothuria fuscogilva), Ras Muhammad National Park, Red Sea, Egypt. This species of sea cucumber, also known as white teeth, is found in shallow waters near islands and around coral reefs in the tropical waters of the Indo-Pacific ocean. Juvenile cucumbers live in shallower waters (such as inter-tidal zones) and then migrate to deeper waters as they mature. Adult cucumbers weigh between 2.4 and 4 kilograms. They are oval in shape and have a firm texture. This species cucumber has lateral papillae (teats) which are often buried in the sand. As it's consumed as a food and is part of a large commercial fishery across its range, it was listed as vulnerable on the IUCN Red List in 2010 due to overfishing.](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Pepino_de_mar_%28Holothuria_fuscogilva%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-28%2C_DD_119.jpg/960px-Pepino_de_mar_%28Holothuria_fuscogilva%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-28%2C_DD_119.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Great Blue Heron (Ardea herodias), hunting at Richardson Bay near Strawberry, California* — Frank Schulenburg. [Source](https://commons.wikimedia.org/wiki/File:Great_Blue_Heron_(Ardea_herodias),_hunting.jpg) · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
+*White teatfish (Holothuria fuscogilva), Ras Muhammad National Park, Red Sea, Egypt. This species of sea cucumber, also known as white teeth, is found in shallow waters near islands and around coral reefs in the tropical waters of the Indo-Pacific ocean. Juvenile cucumbers live in shallower waters (such as inter-tidal zones) and then migrate to deeper waters as they mature. Adult cucumbers weigh between 2.4 and 4 kilograms. They are oval in shape and have a firm texture. This species cucumber has lateral papillae (teats) which are often buried in the sand. As it's consumed as a food and is part of a large commercial fishery across its range, it was listed as vulnerable on the IUCN Red List in 2010 due to overfishing.* — Diego Delso. [Source](https://commons.wikimedia.org/wiki/File:Pepino_de_mar_(Holothuria_fuscogilva),_parque_nacional_Ras_Muhammad,_Egipto,_2022-03-28,_DD_119.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**curious** — *adjective*
+**lucid** — *adjective*
 
-Eager to know or learn something.
+Expressed clearly and easy to understand.
 
-A curious question often reveals the useful edge case.
+Her lucid explanation made the new process less intimidating.
 
 ### Quote
-> All that we see or seem is but a dream within a dream.
+> The unexamined life is not worth living.
 
-— Edgar Allan Poe, *A Dream Within a Dream*
+— Socrates, *Plato, Apology*
 
 ### On This Day
-An RAF Avro Vulcan bomber explodes and crashes over Żabbar, Malta after an aborted landing, killing five crew members and one person on the ground.
+Qing forces capture the island of Zhoushan. Zhu Yihai, Prince of Lu, resident of the island and regent of the Southern Ming, flees to Kinmen.
 
-[Source](https://en.wikipedia.org/wiki/Royal_Air_Force)
+[Source](https://en.wikipedia.org/wiki/Qing_dynasty)
 
 ### Born Today
-**Yvon Durelle** (1929) — Canadian boxer (1929–2007)
+**Robert Baden-Powell, 3rd Baron Baden-Powell** (1936) — British Baron and Scouting leader
 
-[Source](https://en.wikipedia.org/wiki/Yvon_Durelle)
+[Source](https://en.wikipedia.org/wiki/Robert_Baden-Powell%2C_3rd_Baron_Baden-Powell)
 
 ### Pop Culture
-The Steve Bartman Incident takes place at Wrigley Field in Chicago, Illinois.
+Seventeen activists in New Zealand are arrested in the country's first post-9/11 anti-terrorism raids.
 
-[Source](https://en.wikipedia.org/wiki/Steve_Bartman_incident)
+[Source](https://en.wikipedia.org/wiki/2007_New_Zealand_police_raids)
 
 ### Miscellaneous
-**literature:** The Gutenberg Bible was printed in Mainz around 1455.
+**space:** A day on Venus lasts longer than a Venusian year.
 
 <!-- DAILY_CONTENT_END -->
 
