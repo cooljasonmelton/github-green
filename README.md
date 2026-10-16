@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-10-15
+## Today — 2026-10-16
 
 ### Photo
-![White teatfish (Holothuria fuscogilva), Ras Muhammad National Park, Red Sea, Egypt. This species of sea cucumber, also known as white teeth, is found in shallow waters near islands and around coral reefs in the tropical waters of the Indo-Pacific ocean. Juvenile cucumbers live in shallower waters (such as inter-tidal zones) and then migrate to deeper waters as they mature. Adult cucumbers weigh between 2.4 and 4 kilograms. They are oval in shape and have a firm texture. This species cucumber has lateral papillae (teats) which are often buried in the sand. As it's consumed as a food and is part of a large commercial fishery across its range, it was listed as vulnerable on the IUCN Red List in 2010 due to overfishing.](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Pepino_de_mar_%28Holothuria_fuscogilva%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-28%2C_DD_119.jpg/960px-Pepino_de_mar_%28Holothuria_fuscogilva%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-28%2C_DD_119.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Promenade, Norderney, Lower Saxony, Germany](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Norderney%2C_Promenade_--_2025_--_9281.jpg/960px-Norderney%2C_Promenade_--_2025_--_9281.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*White teatfish (Holothuria fuscogilva), Ras Muhammad National Park, Red Sea, Egypt. This species of sea cucumber, also known as white teeth, is found in shallow waters near islands and around coral reefs in the tropical waters of the Indo-Pacific ocean. Juvenile cucumbers live in shallower waters (such as inter-tidal zones) and then migrate to deeper waters as they mature. Adult cucumbers weigh between 2.4 and 4 kilograms. They are oval in shape and have a firm texture. This species cucumber has lateral papillae (teats) which are often buried in the sand. As it's consumed as a food and is part of a large commercial fishery across its range, it was listed as vulnerable on the IUCN Red List in 2010 due to overfishing.* — Diego Delso. [Source](https://commons.wikimedia.org/wiki/File:Pepino_de_mar_(Holothuria_fuscogilva),_parque_nacional_Ras_Muhammad,_Egipto,_2022-03-28,_DD_119.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Promenade, Norderney, Lower Saxony, Germany* — Dietmar Rabich. [Source](https://commons.wikimedia.org/wiki/File:Norderney,_Promenade_--_2025_--_9281.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**lucid** — *adjective*
+**tenacious** — *adjective*
 
-Expressed clearly and easy to understand.
+Tending to keep a firm hold of something; persistent.
 
-Her lucid explanation made the new process less intimidating.
+The tenacious researcher checked each source twice.
 
 ### Quote
-> The unexamined life is not worth living.
+> To thine own self be true.
 
-— Socrates, *Plato, Apology*
+— William Shakespeare, *Hamlet, Act 1, Scene 3*
 
 ### On This Day
-Qing forces capture the island of Zhoushan. Zhu Yihai, Prince of Lu, resident of the island and regent of the Southern Ming, flees to Kinmen.
+The Partition of Bengal in India takes place.
 
-[Source](https://en.wikipedia.org/wiki/Qing_dynasty)
+[Source](https://en.wikipedia.org/wiki/Partition_of_Bengal_(1905))
 
 ### Born Today
-**Robert Baden-Powell, 3rd Baron Baden-Powell** (1936) — British Baron and Scouting leader
+**Kathleen Winsor** (1919) — American novelist (1915–2003)
 
-[Source](https://en.wikipedia.org/wiki/Robert_Baden-Powell%2C_3rd_Baron_Baden-Powell)
+[Source](https://en.wikipedia.org/wiki/Kathleen_Winsor)
 
 ### Pop Culture
-Seventeen activists in New Zealand are arrested in the country's first post-9/11 anti-terrorism raids.
+Super Mario Bros. was released in Japan for the Nintendo Entertainment System in 1985.
 
-[Source](https://en.wikipedia.org/wiki/2007_New_Zealand_police_raids)
+[Source](https://en.wikipedia.org/wiki/Super_Mario_Bros.)
 
 ### Miscellaneous
-**space:** A day on Venus lasts longer than a Venusian year.
+**animals:** Octopuses have three hearts.
 
 <!-- DAILY_CONTENT_END -->
 
