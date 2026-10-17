@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-10-16
+## Today — 2026-10-17
 
 ### Photo
-![Promenade, Norderney, Lower Saxony, Germany](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Norderney%2C_Promenade_--_2025_--_9281.jpg/960px-Norderney%2C_Promenade_--_2025_--_9281.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Purple beautyberry, Daisen Park, Sakai, Osaka. Focus stack of 4 photos.](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Purple_beautyberry%2C_October_2015_-_Stacking.jpg/960px-Purple_beautyberry%2C_October_2015_-_Stacking.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Promenade, Norderney, Lower Saxony, Germany* — Dietmar Rabich. [Source](https://commons.wikimedia.org/wiki/File:Norderney,_Promenade_--_2025_--_9281.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Purple beautyberry, Daisen Park, Sakai, Osaka. Focus stack of 4 photos.* — Laitche. [Source](https://commons.wikimedia.org/wiki/File:Purple_beautyberry,_October_2015_-_Stacking.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**tenacious** — *adjective*
+**pragmatic** — *adjective*
 
-Tending to keep a firm hold of something; persistent.
+Dealing with problems in a practical way.
 
-The tenacious researcher checked each source twice.
+A pragmatic plan focused on the smallest useful next step.
 
 ### Quote
-> To thine own self be true.
+> I have measured out my life with coffee spoons.
 
-— William Shakespeare, *Hamlet, Act 1, Scene 3*
+— T. S. Eliot, *The Love Song of J. Alfred Prufrock*
 
 ### On This Day
-The Partition of Bengal in India takes place.
+Leeds United F.C. founded at Salem Chapel, Holbeck after the winding up of Leeds City F.C. for making illegal payments to players during World War I
 
-[Source](https://en.wikipedia.org/wiki/Partition_of_Bengal_(1905))
+[Source](https://en.wikipedia.org/wiki/Leeds_United_F.C.)
 
 ### Born Today
-**Kathleen Winsor** (1919) — American novelist (1915–2003)
+**Francis Turretin** (1623) — Genevan-Italian Reformed scholastic theologian (1623–1687)
 
-[Source](https://en.wikipedia.org/wiki/Kathleen_Winsor)
+[Source](https://en.wikipedia.org/wiki/Francis_Turretin)
 
 ### Pop Culture
-Super Mario Bros. was released in Japan for the Nintendo Entertainment System in 1985.
+FLQ terrorists murder Quebec Vice-Premier and Minister of Labour Pierre Laporte.
 
-[Source](https://en.wikipedia.org/wiki/Super_Mario_Bros.)
+[Source](https://en.wikipedia.org/wiki/October_Crisis)
 
 ### Miscellaneous
-**animals:** Octopuses have three hearts.
+**science:** Light from the Sun reaches Earth in about eight minutes and twenty seconds.
 
 <!-- DAILY_CONTENT_END -->
 

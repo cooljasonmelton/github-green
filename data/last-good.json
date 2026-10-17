@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1905,
-      "text": "The Partition of Bengal in India takes place.",
-      "title": "Partition of Bengal (1905)",
-      "description": "Territorial partition in British India",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Partition_of_Bengal_(1905)"
+      "year": 1919,
+      "text": "Leeds United F.C. founded at Salem Chapel, Holbeck after the winding up of Leeds City F.C. for making illegal payments to players during World War I",
+      "title": "Leeds United F.C.",
+      "description": "Association football club in England",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Leeds_United_F.C."
     },
     "birthday": {
       "status": "live",
-      "name": "Kathleen Winsor",
-      "birthYear": 1919,
-      "knownFor": "American novelist (1915–2003)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Kathleen_Winsor"
+      "name": "Francis Turretin",
+      "birthYear": 1623,
+      "knownFor": "Genevan-Italian Reformed scholastic theologian (1623–1687)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Francis_Turretin"
     },
     "photo": {
       "status": "live",
-      "title": "File:Norderney, Promenade -- 2025 -- 9281.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Norderney%2C_Promenade_--_2025_--_9281.jpg/960px-Norderney%2C_Promenade_--_2025_--_9281.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "Promenade, Norderney, Lower Saxony, Germany",
-      "creator": "Dietmar Rabich",
+      "title": "File:Purple beautyberry, October 2015 - Stacking.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Purple_beautyberry%2C_October_2015_-_Stacking.jpg/960px-Purple_beautyberry%2C_October_2015_-_Stacking.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Purple beautyberry, Daisen Park, Sakai, Osaka. Focus stack of 4 photos.",
+      "creator": "Laitche",
       "credit": "Own work",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Norderney,_Promenade_--_2025_--_9281.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Purple_beautyberry,_October_2015_-_Stacking.jpg"
     },
     "culture": {
       "status": "live",
-      "year": 2007,
-      "text": "Seventeen activists in New Zealand are arrested in the country's first post-9/11 anti-terrorism raids.",
-      "title": "2007 New Zealand police raids",
-      "description": "Series of armed NZ police raids",
-      "sourceUrl": "https://en.wikipedia.org/wiki/2007_New_Zealand_police_raids"
+      "year": 1970,
+      "text": "FLQ terrorists murder Quebec Vice-Premier and Minister of Labour Pierre Laporte.",
+      "title": "October Crisis",
+      "description": "1970 series of events in Quebec, Canada",
+      "sourceUrl": "https://en.wikipedia.org/wiki/October_Crisis"
     }
   }
 }
