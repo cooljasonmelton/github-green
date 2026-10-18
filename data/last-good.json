@@ -2,18 +2,18 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1919,
-      "text": "Leeds United F.C. founded at Salem Chapel, Holbeck after the winding up of Leeds City F.C. for making illegal payments to players during World War I",
-      "title": "Leeds United F.C.",
-      "description": "Association football club in England",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Leeds_United_F.C."
+      "year": 1565,
+      "text": "Ships belonging to the Matsura clan of Japan fail to capture the Portuguese trading carrack in the Battle of Fukuda Bay, the first recorded naval battle between Japan and the West.",
+      "title": "Matsura clan",
+      "description": "Japanese samurai family",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Matsura_clan"
     },
     "birthday": {
       "status": "live",
-      "name": "Francis Turretin",
-      "birthYear": 1623,
-      "knownFor": "Genevan-Italian Reformed scholastic theologian (1623–1687)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Francis_Turretin"
+      "name": "William Lambarde",
+      "birthYear": 1536,
+      "knownFor": "English antiquarian, writer, and politician",
+      "sourceUrl": "https://en.wikipedia.org/wiki/William_Lambarde"
     },
     "photo": {
       "status": "live",
@@ -28,11 +28,11 @@
     },
     "culture": {
       "status": "live",
-      "year": 1970,
-      "text": "FLQ terrorists murder Quebec Vice-Premier and Minister of Labour Pierre Laporte.",
-      "title": "October Crisis",
-      "description": "1970 series of events in Quebec, Canada",
-      "sourceUrl": "https://en.wikipedia.org/wiki/October_Crisis"
+      "year": 1887,
+      "text": "Johannes Brahms conducts the premiere of his Double Concerto, composed for violinist Joseph Joachim and cellist Robert Hausmann.",
+      "title": "Johannes Brahms",
+      "description": "German composer and pianist (1833–1897)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Johannes_Brahms"
     }
   }
 }
