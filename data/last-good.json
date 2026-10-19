@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1565,
-      "text": "Ships belonging to the Matsura clan of Japan fail to capture the Portuguese trading carrack in the Battle of Fukuda Bay, the first recorded naval battle between Japan and the West.",
-      "title": "Matsura clan",
-      "description": "Japanese samurai family",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Matsura_clan"
+      "year": 1453,
+      "text": "Hundred Years' War: Three months after the Battle of Castillon, England loses its last possessions in southern France.",
+      "title": "Hundred Years' War",
+      "description": "Medieval Anglo-French conflicts, 1337–1453",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hundred_Years'_War"
     },
     "birthday": {
       "status": "live",
-      "name": "William Lambarde",
-      "birthYear": 1536,
-      "knownFor": "English antiquarian, writer, and politician",
-      "sourceUrl": "https://en.wikipedia.org/wiki/William_Lambarde"
+      "name": "John Juvenal Ancina",
+      "birthYear": 1545,
+      "knownFor": "Italian Roman Catholic prelate",
+      "sourceUrl": "https://en.wikipedia.org/wiki/John_Juvenal_Ancina"
     },
     "photo": {
       "status": "live",
-      "title": "File:Purple beautyberry, October 2015 - Stacking.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Purple_beautyberry%2C_October_2015_-_Stacking.jpg/960px-Purple_beautyberry%2C_October_2015_-_Stacking.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "Purple beautyberry, Daisen Park, Sakai, Osaka. Focus stack of 4 photos.",
-      "creator": "Laitche",
-      "credit": "Own work",
+      "title": "File:Bengal tiger in Sanjay Dubri Tiger Reserve December 2024 by Tisha Mukherjee 11.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Bengal_tiger_in_Sanjay_Dubri_Tiger_Reserve_December_2024_by_Tisha_Mukherjee_11.jpg/960px-Bengal_tiger_in_Sanjay_Dubri_Tiger_Reserve_December_2024_by_Tisha_Mukherjee_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Panthera tigris tigris (Bengal tiger) in Sanjay Dubri Tiger Reserve, Madhya Pradesh, India",
+      "creator": "Tisha Mukherjee",
+      "credit": "Self-photographed",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Purple_beautyberry,_October_2015_-_Stacking.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bengal_tiger_in_Sanjay_Dubri_Tiger_Reserve_December_2024_by_Tisha_Mukherjee_11.jpg"
     },
     "culture": {
       "status": "live",
-      "year": 1887,
-      "text": "Johannes Brahms conducts the premiere of his Double Concerto, composed for violinist Joseph Joachim and cellist Robert Hausmann.",
-      "title": "Johannes Brahms",
-      "description": "German composer and pianist (1833–1897)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Johannes_Brahms"
+      "year": 1847,
+      "text": "The novel Jane Eyre is published in London.",
+      "title": "Jane Eyre",
+      "description": "1847 novel by Charlotte Brontë",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jane_Eyre"
     }
   }
 }

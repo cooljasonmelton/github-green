@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-10-18
+## Today — 2026-10-19
 
 ### Photo
-![Breil-Brigels. Lag da Breil. Reservoir with low water level.](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Breil-Brigels._%28actm%29_02.jpg/960px-Breil-Brigels._%28actm%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Panthera tigris tigris (Bengal tiger) in Sanjay Dubri Tiger Reserve, Madhya Pradesh, India](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Bengal_tiger_in_Sanjay_Dubri_Tiger_Reserve_December_2024_by_Tisha_Mukherjee_11.jpg/960px-Bengal_tiger_in_Sanjay_Dubri_Tiger_Reserve_December_2024_by_Tisha_Mukherjee_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Breil-Brigels. Lag da Breil. Reservoir with low water level.* — Agnes Monkelbaan. [Source](https://commons.wikimedia.org/wiki/File:Breil-Brigels._(actm)_02.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Panthera tigris tigris (Bengal tiger) in Sanjay Dubri Tiger Reserve, Madhya Pradesh, India* — Tisha Mukherjee. [Source](https://commons.wikimedia.org/wiki/File:Bengal_tiger_in_Sanjay_Dubri_Tiger_Reserve_December_2024_by_Tisha_Mukherjee_11.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**serendipity** — *noun*
+**meticulous** — *adjective*
 
-The occurrence of a fortunate discovery by chance.
+Showing great attention to detail.
 
-Finding the note in the old book was pure serendipity.
+The meticulous inventory made the handoff straightforward.
 
 ### Quote
-> Hope is the thing with feathers.
+> Not all those who wander are lost.
 
-— Emily Dickinson, *"Hope" is the thing with feathers*
+— J. R. R. Tolkien, *The Fellowship of the Ring*
 
 ### On This Day
-Ships belonging to the Matsura clan of Japan fail to capture the Portuguese trading carrack in the Battle of Fukuda Bay, the first recorded naval battle between Japan and the West.
+Hundred Years' War: Three months after the Battle of Castillon, England loses its last possessions in southern France.
 
-[Source](https://en.wikipedia.org/wiki/Matsura_clan)
+[Source](https://en.wikipedia.org/wiki/Hundred_Years'_War)
 
 ### Born Today
-**William Lambarde** (1536) — English antiquarian, writer, and politician
+**John Juvenal Ancina** (1545) — Italian Roman Catholic prelate
 
-[Source](https://en.wikipedia.org/wiki/William_Lambarde)
+[Source](https://en.wikipedia.org/wiki/John_Juvenal_Ancina)
 
 ### Pop Culture
-Johannes Brahms conducts the premiere of his Double Concerto, composed for violinist Joseph Joachim and cellist Robert Hausmann.
+The novel Jane Eyre is published in London.
 
-[Source](https://en.wikipedia.org/wiki/Johannes_Brahms)
+[Source](https://en.wikipedia.org/wiki/Jane_Eyre)
 
 ### Miscellaneous
-**geography:** Africa is the only continent that extends into all four hemispheres.
+**technology:** The first computer bug was a moth found in a relay of the Harvard Mark II.
 
 <!-- DAILY_CONTENT_END -->
 
