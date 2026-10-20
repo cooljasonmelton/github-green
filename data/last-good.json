@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1453,
-      "text": "Hundred Years' War: Three months after the Battle of Castillon, England loses its last possessions in southern France.",
-      "title": "Hundred Years' War",
-      "description": "Medieval Anglo-French conflicts, 1337–1453",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Hundred_Years'_War"
+      "year": 1827,
+      "text": "Greek War of Independence: In the Battle of Navarino, a combined Turkish and Egyptian fleet is defeated by British, French and Russian naval forces in the last significant battle fought with wooden sailing ships.",
+      "title": "Greek War of Independence",
+      "description": "Greek rebellion against the Ottoman Empire (1821–1829)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Greek_War_of_Independence"
     },
     "birthday": {
       "status": "live",
-      "name": "John Juvenal Ancina",
-      "birthYear": 1545,
-      "knownFor": "Italian Roman Catholic prelate",
-      "sourceUrl": "https://en.wikipedia.org/wiki/John_Juvenal_Ancina"
+      "name": "Danny Boyle",
+      "birthYear": 1956,
+      "knownFor": "English filmmaker (born 1956)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Danny_Boyle"
     },
     "photo": {
       "status": "live",
-      "title": "File:Bengal tiger in Sanjay Dubri Tiger Reserve December 2024 by Tisha Mukherjee 11.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Bengal_tiger_in_Sanjay_Dubri_Tiger_Reserve_December_2024_by_Tisha_Mukherjee_11.jpg/960px-Bengal_tiger_in_Sanjay_Dubri_Tiger_Reserve_December_2024_by_Tisha_Mukherjee_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "Panthera tigris tigris (Bengal tiger) in Sanjay Dubri Tiger Reserve, Madhya Pradesh, India",
-      "creator": "Tisha Mukherjee",
-      "credit": "Self-photographed",
+      "title": "File:Gewone fopzwam (Laccaria laccata). Locatie, Paddenstoelenreservaat. 14-10-2025. (d.j.b).jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Gewone_fopzwam_%28Laccaria_laccata%29._Locatie%2C_Paddenstoelenreservaat._14-10-2025._%28d.j.b%29.jpg/960px-Gewone_fopzwam_%28Laccaria_laccata%29._Locatie%2C_Paddenstoelenreservaat._14-10-2025._%28d.j.b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Cap with curled gills of a  Laccaria laccata (deceiver, lackluster laccaria) Focus stack of 13 photos.",
+      "creator": "Dominicus Johannes Bergsma.",
+      "credit": "Own work",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bengal_tiger_in_Sanjay_Dubri_Tiger_Reserve_December_2024_by_Tisha_Mukherjee_11.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gewone_fopzwam_(Laccaria_laccata)._Locatie,_Paddenstoelenreservaat._14-10-2025._(d.j.b).jpg"
     },
     "culture": {
       "status": "live",
-      "year": 1847,
-      "text": "The novel Jane Eyre is published in London.",
-      "title": "Jane Eyre",
-      "description": "1847 novel by Charlotte Brontë",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Jane_Eyre"
+      "year": 2002,
+      "text": "Top Gear, the revived popular British TV motoring magazine, premieres on BBC.",
+      "title": "Top Gear (2002 TV series)",
+      "description": "British motoring TV show (2002–present)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Top_Gear_(2002_TV_series)"
     }
   }
 }

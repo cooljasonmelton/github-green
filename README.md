@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-10-19
+## Today — 2026-10-20
 
 ### Photo
-![Panthera tigris tigris (Bengal tiger) in Sanjay Dubri Tiger Reserve, Madhya Pradesh, India](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Bengal_tiger_in_Sanjay_Dubri_Tiger_Reserve_December_2024_by_Tisha_Mukherjee_11.jpg/960px-Bengal_tiger_in_Sanjay_Dubri_Tiger_Reserve_December_2024_by_Tisha_Mukherjee_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Cap with curled gills of a  Laccaria laccata (deceiver, lackluster laccaria) Focus stack of 13 photos.](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Gewone_fopzwam_%28Laccaria_laccata%29._Locatie%2C_Paddenstoelenreservaat._14-10-2025._%28d.j.b%29.jpg/960px-Gewone_fopzwam_%28Laccaria_laccata%29._Locatie%2C_Paddenstoelenreservaat._14-10-2025._%28d.j.b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Panthera tigris tigris (Bengal tiger) in Sanjay Dubri Tiger Reserve, Madhya Pradesh, India* — Tisha Mukherjee. [Source](https://commons.wikimedia.org/wiki/File:Bengal_tiger_in_Sanjay_Dubri_Tiger_Reserve_December_2024_by_Tisha_Mukherjee_11.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Cap with curled gills of a  Laccaria laccata (deceiver, lackluster laccaria) Focus stack of 13 photos.* — Dominicus Johannes Bergsma.. [Source](https://commons.wikimedia.org/wiki/File:Gewone_fopzwam_(Laccaria_laccata)._Locatie,_Paddenstoelenreservaat._14-10-2025._(d.j.b).jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**meticulous** — *adjective*
+**resilient** — *adjective*
 
-Showing great attention to detail.
+Able to recover quickly from difficulty or change.
 
-The meticulous inventory made the handoff straightforward.
+The resilient process continued after one input failed.
 
 ### Quote
-> Not all those who wander are lost.
+> There is no charm equal to tenderness of heart.
 
-— J. R. R. Tolkien, *The Fellowship of the Ring*
+— Jane Austen, *Emma*
 
 ### On This Day
-Hundred Years' War: Three months after the Battle of Castillon, England loses its last possessions in southern France.
+Greek War of Independence: In the Battle of Navarino, a combined Turkish and Egyptian fleet is defeated by British, French and Russian naval forces in the last significant battle fought with wooden sailing ships.
 
-[Source](https://en.wikipedia.org/wiki/Hundred_Years'_War)
+[Source](https://en.wikipedia.org/wiki/Greek_War_of_Independence)
 
 ### Born Today
-**John Juvenal Ancina** (1545) — Italian Roman Catholic prelate
+**Danny Boyle** (1956) — English filmmaker (born 1956)
 
-[Source](https://en.wikipedia.org/wiki/John_Juvenal_Ancina)
+[Source](https://en.wikipedia.org/wiki/Danny_Boyle)
 
 ### Pop Culture
-The novel Jane Eyre is published in London.
+Top Gear, the revived popular British TV motoring magazine, premieres on BBC.
 
-[Source](https://en.wikipedia.org/wiki/Jane_Eyre)
+[Source](https://en.wikipedia.org/wiki/Top_Gear_(2002_TV_series))
 
 ### Miscellaneous
-**technology:** The first computer bug was a moth found in a relay of the Harvard Mark II.
+**art:** The Louvre began as a medieval fortress before becoming a museum.
 
 <!-- DAILY_CONTENT_END -->
 
