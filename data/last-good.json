@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1827,
-      "text": "Greek War of Independence: In the Battle of Navarino, a combined Turkish and Egyptian fleet is defeated by British, French and Russian naval forces in the last significant battle fought with wooden sailing ships.",
-      "title": "Greek War of Independence",
-      "description": "Greek rebellion against the Ottoman Empire (1821–1829)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Greek_War_of_Independence"
+      "year": 1867,
+      "text": "The Medicine Lodge Treaty is signed by southern Great Plains Indian leaders. The treaty requires Native American Plains tribes to relocate to a reservation in the western Indian Territory.",
+      "title": "Medicine Lodge Treaty",
+      "description": "1867 resettlement agreement between the US government and southern Plains Indian tribes",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Medicine_Lodge_Treaty"
     },
     "birthday": {
       "status": "live",
-      "name": "Danny Boyle",
-      "birthYear": 1956,
-      "knownFor": "English filmmaker (born 1956)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Danny_Boyle"
+      "name": "Krzysztof Sitko",
+      "birthYear": 1967,
+      "knownFor": "Polish footballer (1967–2018)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Krzysztof_Sitko"
     },
     "photo": {
       "status": "live",
-      "title": "File:Gewone fopzwam (Laccaria laccata). Locatie, Paddenstoelenreservaat. 14-10-2025. (d.j.b).jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Gewone_fopzwam_%28Laccaria_laccata%29._Locatie%2C_Paddenstoelenreservaat._14-10-2025._%28d.j.b%29.jpg/960px-Gewone_fopzwam_%28Laccaria_laccata%29._Locatie%2C_Paddenstoelenreservaat._14-10-2025._%28d.j.b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "Cap with curled gills of a  Laccaria laccata (deceiver, lackluster laccaria) Focus stack of 13 photos.",
-      "creator": "Dominicus Johannes Bergsma.",
+      "title": "File:Hoverfly October 2007-21.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Hoverfly_October_2007-21.jpg/960px-Hoverfly_October_2007-21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "A small hoverfly in the sun (female Episyrphus balteatus)",
+      "creator": "Alvesgaspar",
       "credit": "Own work",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gewone_fopzwam_(Laccaria_laccata)._Locatie,_Paddenstoelenreservaat._14-10-2025._(d.j.b).jpg"
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hoverfly_October_2007-21.jpg"
     },
     "culture": {
       "status": "live",
-      "year": 2002,
-      "text": "Top Gear, the revived popular British TV motoring magazine, premieres on BBC.",
-      "title": "Top Gear (2002 TV series)",
-      "description": "British motoring TV show (2002–present)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Top_Gear_(2002_TV_series)"
+      "year": 1973,
+      "text": "Fred Dryer of the Los Angeles Rams becomes the first player in NFL history to score two safeties in the same game.",
+      "title": "Fred Dryer",
+      "description": "American football player and actor (born 1946)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fred_Dryer"
     }
   }
 }

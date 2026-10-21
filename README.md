@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-10-20
+## Today — 2026-10-21
 
 ### Photo
-![Cap with curled gills of a  Laccaria laccata (deceiver, lackluster laccaria) Focus stack of 13 photos.](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Gewone_fopzwam_%28Laccaria_laccata%29._Locatie%2C_Paddenstoelenreservaat._14-10-2025._%28d.j.b%29.jpg/960px-Gewone_fopzwam_%28Laccaria_laccata%29._Locatie%2C_Paddenstoelenreservaat._14-10-2025._%28d.j.b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![A small hoverfly in the sun (female Episyrphus balteatus)](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Hoverfly_October_2007-21.jpg/960px-Hoverfly_October_2007-21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Cap with curled gills of a  Laccaria laccata (deceiver, lackluster laccaria) Focus stack of 13 photos.* — Dominicus Johannes Bergsma.. [Source](https://commons.wikimedia.org/wiki/File:Gewone_fopzwam_(Laccaria_laccata)._Locatie,_Paddenstoelenreservaat._14-10-2025._(d.j.b).jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*A small hoverfly in the sun (female Episyrphus balteatus)* — Alvesgaspar. [Source](https://commons.wikimedia.org/wiki/File:Hoverfly_October_2007-21.jpg) · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
 
 ### Word
-**resilient** — *adjective*
+**curious** — *adjective*
 
-Able to recover quickly from difficulty or change.
+Eager to know or learn something.
 
-The resilient process continued after one input failed.
+A curious question often reveals the useful edge case.
 
 ### Quote
-> There is no charm equal to tenderness of heart.
+> All that we see or seem is but a dream within a dream.
 
-— Jane Austen, *Emma*
+— Edgar Allan Poe, *A Dream Within a Dream*
 
 ### On This Day
-Greek War of Independence: In the Battle of Navarino, a combined Turkish and Egyptian fleet is defeated by British, French and Russian naval forces in the last significant battle fought with wooden sailing ships.
+The Medicine Lodge Treaty is signed by southern Great Plains Indian leaders. The treaty requires Native American Plains tribes to relocate to a reservation in the western Indian Territory.
 
-[Source](https://en.wikipedia.org/wiki/Greek_War_of_Independence)
+[Source](https://en.wikipedia.org/wiki/Medicine_Lodge_Treaty)
 
 ### Born Today
-**Danny Boyle** (1956) — English filmmaker (born 1956)
+**Krzysztof Sitko** (1967) — Polish footballer (1967–2018)
 
-[Source](https://en.wikipedia.org/wiki/Danny_Boyle)
+[Source](https://en.wikipedia.org/wiki/Krzysztof_Sitko)
 
 ### Pop Culture
-Top Gear, the revived popular British TV motoring magazine, premieres on BBC.
+Fred Dryer of the Los Angeles Rams becomes the first player in NFL history to score two safeties in the same game.
 
-[Source](https://en.wikipedia.org/wiki/Top_Gear_(2002_TV_series))
+[Source](https://en.wikipedia.org/wiki/Fred_Dryer)
 
 ### Miscellaneous
-**art:** The Louvre began as a medieval fortress before becoming a museum.
+**literature:** The Gutenberg Bible was printed in Mainz around 1455.
 
 <!-- DAILY_CONTENT_END -->
 
