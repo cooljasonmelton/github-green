@@ -2,29 +2,29 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1867,
-      "text": "The Medicine Lodge Treaty is signed by southern Great Plains Indian leaders. The treaty requires Native American Plains tribes to relocate to a reservation in the western Indian Territory.",
-      "title": "Medicine Lodge Treaty",
-      "description": "1867 resettlement agreement between the US government and southern Plains Indian tribes",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Medicine_Lodge_Treaty"
+      "year": 1941,
+      "text": "World War II: French resistance member Guy Môquet and 29 other hostages are executed by the Germans in retaliation for the death of a German officer.",
+      "title": "World War II",
+      "description": "Global conflict from 1939 to 1945",
+      "sourceUrl": "https://en.wikipedia.org/wiki/World_War_II"
     },
     "birthday": {
       "status": "live",
-      "name": "Krzysztof Sitko",
-      "birthYear": 1967,
-      "knownFor": "Polish footballer (1967–2018)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Krzysztof_Sitko"
+      "name": "Koos de la Rey",
+      "birthYear": 1847,
+      "knownFor": "South African military officer during the Boer Wars (1847–1914)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Koos_de_la_Rey"
     },
     "photo": {
       "status": "live",
-      "title": "File:Hoverfly October 2007-21.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Hoverfly_October_2007-21.jpg/960px-Hoverfly_October_2007-21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "A small hoverfly in the sun (female Episyrphus balteatus)",
-      "creator": "Alvesgaspar",
+      "title": "File:Red Dragon scuplture during River Lee flooding, October 2023.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Red_Dragon_scuplture_during_River_Lee_flooding%2C_October_2023.jpg/960px-Red_Dragon_scuplture_during_River_Lee_flooding%2C_October_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Jim Buckley’s Red Dragon sculpture from 1985 during River Lee flooding, October 2023",
+      "creator": "Podstawko",
       "credit": "Own work",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hoverfly_October_2007-21.jpg"
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_Dragon_scuplture_during_River_Lee_flooding,_October_2023.jpg"
     },
     "culture": {
       "status": "live",

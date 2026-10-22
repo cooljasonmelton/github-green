@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-21",
-  "generatedAt": "2026-10-21T17:12:27.639Z",
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-22T17:10:33.072Z",
   "sections": {
     "word": {
       "status": "local"
@@ -18,7 +18,7 @@
       "status": "live"
     },
     "culture": {
-      "status": "live"
+      "status": "fallback"
     },
     "miscellaneous": {
       "status": "local"

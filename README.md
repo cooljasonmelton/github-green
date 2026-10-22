@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-10-21
+## Today — 2026-10-22
 
 ### Photo
-![A small hoverfly in the sun (female Episyrphus balteatus)](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Hoverfly_October_2007-21.jpg/960px-Hoverfly_October_2007-21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Jim Buckley’s Red Dragon sculpture from 1985 during River Lee flooding, October 2023](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Red_Dragon_scuplture_during_River_Lee_flooding%2C_October_2023.jpg/960px-Red_Dragon_scuplture_during_River_Lee_flooding%2C_October_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*A small hoverfly in the sun (female Episyrphus balteatus)* — Alvesgaspar. [Source](https://commons.wikimedia.org/wiki/File:Hoverfly_October_2007-21.jpg) · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
+*Jim Buckley’s Red Dragon sculpture from 1985 during River Lee flooding, October 2023* — Podstawko. [Source](https://commons.wikimedia.org/wiki/File:Red_Dragon_scuplture_during_River_Lee_flooding,_October_2023.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**curious** — *adjective*
+**lucid** — *adjective*
 
-Eager to know or learn something.
+Expressed clearly and easy to understand.
 
-A curious question often reveals the useful edge case.
+Her lucid explanation made the new process less intimidating.
 
 ### Quote
-> All that we see or seem is but a dream within a dream.
+> The unexamined life is not worth living.
 
-— Edgar Allan Poe, *A Dream Within a Dream*
+— Socrates, *Plato, Apology*
 
 ### On This Day
-The Medicine Lodge Treaty is signed by southern Great Plains Indian leaders. The treaty requires Native American Plains tribes to relocate to a reservation in the western Indian Territory.
+World War II: French resistance member Guy Môquet and 29 other hostages are executed by the Germans in retaliation for the death of a German officer.
 
-[Source](https://en.wikipedia.org/wiki/Medicine_Lodge_Treaty)
+[Source](https://en.wikipedia.org/wiki/World_War_II)
 
 ### Born Today
-**Krzysztof Sitko** (1967) — Polish footballer (1967–2018)
+**Koos de la Rey** (1847) — South African military officer during the Boer Wars (1847–1914)
 
-[Source](https://en.wikipedia.org/wiki/Krzysztof_Sitko)
+[Source](https://en.wikipedia.org/wiki/Koos_de_la_Rey)
 
 ### Pop Culture
-Fred Dryer of the Los Angeles Rams becomes the first player in NFL history to score two safeties in the same game.
+Super Mario Bros. was released in Japan for the Nintendo Entertainment System in 1985.
 
-[Source](https://en.wikipedia.org/wiki/Fred_Dryer)
+[Source](https://en.wikipedia.org/wiki/Super_Mario_Bros.)
 
 ### Miscellaneous
-**literature:** The Gutenberg Bible was printed in Mainz around 1455.
+**space:** A day on Venus lasts longer than a Venusian year.
 
 <!-- DAILY_CONTENT_END -->
 
