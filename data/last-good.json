@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1941,
-      "text": "World War II: French resistance member Guy Môquet and 29 other hostages are executed by the Germans in retaliation for the death of a German officer.",
-      "title": "World War II",
-      "description": "Global conflict from 1939 to 1945",
-      "sourceUrl": "https://en.wikipedia.org/wiki/World_War_II"
+      "year": 1707,
+      "text": "The First Parliament of the Kingdom of Great Britain convenes.",
+      "title": "First Parliament of Great Britain",
+      "description": "Parliament of the Kingdom of Great Britain from 1707 to 1708",
+      "sourceUrl": "https://en.wikipedia.org/wiki/First_Parliament_of_Great_Britain"
     },
     "birthday": {
       "status": "live",
-      "name": "Koos de la Rey",
-      "birthYear": 1847,
-      "knownFor": "South African military officer during the Boer Wars (1847–1914)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Koos_de_la_Rey"
+      "name": "Philip Kaufman",
+      "birthYear": 1936,
+      "knownFor": "American film director and screenwriter",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Philip_Kaufman"
     },
     "photo": {
       "status": "live",
-      "title": "File:Red Dragon scuplture during River Lee flooding, October 2023.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Red_Dragon_scuplture_during_River_Lee_flooding%2C_October_2023.jpg/960px-Red_Dragon_scuplture_during_River_Lee_flooding%2C_October_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "Jim Buckley’s Red Dragon sculpture from 1985 during River Lee flooding, October 2023",
-      "creator": "Podstawko",
+      "title": "File:Vodno Telecommunication Tower.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Vodno_Telecommunication_Tower.jpg/960px-Vodno_Telecommunication_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Vodno Telecommunication Tower under construction in Skopje, North Macedonia. Today is the Day of the Macedonian Revolutionary Struggle, a national holiday in North Macedonia celebrated on the occasion of the formation of the Internal Macedonian Revolutionary Organization.",
+      "creator": "kallerna",
       "credit": "Own work",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_Dragon_scuplture_during_River_Lee_flooding,_October_2023.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vodno_Telecommunication_Tower.jpg"
     },
     "culture": {
       "status": "live",
-      "year": 1973,
-      "text": "Fred Dryer of the Los Angeles Rams becomes the first player in NFL history to score two safeties in the same game.",
-      "title": "Fred Dryer",
-      "description": "American football player and actor (born 1946)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Fred_Dryer"
+      "year": 1927,
+      "text": "The Imatra Cinema is destroyed in a fire in Tampere, Finland, during showing the 1924 film Wages of Virtue; 21 people die in the fire and almost 30 are injured.",
+      "title": "Imatra (cinema)",
+      "description": "Former cinema in Tampere, Finland; burned down in 1927",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Imatra_(cinema)"
     }
   }
 }

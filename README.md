@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-10-22
+## Today — 2026-10-23
 
 ### Photo
-![Jim Buckley’s Red Dragon sculpture from 1985 during River Lee flooding, October 2023](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Red_Dragon_scuplture_during_River_Lee_flooding%2C_October_2023.jpg/960px-Red_Dragon_scuplture_during_River_Lee_flooding%2C_October_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Vodno Telecommunication Tower under construction in Skopje, North Macedonia. Today is the Day of the Macedonian Revolutionary Struggle, a national holiday in North Macedonia celebrated on the occasion of the formation of the Internal Macedonian Revolutionary Organization.](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Vodno_Telecommunication_Tower.jpg/960px-Vodno_Telecommunication_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Jim Buckley’s Red Dragon sculpture from 1985 during River Lee flooding, October 2023* — Podstawko. [Source](https://commons.wikimedia.org/wiki/File:Red_Dragon_scuplture_during_River_Lee_flooding,_October_2023.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Vodno Telecommunication Tower under construction in Skopje, North Macedonia. Today is the Day of the Macedonian Revolutionary Struggle, a national holiday in North Macedonia celebrated on the occasion of the formation of the Internal Macedonian Revolutionary Organization.* — kallerna. [Source](https://commons.wikimedia.org/wiki/File:Vodno_Telecommunication_Tower.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**lucid** — *adjective*
+**tenacious** — *adjective*
 
-Expressed clearly and easy to understand.
+Tending to keep a firm hold of something; persistent.
 
-Her lucid explanation made the new process less intimidating.
+The tenacious researcher checked each source twice.
 
 ### Quote
-> The unexamined life is not worth living.
+> To thine own self be true.
 
-— Socrates, *Plato, Apology*
+— William Shakespeare, *Hamlet, Act 1, Scene 3*
 
 ### On This Day
-World War II: French resistance member Guy Môquet and 29 other hostages are executed by the Germans in retaliation for the death of a German officer.
+The First Parliament of the Kingdom of Great Britain convenes.
 
-[Source](https://en.wikipedia.org/wiki/World_War_II)
+[Source](https://en.wikipedia.org/wiki/First_Parliament_of_Great_Britain)
 
 ### Born Today
-**Koos de la Rey** (1847) — South African military officer during the Boer Wars (1847–1914)
+**Philip Kaufman** (1936) — American film director and screenwriter
 
-[Source](https://en.wikipedia.org/wiki/Koos_de_la_Rey)
+[Source](https://en.wikipedia.org/wiki/Philip_Kaufman)
 
 ### Pop Culture
-Super Mario Bros. was released in Japan for the Nintendo Entertainment System in 1985.
+The Imatra Cinema is destroyed in a fire in Tampere, Finland, during showing the 1924 film Wages of Virtue; 21 people die in the fire and almost 30 are injured.
 
-[Source](https://en.wikipedia.org/wiki/Super_Mario_Bros.)
+[Source](https://en.wikipedia.org/wiki/Imatra_(cinema))
 
 ### Miscellaneous
-**space:** A day on Venus lasts longer than a Venusian year.
+**animals:** Octopuses have three hearts.
 
 <!-- DAILY_CONTENT_END -->
 
