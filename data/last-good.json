@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1707,
-      "text": "The First Parliament of the Kingdom of Great Britain convenes.",
-      "title": "First Parliament of Great Britain",
-      "description": "Parliament of the Kingdom of Great Britain from 1707 to 1708",
-      "sourceUrl": "https://en.wikipedia.org/wiki/First_Parliament_of_Great_Britain"
+      "year": 1861,
+      "text": "The first transcontinental telegraph line across the United States is completed.",
+      "title": "First transcontinental telegraph",
+      "description": "First telegraph line between the eastern and western United States, completed in 1861",
+      "sourceUrl": "https://en.wikipedia.org/wiki/First_transcontinental_telegraph"
     },
     "birthday": {
       "status": "live",
-      "name": "Philip Kaufman",
-      "birthYear": 1936,
-      "knownFor": "American film director and screenwriter",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Philip_Kaufman"
+      "name": "Krystal Jung",
+      "birthYear": 1994,
+      "knownFor": "American and South Korean singer and actress (born 1994)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Krystal_Jung"
     },
     "photo": {
       "status": "live",
-      "title": "File:Vodno Telecommunication Tower.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Vodno_Telecommunication_Tower.jpg/960px-Vodno_Telecommunication_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "Vodno Telecommunication Tower under construction in Skopje, North Macedonia. Today is the Day of the Macedonian Revolutionary Struggle, a national holiday in North Macedonia celebrated on the occasion of the formation of the Internal Macedonian Revolutionary Organization.",
-      "creator": "kallerna",
-      "credit": "Own work",
+      "title": "File:016 Ocelot in Encontro das Águas State Park Photo by Giles Laurent.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/016_Ocelot_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg/960px-016_Ocelot_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Ocelot (Leopardus pardalis) in Mato Grosso, Brazil",
+      "creator": "Giles Laurent",
+      "credit": "Own work, from gileslaurent.com",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vodno_Telecommunication_Tower.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:016_Ocelot_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg"
     },
     "culture": {
       "status": "live",
-      "year": 1927,
-      "text": "The Imatra Cinema is destroyed in a fire in Tampere, Finland, during showing the 1924 film Wages of Virtue; 21 people die in the fire and almost 30 are injured.",
-      "title": "Imatra (cinema)",
-      "description": "Former cinema in Tampere, Finland; burned down in 1927",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Imatra_(cinema)"
+      "year": 1992,
+      "text": "The Toronto Blue Jays become the first Major League Baseball team based outside the United States to win the World Series.",
+      "title": "Toronto Blue Jays",
+      "description": "Major League Baseball franchise in Toronto, Canada",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Toronto_Blue_Jays"
     }
   }
 }

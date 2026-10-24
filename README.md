@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-10-23
+## Today — 2026-10-24
 
 ### Photo
-![Vodno Telecommunication Tower under construction in Skopje, North Macedonia. Today is the Day of the Macedonian Revolutionary Struggle, a national holiday in North Macedonia celebrated on the occasion of the formation of the Internal Macedonian Revolutionary Organization.](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Vodno_Telecommunication_Tower.jpg/960px-Vodno_Telecommunication_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Ocelot (Leopardus pardalis) in Mato Grosso, Brazil](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/016_Ocelot_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg/960px-016_Ocelot_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Vodno Telecommunication Tower under construction in Skopje, North Macedonia. Today is the Day of the Macedonian Revolutionary Struggle, a national holiday in North Macedonia celebrated on the occasion of the formation of the Internal Macedonian Revolutionary Organization.* — kallerna. [Source](https://commons.wikimedia.org/wiki/File:Vodno_Telecommunication_Tower.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Ocelot (Leopardus pardalis) in Mato Grosso, Brazil* — Giles Laurent. [Source](https://commons.wikimedia.org/wiki/File:016_Ocelot_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**tenacious** — *adjective*
+**pragmatic** — *adjective*
 
-Tending to keep a firm hold of something; persistent.
+Dealing with problems in a practical way.
 
-The tenacious researcher checked each source twice.
+A pragmatic plan focused on the smallest useful next step.
 
 ### Quote
-> To thine own self be true.
+> I have measured out my life with coffee spoons.
 
-— William Shakespeare, *Hamlet, Act 1, Scene 3*
+— T. S. Eliot, *The Love Song of J. Alfred Prufrock*
 
 ### On This Day
-The First Parliament of the Kingdom of Great Britain convenes.
+The first transcontinental telegraph line across the United States is completed.
 
-[Source](https://en.wikipedia.org/wiki/First_Parliament_of_Great_Britain)
+[Source](https://en.wikipedia.org/wiki/First_transcontinental_telegraph)
 
 ### Born Today
-**Philip Kaufman** (1936) — American film director and screenwriter
+**Krystal Jung** (1994) — American and South Korean singer and actress (born 1994)
 
-[Source](https://en.wikipedia.org/wiki/Philip_Kaufman)
+[Source](https://en.wikipedia.org/wiki/Krystal_Jung)
 
 ### Pop Culture
-The Imatra Cinema is destroyed in a fire in Tampere, Finland, during showing the 1924 film Wages of Virtue; 21 people die in the fire and almost 30 are injured.
+The Toronto Blue Jays become the first Major League Baseball team based outside the United States to win the World Series.
 
-[Source](https://en.wikipedia.org/wiki/Imatra_(cinema))
+[Source](https://en.wikipedia.org/wiki/Toronto_Blue_Jays)
 
 ### Miscellaneous
-**animals:** Octopuses have three hearts.
+**science:** Light from the Sun reaches Earth in about eight minutes and twenty seconds.
 
 <!-- DAILY_CONTENT_END -->
 
