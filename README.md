@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-10-24
+## Today — 2026-10-25
 
 ### Photo
-![Ocelot (Leopardus pardalis) in Mato Grosso, Brazil](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/016_Ocelot_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg/960px-016_Ocelot_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Morning fogs in the Skolivskyi Beskids. At the top there is a church, the highest in Ukraine, Skolovsky city council, Ukraine.](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B0_%D0%B4%D0%BE_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8.jpg/960px-%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B0_%D0%B4%D0%BE_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Ocelot (Leopardus pardalis) in Mato Grosso, Brazil* — Giles Laurent. [Source](https://commons.wikimedia.org/wiki/File:016_Ocelot_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Morning fogs in the Skolivskyi Beskids. At the top there is a church, the highest in Ukraine, Skolovsky city council, Ukraine.* — Михайло Пецкович. [Source](https://commons.wikimedia.org/wiki/File:%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B0_%D0%B4%D0%BE_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**pragmatic** — *adjective*
+**serendipity** — *noun*
 
-Dealing with problems in a practical way.
+The occurrence of a fortunate discovery by chance.
 
-A pragmatic plan focused on the smallest useful next step.
+Finding the note in the old book was pure serendipity.
 
 ### Quote
-> I have measured out my life with coffee spoons.
+> Hope is the thing with feathers.
 
-— T. S. Eliot, *The Love Song of J. Alfred Prufrock*
+— Emily Dickinson, *"Hope" is the thing with feathers*
 
 ### On This Day
-The first transcontinental telegraph line across the United States is completed.
+Microsoft releases Windows XP, which becomes one of Microsoft's most successful operating systems.
 
-[Source](https://en.wikipedia.org/wiki/First_transcontinental_telegraph)
+[Source](https://en.wikipedia.org/wiki/Microsoft)
 
 ### Born Today
-**Krystal Jung** (1994) — American and South Korean singer and actress (born 1994)
+**Tony Jackson (pianist)** (1882) — American singer (1882–1921)
 
-[Source](https://en.wikipedia.org/wiki/Krystal_Jung)
+[Source](https://en.wikipedia.org/wiki/Tony_Jackson_(pianist))
 
 ### Pop Culture
-The Toronto Blue Jays become the first Major League Baseball team based outside the United States to win the World Series.
+A Learjet 35 crashes in Mina near Aberdeen, South Dakota, killing all six people on board, including PGA golfer Payne Stewart and golf course designer Bruce Borland.
 
-[Source](https://en.wikipedia.org/wiki/Toronto_Blue_Jays)
+[Source](https://en.wikipedia.org/wiki/Learjet_35)
 
 ### Miscellaneous
-**science:** Light from the Sun reaches Earth in about eight minutes and twenty seconds.
+**geography:** Africa is the only continent that extends into all four hemispheres.
 
 <!-- DAILY_CONTENT_END -->
 
