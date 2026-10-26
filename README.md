@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-10-25
+## Today — 2026-10-26
 
 ### Photo
-![Morning fogs in the Skolivskyi Beskids. At the top there is a church, the highest in Ukraine, Skolovsky city council, Ukraine.](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B0_%D0%B4%D0%BE_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8.jpg/960px-%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B0_%D0%B4%D0%BE_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Horses grazing at Trunkol meadow in the Himalayas of India. The meadow is situated on the way to the sacred Gangabal Lake in Jammu and Kashmir.](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Horses_grazing_at_Trunkol_meadow%2C_Jammu_and_Kashmir%2C_India_%28crop%29.jpg/960px-Horses_grazing_at_Trunkol_meadow%2C_Jammu_and_Kashmir%2C_India_%28crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Morning fogs in the Skolivskyi Beskids. At the top there is a church, the highest in Ukraine, Skolovsky city council, Ukraine.* — Михайло Пецкович. [Source](https://commons.wikimedia.org/wiki/File:%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B0_%D0%B4%D0%BE_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Horses grazing at Trunkol meadow in the Himalayas of India. The meadow is situated on the way to the sacred Gangabal Lake in Jammu and Kashmir.* — UnpetitproleX. [Source](https://commons.wikimedia.org/wiki/File:Horses_grazing_at_Trunkol_meadow,_Jammu_and_Kashmir,_India_(crop).jpg) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)
 
 ### Word
-**serendipity** — *noun*
+**meticulous** — *adjective*
 
-The occurrence of a fortunate discovery by chance.
+Showing great attention to detail.
 
-Finding the note in the old book was pure serendipity.
+The meticulous inventory made the handoff straightforward.
 
 ### Quote
-> Hope is the thing with feathers.
+> Not all those who wander are lost.
 
-— Emily Dickinson, *"Hope" is the thing with feathers*
+— J. R. R. Tolkien, *The Fellowship of the Ring*
 
 ### On This Day
-Microsoft releases Windows XP, which becomes one of Microsoft's most successful operating systems.
+First Balkan War: The Ottomans lose the cities of Thessaloniki and Skopje.
 
-[Source](https://en.wikipedia.org/wiki/Microsoft)
+[Source](https://en.wikipedia.org/wiki/First_Balkan_War)
 
 ### Born Today
-**Tony Jackson (pianist)** (1882) — American singer (1882–1921)
+**Sarah Lee Lippincott** (1920) — American astronomer (1920–2019)
 
-[Source](https://en.wikipedia.org/wiki/Tony_Jackson_(pianist))
+[Source](https://en.wikipedia.org/wiki/Sarah_Lee_Lippincott)
 
 ### Pop Culture
-A Learjet 35 crashes in Mina near Aberdeen, South Dakota, killing all six people on board, including PGA golfer Payne Stewart and golf course designer Bruce Borland.
+Rockstar Games releases Grand Theft Auto: San Andreas for the PlayStation 2 in North America, which sold 12 million units for the PS2, becoming the console's best-selling video game.
 
-[Source](https://en.wikipedia.org/wiki/Learjet_35)
+[Source](https://en.wikipedia.org/wiki/Rockstar_Games)
 
 ### Miscellaneous
-**geography:** Africa is the only continent that extends into all four hemispheres.
+**technology:** The first computer bug was a moth found in a relay of the Harvard Mark II.
 
 <!-- DAILY_CONTENT_END -->
 
