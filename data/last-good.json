@@ -2,29 +2,29 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1912,
-      "text": "First Balkan War: The Ottomans lose the cities of Thessaloniki and Skopje.",
-      "title": "First Balkan War",
-      "description": "1912–1913 war between the Balkan League and the Ottoman Empire",
-      "sourceUrl": "https://en.wikipedia.org/wiki/First_Balkan_War"
+      "year": 1924,
+      "text": "The Uzbek SSR is founded in the Soviet Union.",
+      "title": "Uzbek Soviet Socialist Republic",
+      "description": "Constituent republic of the Soviet Union",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Uzbek_Soviet_Socialist_Republic"
     },
     "birthday": {
       "status": "live",
-      "name": "Sarah Lee Lippincott",
-      "birthYear": 1920,
-      "knownFor": "American astronomer (1920–2019)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Sarah_Lee_Lippincott"
+      "name": "Henri Fertet",
+      "birthYear": 1926,
+      "knownFor": "French Resistance fighter (1926–1943)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Henri_Fertet"
     },
     "photo": {
       "status": "live",
-      "title": "File:Horses grazing at Trunkol meadow, Jammu and Kashmir, India (crop).jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Horses_grazing_at_Trunkol_meadow%2C_Jammu_and_Kashmir%2C_India_%28crop%29.jpg/960px-Horses_grazing_at_Trunkol_meadow%2C_Jammu_and_Kashmir%2C_India_%28crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "Horses grazing at Trunkol meadow in the Himalayas of India. The meadow is situated on the way to the sacred Gangabal Lake in Jammu and Kashmir.",
-      "creator": "UnpetitproleX",
+      "title": "File:Ankara asv2021-10 img17 Atakule.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Ankara_asv2021-10_img17_Atakule.jpg/960px-Ankara_asv2021-10_img17_Atakule.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Atakule TV tower with attached shopping mall in Ankara, Turkey",
+      "creator": "A.Savin",
       "credit": "Own work",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Horses_grazing_at_Trunkol_meadow,_Jammu_and_Kashmir,_India_(crop).jpg"
+      "license": "FAL",
+      "licenseUrl": "http://artlibre.org/licence/lal/en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img17_Atakule.jpg"
     },
     "culture": {
       "status": "live",

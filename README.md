@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-10-26
+## Today — 2026-10-27
 
 ### Photo
-![Horses grazing at Trunkol meadow in the Himalayas of India. The meadow is situated on the way to the sacred Gangabal Lake in Jammu and Kashmir.](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Horses_grazing_at_Trunkol_meadow%2C_Jammu_and_Kashmir%2C_India_%28crop%29.jpg/960px-Horses_grazing_at_Trunkol_meadow%2C_Jammu_and_Kashmir%2C_India_%28crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Atakule TV tower with attached shopping mall in Ankara, Turkey](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Ankara_asv2021-10_img17_Atakule.jpg/960px-Ankara_asv2021-10_img17_Atakule.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Horses grazing at Trunkol meadow in the Himalayas of India. The meadow is situated on the way to the sacred Gangabal Lake in Jammu and Kashmir.* — UnpetitproleX. [Source](https://commons.wikimedia.org/wiki/File:Horses_grazing_at_Trunkol_meadow,_Jammu_and_Kashmir,_India_(crop).jpg) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)
+*Atakule TV tower with attached shopping mall in Ankara, Turkey* — A.Savin. [Source](https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img17_Atakule.jpg) · FAL
 
 ### Word
-**meticulous** — *adjective*
+**resilient** — *adjective*
 
-Showing great attention to detail.
+Able to recover quickly from difficulty or change.
 
-The meticulous inventory made the handoff straightforward.
+The resilient process continued after one input failed.
 
 ### Quote
-> Not all those who wander are lost.
+> There is no charm equal to tenderness of heart.
 
-— J. R. R. Tolkien, *The Fellowship of the Ring*
+— Jane Austen, *Emma*
 
 ### On This Day
-First Balkan War: The Ottomans lose the cities of Thessaloniki and Skopje.
+The Uzbek SSR is founded in the Soviet Union.
 
-[Source](https://en.wikipedia.org/wiki/First_Balkan_War)
+[Source](https://en.wikipedia.org/wiki/Uzbek_Soviet_Socialist_Republic)
 
 ### Born Today
-**Sarah Lee Lippincott** (1920) — American astronomer (1920–2019)
+**Henri Fertet** (1926) — French Resistance fighter (1926–1943)
 
-[Source](https://en.wikipedia.org/wiki/Sarah_Lee_Lippincott)
+[Source](https://en.wikipedia.org/wiki/Henri_Fertet)
 
 ### Pop Culture
-Rockstar Games releases Grand Theft Auto: San Andreas for the PlayStation 2 in North America, which sold 12 million units for the PS2, becoming the console's best-selling video game.
+Super Mario Bros. was released in Japan for the Nintendo Entertainment System in 1985.
 
-[Source](https://en.wikipedia.org/wiki/Rockstar_Games)
+[Source](https://en.wikipedia.org/wiki/Super_Mario_Bros.)
 
 ### Miscellaneous
-**technology:** The first computer bug was a moth found in a relay of the Harvard Mark II.
+**art:** The Louvre began as a medieval fortress before becoming a museum.
 
 <!-- DAILY_CONTENT_END -->
 
