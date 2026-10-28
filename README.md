@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-10-27
+## Today — 2026-10-28
 
 ### Photo
-![Atakule TV tower with attached shopping mall in Ankara, Turkey](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Ankara_asv2021-10_img17_Atakule.jpg/960px-Ankara_asv2021-10_img17_Atakule.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![71-931M "Vityaz" tram at Tverskaya Zastava Square in Moscow, Russia](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Moscow_TverZastava_Vityaz_asv2018-09.jpg/960px-Moscow_TverZastava_Vityaz_asv2018-09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Atakule TV tower with attached shopping mall in Ankara, Turkey* — A.Savin. [Source](https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img17_Atakule.jpg) · FAL
+*71-931M "Vityaz" tram at Tverskaya Zastava Square in Moscow, Russia* — A.Savin. [Source](https://commons.wikimedia.org/wiki/File:Moscow_TverZastava_Vityaz_asv2018-09.jpg) · FAL
 
 ### Word
-**resilient** — *adjective*
+**curious** — *adjective*
 
-Able to recover quickly from difficulty or change.
+Eager to know or learn something.
 
-The resilient process continued after one input failed.
+A curious question often reveals the useful edge case.
 
 ### Quote
-> There is no charm equal to tenderness of heart.
+> All that we see or seem is but a dream within a dream.
 
-— Jane Austen, *Emma*
+— Edgar Allan Poe, *A Dream Within a Dream*
 
 ### On This Day
-The Uzbek SSR is founded in the Soviet Union.
+Pietro Cadalo is appointed by the German Imperial court as antipope to Pope Alexander II, who was elected in the previous month.
 
-[Source](https://en.wikipedia.org/wiki/Uzbek_Soviet_Socialist_Republic)
+[Source](https://en.wikipedia.org/wiki/Antipope_Honorius_II)
 
 ### Born Today
-**Henri Fertet** (1926) — French Resistance fighter (1926–1943)
+**Gershon Kingsley** (1922) — German-American composer and musician (1922–2019)
 
-[Source](https://en.wikipedia.org/wiki/Henri_Fertet)
+[Source](https://en.wikipedia.org/wiki/Gershon_Kingsley)
 
 ### Pop Culture
-Super Mario Bros. was released in Japan for the Nintendo Entertainment System in 1985.
+The novel Gulliver's Travels written by Jonathan Swift is published.
 
-[Source](https://en.wikipedia.org/wiki/Super_Mario_Bros.)
+[Source](https://en.wikipedia.org/wiki/Gulliver's_Travels)
 
 ### Miscellaneous
-**art:** The Louvre began as a medieval fortress before becoming a museum.
+**literature:** The Gutenberg Bible was printed in Mainz around 1455.
 
 <!-- DAILY_CONTENT_END -->
 

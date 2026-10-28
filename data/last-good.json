@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1924,
-      "text": "The Uzbek SSR is founded in the Soviet Union.",
-      "title": "Uzbek Soviet Socialist Republic",
-      "description": "Constituent republic of the Soviet Union",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Uzbek_Soviet_Socialist_Republic"
+      "year": 1061,
+      "text": "Pietro Cadalo is appointed by the German Imperial court as antipope to Pope Alexander II, who was elected in the previous month.",
+      "title": "Antipope Honorius II",
+      "description": "Italian bishop, antipope 1061–1064",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Antipope_Honorius_II"
     },
     "birthday": {
       "status": "live",
-      "name": "Henri Fertet",
-      "birthYear": 1926,
-      "knownFor": "French Resistance fighter (1926–1943)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Henri_Fertet"
+      "name": "Gershon Kingsley",
+      "birthYear": 1922,
+      "knownFor": "German-American composer and musician (1922–2019)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Gershon_Kingsley"
     },
     "photo": {
       "status": "live",
-      "title": "File:Ankara asv2021-10 img17 Atakule.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Ankara_asv2021-10_img17_Atakule.jpg/960px-Ankara_asv2021-10_img17_Atakule.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "Atakule TV tower with attached shopping mall in Ankara, Turkey",
+      "title": "File:Moscow TverZastava Vityaz asv2018-09.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Moscow_TverZastava_Vityaz_asv2018-09.jpg/960px-Moscow_TverZastava_Vityaz_asv2018-09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "71-931M \"Vityaz\" tram at Tverskaya Zastava Square in Moscow, Russia",
       "creator": "A.Savin",
       "credit": "Own work",
       "license": "FAL",
       "licenseUrl": "http://artlibre.org/licence/lal/en",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img17_Atakule.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moscow_TverZastava_Vityaz_asv2018-09.jpg"
     },
     "culture": {
       "status": "live",
-      "year": 2004,
-      "text": "Rockstar Games releases Grand Theft Auto: San Andreas for the PlayStation 2 in North America, which sold 12 million units for the PS2, becoming the console's best-selling video game.",
-      "title": "Rockstar Games",
-      "description": "American video game publisher",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Rockstar_Games"
+      "year": 1726,
+      "text": "The novel Gulliver's Travels written by Jonathan Swift is published.",
+      "title": "Gulliver's Travels",
+      "description": "1726 novel by Jonathan Swift",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Gulliver's_Travels"
     }
   }
 }
