@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1061,
-      "text": "Pietro Cadalo is appointed by the German Imperial court as antipope to Pope Alexander II, who was elected in the previous month.",
-      "title": "Antipope Honorius II",
-      "description": "Italian bishop, antipope 1061–1064",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Antipope_Honorius_II"
+      "year": 1986,
+      "text": "British Prime Minister Margaret Thatcher opens the last stretch of the M25 motorway.",
+      "title": "Margaret Thatcher",
+      "description": "Prime Minister of the United Kingdom from 1979 to 1990",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Margaret_Thatcher"
     },
     "birthday": {
       "status": "live",
-      "name": "Gershon Kingsley",
-      "birthYear": 1922,
-      "knownFor": "German-American composer and musician (1922–2019)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Gershon_Kingsley"
+      "name": "Abram Ioffe",
+      "birthYear": 1880,
+      "knownFor": "Soviet physicist (1880–1960)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Abram_Ioffe"
     },
     "photo": {
       "status": "live",
-      "title": "File:Moscow TverZastava Vityaz asv2018-09.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Moscow_TverZastava_Vityaz_asv2018-09.jpg/960px-Moscow_TverZastava_Vityaz_asv2018-09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "71-931M \"Vityaz\" tram at Tverskaya Zastava Square in Moscow, Russia",
-      "creator": "A.Savin",
+      "title": "File:Vignes près du Pic de Vissou - October 2020.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Vignes_pr%C3%A8s_du_Pic_de_Vissou_-_October_2020.jpg/960px-Vignes_pr%C3%A8s_du_Pic_de_Vissou_-_October_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Vineyards (AOC Languedoc-Cabrières) in autumn at the foot of the Pic de Vissou. Commune of Cabrières, Hérault, France.",
+      "creator": "Christian Ferrer",
       "credit": "Own work",
-      "license": "FAL",
-      "licenseUrl": "http://artlibre.org/licence/lal/en",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moscow_TverZastava_Vityaz_asv2018-09.jpg"
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vignes_pr%C3%A8s_du_Pic_de_Vissou_-_October_2020.jpg"
     },
     "culture": {
       "status": "live",
-      "year": 1726,
-      "text": "The novel Gulliver's Travels written by Jonathan Swift is published.",
-      "title": "Gulliver's Travels",
-      "description": "1726 novel by Jonathan Swift",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Gulliver's_Travels"
+      "year": 1972,
+      "text": "The three surviving perpetrators of the Munich massacre are released from prison in exchange for the hostages of the hijacked Lufthansa Flight 615.",
+      "title": "Munich massacre",
+      "description": "1972 Summer Olympics terrorist attack",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Munich_massacre"
     }
   }
 }

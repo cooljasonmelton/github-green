@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-10-28
+## Today — 2026-10-29
 
 ### Photo
-![71-931M "Vityaz" tram at Tverskaya Zastava Square in Moscow, Russia](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Moscow_TverZastava_Vityaz_asv2018-09.jpg/960px-Moscow_TverZastava_Vityaz_asv2018-09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Vineyards (AOC Languedoc-Cabrières) in autumn at the foot of the Pic de Vissou. Commune of Cabrières, Hérault, France.](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Vignes_pr%C3%A8s_du_Pic_de_Vissou_-_October_2020.jpg/960px-Vignes_pr%C3%A8s_du_Pic_de_Vissou_-_October_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*71-931M "Vityaz" tram at Tverskaya Zastava Square in Moscow, Russia* — A.Savin. [Source](https://commons.wikimedia.org/wiki/File:Moscow_TverZastava_Vityaz_asv2018-09.jpg) · FAL
+*Vineyards (AOC Languedoc-Cabrières) in autumn at the foot of the Pic de Vissou. Commune of Cabrières, Hérault, France.* — Christian Ferrer. [Source](https://commons.wikimedia.org/wiki/File:Vignes_pr%C3%A8s_du_Pic_de_Vissou_-_October_2020.jpg) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)
 
 ### Word
-**curious** — *adjective*
+**lucid** — *adjective*
 
-Eager to know or learn something.
+Expressed clearly and easy to understand.
 
-A curious question often reveals the useful edge case.
+Her lucid explanation made the new process less intimidating.
 
 ### Quote
-> All that we see or seem is but a dream within a dream.
+> The unexamined life is not worth living.
 
-— Edgar Allan Poe, *A Dream Within a Dream*
+— Socrates, *Plato, Apology*
 
 ### On This Day
-Pietro Cadalo is appointed by the German Imperial court as antipope to Pope Alexander II, who was elected in the previous month.
+British Prime Minister Margaret Thatcher opens the last stretch of the M25 motorway.
 
-[Source](https://en.wikipedia.org/wiki/Antipope_Honorius_II)
+[Source](https://en.wikipedia.org/wiki/Margaret_Thatcher)
 
 ### Born Today
-**Gershon Kingsley** (1922) — German-American composer and musician (1922–2019)
+**Abram Ioffe** (1880) — Soviet physicist (1880–1960)
 
-[Source](https://en.wikipedia.org/wiki/Gershon_Kingsley)
+[Source](https://en.wikipedia.org/wiki/Abram_Ioffe)
 
 ### Pop Culture
-The novel Gulliver's Travels written by Jonathan Swift is published.
+The three surviving perpetrators of the Munich massacre are released from prison in exchange for the hostages of the hijacked Lufthansa Flight 615.
 
-[Source](https://en.wikipedia.org/wiki/Gulliver's_Travels)
+[Source](https://en.wikipedia.org/wiki/Munich_massacre)
 
 ### Miscellaneous
-**literature:** The Gutenberg Bible was printed in Mainz around 1455.
+**space:** A day on Venus lasts longer than a Venusian year.
 
 <!-- DAILY_CONTENT_END -->
 
