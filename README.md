@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-10-29
+## Today — 2026-10-30
 
 ### Photo
-![Vineyards (AOC Languedoc-Cabrières) in autumn at the foot of the Pic de Vissou. Commune of Cabrières, Hérault, France.](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Vignes_pr%C3%A8s_du_Pic_de_Vissou_-_October_2020.jpg/960px-Vignes_pr%C3%A8s_du_Pic_de_Vissou_-_October_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Sunrays shining through trees and weak fog near Walchwil, Switzerland](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/CH.ZG.Walchwil_Walchwilerberg_Heumoosegg_2016-10-30_OrigX-R_gp.jpg/960px-CH.ZG.Walchwil_Walchwilerberg_Heumoosegg_2016-10-30_OrigX-R_gp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Vineyards (AOC Languedoc-Cabrières) in autumn at the foot of the Pic de Vissou. Commune of Cabrières, Hérault, France.* — Christian Ferrer. [Source](https://commons.wikimedia.org/wiki/File:Vignes_pr%C3%A8s_du_Pic_de_Vissou_-_October_2020.jpg) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)
+*Sunrays shining through trees and weak fog near Walchwil, Switzerland* — NOTE: This image is a panorama of Sunrays near Walchwil, Switzerland consisting of 7 frames that were merged or stitched in Kolor Autopano Pro. As a result, this image necessarily underwent some form of digital manipulation. These manipulations may include blending, blurring, cloning, and color and perspective adjustments. As a result of these adjustments, the image content may be slightly different from reality at the points where multiple images were combined. This manipulation is often required due to lens, perspective, and parallax distortions.. [Source](https://commons.wikimedia.org/wiki/File:CH.ZG.Walchwil_Walchwilerberg_Heumoosegg_2016-10-30_OrigX-R_gp.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**lucid** — *adjective*
+**tenacious** — *adjective*
 
-Expressed clearly and easy to understand.
+Tending to keep a firm hold of something; persistent.
 
-Her lucid explanation made the new process less intimidating.
+The tenacious researcher checked each source twice.
 
 ### Quote
-> The unexamined life is not worth living.
+> To thine own self be true.
 
-— Socrates, *Plato, Apology*
+— William Shakespeare, *Hamlet, Act 1, Scene 3*
 
 ### On This Day
-British Prime Minister Margaret Thatcher opens the last stretch of the M25 motorway.
+World War I: The Ottoman Empire signs the Armistice of Mudros with the Allies.
 
-[Source](https://en.wikipedia.org/wiki/Margaret_Thatcher)
+[Source](https://en.wikipedia.org/wiki/World_War_I)
 
 ### Born Today
-**Abram Ioffe** (1880) — Soviet physicist (1880–1960)
+**Ruth Gordon** (1896) — American actress, playwright and screenwriter (1896–1985)
 
-[Source](https://en.wikipedia.org/wiki/Abram_Ioffe)
+[Source](https://en.wikipedia.org/wiki/Ruth_Gordon)
 
 ### Pop Culture
-The three surviving perpetrators of the Munich massacre are released from prison in exchange for the hostages of the hijacked Lufthansa Flight 615.
+France and the Holy Roman Empire sign a peace treaty at Ryswick, the last of a series of treaties which ends the Nine Years' War.
 
-[Source](https://en.wikipedia.org/wiki/Munich_massacre)
+[Source](https://en.wikipedia.org/wiki/Holy_Roman_Empire)
 
 ### Miscellaneous
-**space:** A day on Venus lasts longer than a Venusian year.
+**animals:** Octopuses have three hearts.
 
 <!-- DAILY_CONTENT_END -->
 
