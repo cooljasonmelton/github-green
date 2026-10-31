@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-10-30
+## Today — 2026-10-31
 
 ### Photo
-![Sunrays shining through trees and weak fog near Walchwil, Switzerland](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/CH.ZG.Walchwil_Walchwilerberg_Heumoosegg_2016-10-30_OrigX-R_gp.jpg/960px-CH.ZG.Walchwil_Walchwilerberg_Heumoosegg_2016-10-30_OrigX-R_gp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Breil-Brigels. Lag da Breil. Reservoir with low water level.](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Breil-Brigels._%28actm%29_02.jpg/960px-Breil-Brigels._%28actm%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Sunrays shining through trees and weak fog near Walchwil, Switzerland* — NOTE: This image is a panorama of Sunrays near Walchwil, Switzerland consisting of 7 frames that were merged or stitched in Kolor Autopano Pro. As a result, this image necessarily underwent some form of digital manipulation. These manipulations may include blending, blurring, cloning, and color and perspective adjustments. As a result of these adjustments, the image content may be slightly different from reality at the points where multiple images were combined. This manipulation is often required due to lens, perspective, and parallax distortions.. [Source](https://commons.wikimedia.org/wiki/File:CH.ZG.Walchwil_Walchwilerberg_Heumoosegg_2016-10-30_OrigX-R_gp.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Breil-Brigels. Lag da Breil. Reservoir with low water level.* — Agnes Monkelbaan. [Source](https://commons.wikimedia.org/wiki/File:Breil-Brigels._(actm)_02.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**tenacious** — *adjective*
+**pragmatic** — *adjective*
 
-Tending to keep a firm hold of something; persistent.
+Dealing with problems in a practical way.
 
-The tenacious researcher checked each source twice.
+A pragmatic plan focused on the smallest useful next step.
 
 ### Quote
-> To thine own self be true.
+> I have measured out my life with coffee spoons.
 
-— William Shakespeare, *Hamlet, Act 1, Scene 3*
+— T. S. Eliot, *The Love Song of J. Alfred Prufrock*
 
 ### On This Day
-World War I: The Ottoman Empire signs the Armistice of Mudros with the Allies.
+Iraq disarmament crisis begins: Iraq announces it would no longer cooperate with United Nations weapons inspectors.
 
-[Source](https://en.wikipedia.org/wiki/World_War_I)
+[Source](https://en.wikipedia.org/wiki/Iraq_disarmament_crisis)
 
 ### Born Today
-**Ruth Gordon** (1896) — American actress, playwright and screenwriter (1896–1985)
+**Galileo Ferraris** (1847) — Italian physicist and electrical engineer (1847–1897)
 
-[Source](https://en.wikipedia.org/wiki/Ruth_Gordon)
+[Source](https://en.wikipedia.org/wiki/Galileo_Ferraris)
 
 ### Pop Culture
-France and the Holy Roman Empire sign a peace treaty at Ryswick, the last of a series of treaties which ends the Nine Years' War.
+Hungarian Revolution of 1956: A Revolutionary Headquarters is established in Hungary. Following Imre Nagy's announcement of October 30, banned non-Communist political parties are reformed, and the MDP is replaced by the MSZMP.  József Mindszenty is released from prison. The Soviet Politburo makes the decision to crush the Revolution.
 
-[Source](https://en.wikipedia.org/wiki/Holy_Roman_Empire)
+[Source](https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956)
 
 ### Miscellaneous
-**animals:** Octopuses have three hearts.
+**science:** Light from the Sun reaches Earth in about eight minutes and twenty seconds.
 
 <!-- DAILY_CONTENT_END -->
 

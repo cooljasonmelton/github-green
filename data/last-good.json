@@ -2,18 +2,18 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1918,
-      "text": "World War I: The Ottoman Empire signs the Armistice of Mudros with the Allies.",
-      "title": "World War I",
-      "description": "Global conflict from 1914 to 1918",
-      "sourceUrl": "https://en.wikipedia.org/wiki/World_War_I"
+      "year": 1998,
+      "text": "Iraq disarmament crisis begins: Iraq announces it would no longer cooperate with United Nations weapons inspectors.",
+      "title": "Iraq disarmament crisis",
+      "description": "Early 2000s diplomatic crisis",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Iraq_disarmament_crisis"
     },
     "birthday": {
       "status": "live",
-      "name": "Ruth Gordon",
-      "birthYear": 1896,
-      "knownFor": "American actress, playwright and screenwriter (1896–1985)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Ruth_Gordon"
+      "name": "Galileo Ferraris",
+      "birthYear": 1847,
+      "knownFor": "Italian physicist and electrical engineer (1847–1897)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Galileo_Ferraris"
     },
     "photo": {
       "status": "live",
@@ -28,11 +28,11 @@
     },
     "culture": {
       "status": "live",
-      "year": 1697,
-      "text": "France and the Holy Roman Empire sign a peace treaty at Ryswick, the last of a series of treaties which ends the Nine Years' War.",
-      "title": "Holy Roman Empire",
-      "description": "European political entity (800/962–1806)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Holy_Roman_Empire"
+      "year": 1956,
+      "text": "Hungarian Revolution of 1956: A Revolutionary Headquarters is established in Hungary. Following Imre Nagy's announcement of October 30, banned non-Communist political parties are reformed, and the MDP is replaced by the MSZMP.  József Mindszenty is released from prison. The Soviet Politburo makes the decision to crush the Revolution.",
+      "title": "Hungarian Revolution of 1956",
+      "description": "Citizen rebellion in Hungary",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956"
     }
   }
 }
