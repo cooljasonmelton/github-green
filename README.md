@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-10-31
+## Today — 2026-11-01
 
 ### Photo
-![Breil-Brigels. Lag da Breil. Reservoir with low water level.](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Breil-Brigels._%28actm%29_02.jpg/960px-Breil-Brigels._%28actm%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![The twelve stained-glass windows of the Església Santa Margalida (Santa Margalida, Majorca, Spain) depicting twelve saints. Today is All Saints' Day.](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Esgl%C3%A9sia_Santa_Margalida_-_Santa_Margalida_-_Mallorca_-_stained-glass_windows.jpg/960px-Esgl%C3%A9sia_Santa_Margalida_-_Santa_Margalida_-_Mallorca_-_stained-glass_windows.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Breil-Brigels. Lag da Breil. Reservoir with low water level.* — Agnes Monkelbaan. [Source](https://commons.wikimedia.org/wiki/File:Breil-Brigels._(actm)_02.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*The twelve stained-glass windows of the Església Santa Margalida (Santa Margalida, Majorca, Spain) depicting twelve saints. Today is All Saints' Day.* — H. Zell. [Source](https://commons.wikimedia.org/wiki/File:Esgl%C3%A9sia_Santa_Margalida_-_Santa_Margalida_-_Mallorca_-_stained-glass_windows.jpg) · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
 
 ### Word
-**pragmatic** — *adjective*
+**serendipity** — *noun*
 
-Dealing with problems in a practical way.
+The occurrence of a fortunate discovery by chance.
 
-A pragmatic plan focused on the smallest useful next step.
+Finding the note in the old book was pure serendipity.
 
 ### Quote
-> I have measured out my life with coffee spoons.
+> Hope is the thing with feathers.
 
-— T. S. Eliot, *The Love Song of J. Alfred Prufrock*
+— Emily Dickinson, *"Hope" is the thing with feathers*
 
 ### On This Day
-Iraq disarmament crisis begins: Iraq announces it would no longer cooperate with United Nations weapons inspectors.
+Malbone Street wreck: The worst rapid transit accident in US history occurs under the intersection of Malbone Street and Flatbush Avenue, Brooklyn, New York City, with at least 102 deaths.
 
-[Source](https://en.wikipedia.org/wiki/Iraq_disarmament_crisis)
+[Source](https://en.wikipedia.org/wiki/Malbone_Street_wreck)
 
 ### Born Today
-**Galileo Ferraris** (1847) — Italian physicist and electrical engineer (1847–1897)
+**Gordon R. Dickson** (1923) — American science fiction writer (1923–2001)
 
-[Source](https://en.wikipedia.org/wiki/Galileo_Ferraris)
+[Source](https://en.wikipedia.org/wiki/Gordon_R._Dickson)
 
 ### Pop Culture
-Hungarian Revolution of 1956: A Revolutionary Headquarters is established in Hungary. Following Imre Nagy's announcement of October 30, banned non-Communist political parties are reformed, and the MDP is replaced by the MSZMP.  József Mindszenty is released from prison. The Soviet Politburo makes the decision to crush the Revolution.
+The Motion Picture Association of America's film rating system is officially introduced, originating with the ratings G, M, R, and X.
 
-[Source](https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956)
+[Source](https://en.wikipedia.org/wiki/Motion_Picture_Association)
 
 ### Miscellaneous
-**science:** Light from the Sun reaches Earth in about eight minutes and twenty seconds.
+**geography:** Africa is the only continent that extends into all four hemispheres.
 
 <!-- DAILY_CONTENT_END -->
 
