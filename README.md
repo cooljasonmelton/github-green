@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-11-01
+## Today — 2026-11-02
 
 ### Photo
-![The twelve stained-glass windows of the Església Santa Margalida (Santa Margalida, Majorca, Spain) depicting twelve saints. Today is All Saints' Day.](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Esgl%C3%A9sia_Santa_Margalida_-_Santa_Margalida_-_Mallorca_-_stained-glass_windows.jpg/960px-Esgl%C3%A9sia_Santa_Margalida_-_Santa_Margalida_-_Mallorca_-_stained-glass_windows.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Saint-Charles Cemetery is the largest cemetery in Quebec City. Today is All Souls' Day.](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Snow-covered_Saint-Charles_Cemetery_6.jpg/960px-Snow-covered_Saint-Charles_Cemetery_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*The twelve stained-glass windows of the Església Santa Margalida (Santa Margalida, Majorca, Spain) depicting twelve saints. Today is All Saints' Day.* — H. Zell. [Source](https://commons.wikimedia.org/wiki/File:Esgl%C3%A9sia_Santa_Margalida_-_Santa_Margalida_-_Mallorca_-_stained-glass_windows.jpg) · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
+*Saint-Charles Cemetery is the largest cemetery in Quebec City. Today is All Souls' Day.* — Wilfredor. [Source](https://commons.wikimedia.org/wiki/File:Snow-covered_Saint-Charles_Cemetery_6.jpg) · CC0
 
 ### Word
-**serendipity** — *noun*
+**meticulous** — *adjective*
 
-The occurrence of a fortunate discovery by chance.
+Showing great attention to detail.
 
-Finding the note in the old book was pure serendipity.
+The meticulous inventory made the handoff straightforward.
 
 ### Quote
-> Hope is the thing with feathers.
+> Not all those who wander are lost.
 
-— Emily Dickinson, *"Hope" is the thing with feathers*
+— J. R. R. Tolkien, *The Fellowship of the Ring*
 
 ### On This Day
-Malbone Street wreck: The worst rapid transit accident in US history occurs under the intersection of Malbone Street and Flatbush Avenue, Brooklyn, New York City, with at least 102 deaths.
+Channel 4, the British free-to-air public broadcast television channel funded by its commercial activities, starts broadcasting.
 
-[Source](https://en.wikipedia.org/wiki/Malbone_Street_wreck)
+[Source](https://en.wikipedia.org/wiki/Channel_4)
 
 ### Born Today
-**Gordon R. Dickson** (1923) — American science fiction writer (1923–2001)
+**Phil Woods** (1931) — American jazz musician (1931–2015)
 
-[Source](https://en.wikipedia.org/wiki/Gordon_R._Dickson)
+[Source](https://en.wikipedia.org/wiki/Phil_Woods)
 
 ### Pop Culture
-The Motion Picture Association of America's film rating system is officially introduced, originating with the ratings G, M, R, and X.
+Quiz show scandals: Twenty-One game show contestant Charles Van Doren admits to a Congressional committee that he had been given questions and answers in advance.
 
-[Source](https://en.wikipedia.org/wiki/Motion_Picture_Association)
+[Source](https://en.wikipedia.org/wiki/1950s_quiz_show_scandals)
 
 ### Miscellaneous
-**geography:** Africa is the only continent that extends into all four hemispheres.
+**technology:** The first computer bug was a moth found in a relay of the Harvard Mark II.
 
 <!-- DAILY_CONTENT_END -->
 
