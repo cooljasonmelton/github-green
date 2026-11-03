@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-11-02
+## Today — 2026-11-03
 
 ### Photo
-![Saint-Charles Cemetery is the largest cemetery in Quebec City. Today is All Souls' Day.](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Snow-covered_Saint-Charles_Cemetery_6.jpg/960px-Snow-covered_Saint-Charles_Cemetery_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Orange-lined triggerfish (Balistapus undulatus), Red Sea, Egypt. This demersal triggerfish has a maximum body size of about 30 centimetres (12&nbsp;in) and is found across the Indo-western Pacific East Africa, Red Sea and Japan, typically in coral reefs ecosystems, coral lagoons, and external reef slopes within this area. Within coral reefs, the orange-lined triggerfish are more versatile than other triggerfish species and can be found at depths up to 50 metres (160&nbsp;ft), although studies have found that they prefer depths of 2 to 8 metres (6&nbsp;ft 7&nbsp;in to 26&nbsp;ft 3&nbsp;in). It's an omnivorous feeder that can, because of its strong and heavy teeth, tackle a variety of benthic prey like cnidarians, molluscs, ctenophores, crustaceans, other fish, algae, and echinoderms. This species in particular, given its broad diet and distribution, is a crucial component in coral reef ecosystems through top-down control and especially through consumption of sea-urchin.](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Pez_ballesta_ondulado_%28Balistapus_undulatus%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-15%2C_DD_45.jpg/960px-Pez_ballesta_ondulado_%28Balistapus_undulatus%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-15%2C_DD_45.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Saint-Charles Cemetery is the largest cemetery in Quebec City. Today is All Souls' Day.* — Wilfredor. [Source](https://commons.wikimedia.org/wiki/File:Snow-covered_Saint-Charles_Cemetery_6.jpg) · CC0
+*Orange-lined triggerfish (Balistapus undulatus), Red Sea, Egypt. This demersal triggerfish has a maximum body size of about 30 centimetres (12&nbsp;in) and is found across the Indo-western Pacific East Africa, Red Sea and Japan, typically in coral reefs ecosystems, coral lagoons, and external reef slopes within this area. Within coral reefs, the orange-lined triggerfish are more versatile than other triggerfish species and can be found at depths up to 50 metres (160&nbsp;ft), although studies have found that they prefer depths of 2 to 8 metres (6&nbsp;ft 7&nbsp;in to 26&nbsp;ft 3&nbsp;in). It's an omnivorous feeder that can, because of its strong and heavy teeth, tackle a variety of benthic prey like cnidarians, molluscs, ctenophores, crustaceans, other fish, algae, and echinoderms. This species in particular, given its broad diet and distribution, is a crucial component in coral reef ecosystems through top-down control and especially through consumption of sea-urchin.* — Diego Delso. [Source](https://commons.wikimedia.org/wiki/File:Pez_ballesta_ondulado_(Balistapus_undulatus),_mar_Rojo,_Egipto,_2023-04-15,_DD_45.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**meticulous** — *adjective*
+**resilient** — *adjective*
 
-Showing great attention to detail.
+Able to recover quickly from difficulty or change.
 
-The meticulous inventory made the handoff straightforward.
+The resilient process continued after one input failed.
 
 ### Quote
-> Not all those who wander are lost.
+> There is no charm equal to tenderness of heart.
 
-— J. R. R. Tolkien, *The Fellowship of the Ring*
+— Jane Austen, *Emma*
 
 ### On This Day
-Channel 4, the British free-to-air public broadcast television channel funded by its commercial activities, starts broadcasting.
+The Constitution of Japan is adopted through Emperor's assent.
 
-[Source](https://en.wikipedia.org/wiki/Channel_4)
+[Source](https://en.wikipedia.org/wiki/Constitution_of_Japan)
 
 ### Born Today
-**Phil Woods** (1931) — American jazz musician (1931–2015)
+**Valdas Adamkus** (1926) — President of Lithuania (1998–2003; 2004–2009)
 
-[Source](https://en.wikipedia.org/wiki/Phil_Woods)
+[Source](https://en.wikipedia.org/wiki/Valdas_Adamkus)
 
 ### Pop Culture
-Quiz show scandals: Twenty-One game show contestant Charles Van Doren admits to a Congressional committee that he had been given questions and answers in advance.
+The Chicago Cubs beat the Cleveland Indians in the World Series, ending the team's 108-year-long title drought.
 
-[Source](https://en.wikipedia.org/wiki/1950s_quiz_show_scandals)
+[Source](https://en.wikipedia.org/wiki/Chicago_Cubs)
 
 ### Miscellaneous
-**technology:** The first computer bug was a moth found in a relay of the Harvard Mark II.
+**art:** The Louvre began as a medieval fortress before becoming a museum.
 
 <!-- DAILY_CONTENT_END -->
 
