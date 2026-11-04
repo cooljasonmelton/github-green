@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-11-03
+## Today — 2026-11-04
 
 ### Photo
-![Orange-lined triggerfish (Balistapus undulatus), Red Sea, Egypt. This demersal triggerfish has a maximum body size of about 30 centimetres (12&nbsp;in) and is found across the Indo-western Pacific East Africa, Red Sea and Japan, typically in coral reefs ecosystems, coral lagoons, and external reef slopes within this area. Within coral reefs, the orange-lined triggerfish are more versatile than other triggerfish species and can be found at depths up to 50 metres (160&nbsp;ft), although studies have found that they prefer depths of 2 to 8 metres (6&nbsp;ft 7&nbsp;in to 26&nbsp;ft 3&nbsp;in). It's an omnivorous feeder that can, because of its strong and heavy teeth, tackle a variety of benthic prey like cnidarians, molluscs, ctenophores, crustaceans, other fish, algae, and echinoderms. This species in particular, given its broad diet and distribution, is a crucial component in coral reef ecosystems through top-down control and especially through consumption of sea-urchin.](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Pez_ballesta_ondulado_%28Balistapus_undulatus%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-15%2C_DD_45.jpg/960px-Pez_ballesta_ondulado_%28Balistapus_undulatus%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-15%2C_DD_45.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Breil-Brigels. Lag da Breil. Reservoir with low water level.](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Breil-Brigels._%28actm%29_02.jpg/960px-Breil-Brigels._%28actm%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Orange-lined triggerfish (Balistapus undulatus), Red Sea, Egypt. This demersal triggerfish has a maximum body size of about 30 centimetres (12&nbsp;in) and is found across the Indo-western Pacific East Africa, Red Sea and Japan, typically in coral reefs ecosystems, coral lagoons, and external reef slopes within this area. Within coral reefs, the orange-lined triggerfish are more versatile than other triggerfish species and can be found at depths up to 50 metres (160&nbsp;ft), although studies have found that they prefer depths of 2 to 8 metres (6&nbsp;ft 7&nbsp;in to 26&nbsp;ft 3&nbsp;in). It's an omnivorous feeder that can, because of its strong and heavy teeth, tackle a variety of benthic prey like cnidarians, molluscs, ctenophores, crustaceans, other fish, algae, and echinoderms. This species in particular, given its broad diet and distribution, is a crucial component in coral reef ecosystems through top-down control and especially through consumption of sea-urchin.* — Diego Delso. [Source](https://commons.wikimedia.org/wiki/File:Pez_ballesta_ondulado_(Balistapus_undulatus),_mar_Rojo,_Egipto,_2023-04-15,_DD_45.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Breil-Brigels. Lag da Breil. Reservoir with low water level.* — Agnes Monkelbaan. [Source](https://commons.wikimedia.org/wiki/File:Breil-Brigels._(actm)_02.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**resilient** — *adjective*
+**curious** — *adjective*
 
-Able to recover quickly from difficulty or change.
+Eager to know or learn something.
 
-The resilient process continued after one input failed.
+A curious question often reveals the useful edge case.
 
 ### Quote
-> There is no charm equal to tenderness of heart.
+> All that we see or seem is but a dream within a dream.
 
-— Jane Austen, *Emma*
+— Edgar Allan Poe, *A Dream Within a Dream*
 
 ### On This Day
-The Constitution of Japan is adopted through Emperor's assent.
+Iberia Flight 062 crashes in Blackdown, West Sussex, killing all 37 people on board including British actress June Thorburn.
 
-[Source](https://en.wikipedia.org/wiki/Constitution_of_Japan)
+[Source](https://en.wikipedia.org/wiki/Iberia_Flight_062)
 
 ### Born Today
-**Valdas Adamkus** (1926) — President of Lithuania (1998–2003; 2004–2009)
+**Gerard van Honthorst** (1592) — Dutch painter (1592–1656)
 
-[Source](https://en.wikipedia.org/wiki/Valdas_Adamkus)
+[Source](https://en.wikipedia.org/wiki/Gerard_van_Honthorst)
 
 ### Pop Culture
-The Chicago Cubs beat the Cleveland Indians in the World Series, ending the team's 108-year-long title drought.
+The United States concludes Operation Fishbowl, its final above-ground nuclear weapons testing series, in anticipation of the 1963 Partial Nuclear Test Ban Treaty.
 
-[Source](https://en.wikipedia.org/wiki/Chicago_Cubs)
+[Source](https://en.wikipedia.org/wiki/Operation_Fishbowl)
 
 ### Miscellaneous
-**art:** The Louvre began as a medieval fortress before becoming a museum.
+**literature:** The Gutenberg Bible was printed in Mainz around 1455.
 
 <!-- DAILY_CONTENT_END -->
 
