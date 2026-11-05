@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-11-04
+## Today — 2026-11-05
 
 ### Photo
-![Breil-Brigels. Lag da Breil. Reservoir with low water level.](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Breil-Brigels._%28actm%29_02.jpg/960px-Breil-Brigels._%28actm%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Dune landscape with fingerpost (to the wreck) in the Lower Saxony Wadden Sea National Park, Norderney, Lower Saxony, Germany](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Norderney%2C_D%C3%BCnenlandschaft%2C_Wegweiser_--_2025_--_9437.jpg/960px-Norderney%2C_D%C3%BCnenlandschaft%2C_Wegweiser_--_2025_--_9437.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Breil-Brigels. Lag da Breil. Reservoir with low water level.* — Agnes Monkelbaan. [Source](https://commons.wikimedia.org/wiki/File:Breil-Brigels._(actm)_02.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Dune landscape with fingerpost (to the wreck) in the Lower Saxony Wadden Sea National Park, Norderney, Lower Saxony, Germany* — Dietmar Rabich. [Source](https://commons.wikimedia.org/wiki/File:Norderney,_D%C3%BCnenlandschaft,_Wegweiser_--_2025_--_9437.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**curious** — *adjective*
+**lucid** — *adjective*
 
-Eager to know or learn something.
+Expressed clearly and easy to understand.
 
-A curious question often reveals the useful edge case.
+Her lucid explanation made the new process less intimidating.
 
 ### Quote
-> All that we see or seem is but a dream within a dream.
+> The unexamined life is not worth living.
 
-— Edgar Allan Poe, *A Dream Within a Dream*
+— Socrates, *Plato, Apology*
 
 ### On This Day
-Iberia Flight 062 crashes in Blackdown, West Sussex, killing all 37 people on board including British actress June Thorburn.
+George B. Selden is granted the first U.S. patent for an automobile.
 
-[Source](https://en.wikipedia.org/wiki/Iberia_Flight_062)
+[Source](https://en.wikipedia.org/wiki/George_B._Selden)
 
 ### Born Today
-**Gerard van Honthorst** (1592) — Dutch painter (1592–1656)
+**Guy Green (filmmaker)** (1913) — English film director and producer (1913–2005)
 
-[Source](https://en.wikipedia.org/wiki/Gerard_van_Honthorst)
+[Source](https://en.wikipedia.org/wiki/Guy_Green_(filmmaker))
 
 ### Pop Culture
-The United States concludes Operation Fishbowl, its final above-ground nuclear weapons testing series, in anticipation of the 1963 Partial Nuclear Test Ban Treaty.
+Super Mario Bros. was released in Japan for the Nintendo Entertainment System in 1985.
 
-[Source](https://en.wikipedia.org/wiki/Operation_Fishbowl)
+[Source](https://en.wikipedia.org/wiki/Super_Mario_Bros.)
 
 ### Miscellaneous
-**literature:** The Gutenberg Bible was printed in Mainz around 1455.
+**space:** A day on Venus lasts longer than a Venusian year.
 
 <!-- DAILY_CONTENT_END -->
 
