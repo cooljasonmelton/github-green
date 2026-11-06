@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-11-05
+## Today — 2026-11-06
 
 ### Photo
-![Dune landscape with fingerpost (to the wreck) in the Lower Saxony Wadden Sea National Park, Norderney, Lower Saxony, Germany](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Norderney%2C_D%C3%BCnenlandschaft%2C_Wegweiser_--_2025_--_9437.jpg/960px-Norderney%2C_D%C3%BCnenlandschaft%2C_Wegweiser_--_2025_--_9437.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Common wombat (Vombatus ursinus tasmaniensis) juvenile on Maria Island, Tasmania, Australia](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Common_wombat_%28Vombatus_ursinus_tasmaniensis%29_juvenile_Maria_Island.jpg/960px-Common_wombat_%28Vombatus_ursinus_tasmaniensis%29_juvenile_Maria_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Dune landscape with fingerpost (to the wreck) in the Lower Saxony Wadden Sea National Park, Norderney, Lower Saxony, Germany* — Dietmar Rabich. [Source](https://commons.wikimedia.org/wiki/File:Norderney,_D%C3%BCnenlandschaft,_Wegweiser_--_2025_--_9437.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Common wombat (Vombatus ursinus tasmaniensis) juvenile on Maria Island, Tasmania, Australia* — Charles J. Sharp. [Source](https://commons.wikimedia.org/wiki/File:Common_wombat_(Vombatus_ursinus_tasmaniensis)_juvenile_Maria_Island.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**lucid** — *adjective*
+**tenacious** — *adjective*
 
-Expressed clearly and easy to understand.
+Tending to keep a firm hold of something; persistent.
 
-Her lucid explanation made the new process less intimidating.
+The tenacious researcher checked each source twice.
 
 ### Quote
-> The unexamined life is not worth living.
+> To thine own self be true.
 
-— Socrates, *Plato, Apology*
+— William Shakespeare, *Hamlet, Act 1, Scene 3*
 
 ### On This Day
-George B. Selden is granted the first U.S. patent for an automobile.
+An express train collides with a stationary car near the village of Ufton Nervet, England, killing seven and injuring 120.
 
-[Source](https://en.wikipedia.org/wiki/George_B._Selden)
+[Source](https://en.wikipedia.org/wiki/Ufton_Nervet_rail_crash)
 
 ### Born Today
-**Guy Green (filmmaker)** (1913) — English film director and producer (1913–2005)
+**George Young (rock musician)** (1946) — Australian rock musician (1946–2017)
 
-[Source](https://en.wikipedia.org/wiki/Guy_Green_(filmmaker))
+[Source](https://en.wikipedia.org/wiki/George_Young_(rock_musician))
 
 ### Pop Culture
-Super Mario Bros. was released in Japan for the Nintendo Entertainment System in 1985.
+In New Brunswick, New Jersey, Rutgers College defeats Princeton University (then known as the College of New Jersey), 6–4, in the first official intercollegiate American football game.
 
-[Source](https://en.wikipedia.org/wiki/Super_Mario_Bros.)
+[Source](https://en.wikipedia.org/wiki/New_Brunswick%2C_New_Jersey)
 
 ### Miscellaneous
-**space:** A day on Venus lasts longer than a Venusian year.
+**animals:** Octopuses have three hearts.
 
 <!-- DAILY_CONTENT_END -->
 

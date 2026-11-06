@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1895,
-      "text": "George B. Selden is granted the first U.S. patent for an automobile.",
-      "title": "George B. Selden",
-      "description": "American patent lawyer and inventor of a version of the automobile",
-      "sourceUrl": "https://en.wikipedia.org/wiki/George_B._Selden"
+      "year": 2004,
+      "text": "An express train collides with a stationary car near the village of Ufton Nervet, England, killing seven and injuring 120.",
+      "title": "Ufton Nervet rail crash",
+      "description": "2004 rail crash in Berkshire, England",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ufton_Nervet_rail_crash"
     },
     "birthday": {
       "status": "live",
-      "name": "Guy Green (filmmaker)",
-      "birthYear": 1913,
-      "knownFor": "English film director and producer (1913–2005)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Guy_Green_(filmmaker)"
+      "name": "George Young (rock musician)",
+      "birthYear": 1946,
+      "knownFor": "Australian rock musician (1946–2017)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/George_Young_(rock_musician)"
     },
     "photo": {
       "status": "live",
-      "title": "File:Norderney, Dünenlandschaft, Wegweiser -- 2025 -- 9437.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Norderney%2C_D%C3%BCnenlandschaft%2C_Wegweiser_--_2025_--_9437.jpg/960px-Norderney%2C_D%C3%BCnenlandschaft%2C_Wegweiser_--_2025_--_9437.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "Dune landscape with fingerpost (to the wreck) in the Lower Saxony Wadden Sea National Park, Norderney, Lower Saxony, Germany",
-      "creator": "Dietmar Rabich",
-      "credit": "Own work",
+      "title": "File:Common wombat (Vombatus ursinus tasmaniensis) juvenile Maria Island.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Common_wombat_%28Vombatus_ursinus_tasmaniensis%29_juvenile_Maria_Island.jpg/960px-Common_wombat_%28Vombatus_ursinus_tasmaniensis%29_juvenile_Maria_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Common wombat (Vombatus ursinus tasmaniensis) juvenile on Maria Island, Tasmania, Australia",
+      "creator": "Charles J. Sharp",
+      "credit": "Own work, from Sharp Photography, sharpphotography.co.uk",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Norderney,_D%C3%BCnenlandschaft,_Wegweiser_--_2025_--_9437.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_wombat_(Vombatus_ursinus_tasmaniensis)_juvenile_Maria_Island.jpg"
     },
     "culture": {
       "status": "live",
-      "year": 1962,
-      "text": "The United States concludes Operation Fishbowl, its final above-ground nuclear weapons testing series, in anticipation of the 1963 Partial Nuclear Test Ban Treaty.",
-      "title": "Operation Fishbowl",
-      "description": "Series of 1960s US high-altitude nuclear tests",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Operation_Fishbowl"
+      "year": 1869,
+      "text": "In New Brunswick, New Jersey, Rutgers College defeats Princeton University (then known as the College of New Jersey), 6–4, in the first official intercollegiate American football game.",
+      "title": "New Brunswick, New Jersey",
+      "description": "City in Middlesex County, New Jersey, US",
+      "sourceUrl": "https://en.wikipedia.org/wiki/New_Brunswick%2C_New_Jersey"
     }
   }
 }
