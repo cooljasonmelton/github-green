@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 2004,
-      "text": "An express train collides with a stationary car near the village of Ufton Nervet, England, killing seven and injuring 120.",
-      "title": "Ufton Nervet rail crash",
-      "description": "2004 rail crash in Berkshire, England",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Ufton_Nervet_rail_crash"
+      "year": 1949,
+      "text": "The first oil was taken in Oil Rocks (Neft Daşları), the world's oldest offshore oil platform.",
+      "title": "Neft Daşları",
+      "description": "Place in Baku, Azerbaijan",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Neft_Da%C5%9Flar%C4%B1"
     },
     "birthday": {
       "status": "live",
-      "name": "George Young (rock musician)",
-      "birthYear": 1946,
-      "knownFor": "Australian rock musician (1946–2017)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/George_Young_(rock_musician)"
+      "name": "John Benitez",
+      "birthYear": 1957,
+      "knownFor": "American musician and producer (born 1957)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/John_Benitez"
     },
     "photo": {
       "status": "live",
-      "title": "File:Common wombat (Vombatus ursinus tasmaniensis) juvenile Maria Island.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Common_wombat_%28Vombatus_ursinus_tasmaniensis%29_juvenile_Maria_Island.jpg/960px-Common_wombat_%28Vombatus_ursinus_tasmaniensis%29_juvenile_Maria_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "Common wombat (Vombatus ursinus tasmaniensis) juvenile on Maria Island, Tasmania, Australia",
-      "creator": "Charles J. Sharp",
-      "credit": "Own work, from Sharp Photography, sharpphotography.co.uk",
+      "title": "File:Aekingerzand Nationaal Park Drents-Friese Wold. 11-08-2025. (actm.) 10.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Aekingerzand_Nationaal_Park_Drents-Friese_Wold._11-08-2025._%28actm.%29_10.jpg/960px-Aekingerzand_Nationaal_Park_Drents-Friese_Wold._11-08-2025._%28actm.%29_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Aekingerzand Drents-Friese Wold National Park. Pinus sylvestris on the sand drift.",
+      "creator": "Agnes Monkelbaan",
+      "credit": "Own work",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_wombat_(Vombatus_ursinus_tasmaniensis)_juvenile_Maria_Island.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aekingerzand_Nationaal_Park_Drents-Friese_Wold._11-08-2025._(actm.)_10.jpg"
     },
     "culture": {
       "status": "live",
-      "year": 1869,
-      "text": "In New Brunswick, New Jersey, Rutgers College defeats Princeton University (then known as the College of New Jersey), 6–4, in the first official intercollegiate American football game.",
-      "title": "New Brunswick, New Jersey",
-      "description": "City in Middlesex County, New Jersey, US",
-      "sourceUrl": "https://en.wikipedia.org/wiki/New_Brunswick%2C_New_Jersey"
+      "year": 2017,
+      "text": "Shamshad TV is attacked by gunmen and suicide bombers, with a security guard killed and 20 people wounded; ISIS claims responsibility for the attack.",
+      "title": "Shamshad TV",
+      "description": "Pashto-language television channel",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Shamshad_TV"
     }
   }
 }

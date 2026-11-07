@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-11-06
+## Today — 2026-11-07
 
 ### Photo
-![Common wombat (Vombatus ursinus tasmaniensis) juvenile on Maria Island, Tasmania, Australia](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Common_wombat_%28Vombatus_ursinus_tasmaniensis%29_juvenile_Maria_Island.jpg/960px-Common_wombat_%28Vombatus_ursinus_tasmaniensis%29_juvenile_Maria_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Aekingerzand Drents-Friese Wold National Park. Pinus sylvestris on the sand drift.](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Aekingerzand_Nationaal_Park_Drents-Friese_Wold._11-08-2025._%28actm.%29_10.jpg/960px-Aekingerzand_Nationaal_Park_Drents-Friese_Wold._11-08-2025._%28actm.%29_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Common wombat (Vombatus ursinus tasmaniensis) juvenile on Maria Island, Tasmania, Australia* — Charles J. Sharp. [Source](https://commons.wikimedia.org/wiki/File:Common_wombat_(Vombatus_ursinus_tasmaniensis)_juvenile_Maria_Island.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Aekingerzand Drents-Friese Wold National Park. Pinus sylvestris on the sand drift.* — Agnes Monkelbaan. [Source](https://commons.wikimedia.org/wiki/File:Aekingerzand_Nationaal_Park_Drents-Friese_Wold._11-08-2025._(actm.)_10.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**tenacious** — *adjective*
+**pragmatic** — *adjective*
 
-Tending to keep a firm hold of something; persistent.
+Dealing with problems in a practical way.
 
-The tenacious researcher checked each source twice.
+A pragmatic plan focused on the smallest useful next step.
 
 ### Quote
-> To thine own self be true.
+> I have measured out my life with coffee spoons.
 
-— William Shakespeare, *Hamlet, Act 1, Scene 3*
+— T. S. Eliot, *The Love Song of J. Alfred Prufrock*
 
 ### On This Day
-An express train collides with a stationary car near the village of Ufton Nervet, England, killing seven and injuring 120.
+The first oil was taken in Oil Rocks (Neft Daşları), the world's oldest offshore oil platform.
 
-[Source](https://en.wikipedia.org/wiki/Ufton_Nervet_rail_crash)
+[Source](https://en.wikipedia.org/wiki/Neft_Da%C5%9Flar%C4%B1)
 
 ### Born Today
-**George Young (rock musician)** (1946) — Australian rock musician (1946–2017)
+**John Benitez** (1957) — American musician and producer (born 1957)
 
-[Source](https://en.wikipedia.org/wiki/George_Young_(rock_musician))
+[Source](https://en.wikipedia.org/wiki/John_Benitez)
 
 ### Pop Culture
-In New Brunswick, New Jersey, Rutgers College defeats Princeton University (then known as the College of New Jersey), 6–4, in the first official intercollegiate American football game.
+Shamshad TV is attacked by gunmen and suicide bombers, with a security guard killed and 20 people wounded; ISIS claims responsibility for the attack.
 
-[Source](https://en.wikipedia.org/wiki/New_Brunswick%2C_New_Jersey)
+[Source](https://en.wikipedia.org/wiki/Shamshad_TV)
 
 ### Miscellaneous
-**animals:** Octopuses have three hearts.
+**science:** Light from the Sun reaches Earth in about eight minutes and twenty seconds.
 
 <!-- DAILY_CONTENT_END -->
 
