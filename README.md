@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-11-07
+## Today — 2026-11-08
 
 ### Photo
-![Aekingerzand Drents-Friese Wold National Park. Pinus sylvestris on the sand drift.](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Aekingerzand_Nationaal_Park_Drents-Friese_Wold._11-08-2025._%28actm.%29_10.jpg/960px-Aekingerzand_Nationaal_Park_Drents-Friese_Wold._11-08-2025._%28actm.%29_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Asian green bee-eater (Merops orientalis orientalis) couple in Keoladeo National Park, India](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/002_Asian_green_bee-eaters_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg/960px-002_Asian_green_bee-eaters_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Aekingerzand Drents-Friese Wold National Park. Pinus sylvestris on the sand drift.* — Agnes Monkelbaan. [Source](https://commons.wikimedia.org/wiki/File:Aekingerzand_Nationaal_Park_Drents-Friese_Wold._11-08-2025._(actm.)_10.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Asian green bee-eater (Merops orientalis orientalis) couple in Keoladeo National Park, India* — Giles Laurent. [Source](https://commons.wikimedia.org/wiki/File:002_Asian_green_bee-eaters_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**pragmatic** — *adjective*
+**serendipity** — *noun*
 
-Dealing with problems in a practical way.
+The occurrence of a fortunate discovery by chance.
 
-A pragmatic plan focused on the smallest useful next step.
+Finding the note in the old book was pure serendipity.
 
 ### Quote
-> I have measured out my life with coffee spoons.
+> Hope is the thing with feathers.
 
-— T. S. Eliot, *The Love Song of J. Alfred Prufrock*
+— Emily Dickinson, *"Hope" is the thing with feathers*
 
 ### On This Day
-The first oil was taken in Oil Rocks (Neft Daşları), the world's oldest offshore oil platform.
+Spanish Civil War: Francoist troops fail in their effort to capture Madrid, but begin the three-year Siege of Madrid afterwards.
 
-[Source](https://en.wikipedia.org/wiki/Neft_Da%C5%9Flar%C4%B1)
+[Source](https://en.wikipedia.org/wiki/Spanish_Civil_War)
 
 ### Born Today
-**John Benitez** (1957) — American musician and producer (born 1957)
+**Greg and Colin Strause** (1976) — American brother film directors
 
-[Source](https://en.wikipedia.org/wiki/John_Benitez)
+[Source](https://en.wikipedia.org/wiki/Greg_and_Colin_Strause)
 
 ### Pop Culture
-Shamshad TV is attacked by gunmen and suicide bombers, with a security guard killed and 20 people wounded; ISIS claims responsibility for the attack.
+American pay television network Home Box Office (HBO) launches.
 
-[Source](https://en.wikipedia.org/wiki/Shamshad_TV)
+[Source](https://en.wikipedia.org/wiki/HBO)
 
 ### Miscellaneous
-**science:** Light from the Sun reaches Earth in about eight minutes and twenty seconds.
+**geography:** Africa is the only continent that extends into all four hemispheres.
 
 <!-- DAILY_CONTENT_END -->
 

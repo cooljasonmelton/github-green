@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1949,
-      "text": "The first oil was taken in Oil Rocks (Neft Daşları), the world's oldest offshore oil platform.",
-      "title": "Neft Daşları",
-      "description": "Place in Baku, Azerbaijan",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Neft_Da%C5%9Flar%C4%B1"
+      "year": 1936,
+      "text": "Spanish Civil War: Francoist troops fail in their effort to capture Madrid, but begin the three-year Siege of Madrid afterwards.",
+      "title": "Spanish Civil War",
+      "description": "1936–1939 civil war in Spain",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Spanish_Civil_War"
     },
     "birthday": {
       "status": "live",
-      "name": "John Benitez",
-      "birthYear": 1957,
-      "knownFor": "American musician and producer (born 1957)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/John_Benitez"
+      "name": "Greg and Colin Strause",
+      "birthYear": 1976,
+      "knownFor": "American brother film directors",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Greg_and_Colin_Strause"
     },
     "photo": {
       "status": "live",
-      "title": "File:Aekingerzand Nationaal Park Drents-Friese Wold. 11-08-2025. (actm.) 10.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Aekingerzand_Nationaal_Park_Drents-Friese_Wold._11-08-2025._%28actm.%29_10.jpg/960px-Aekingerzand_Nationaal_Park_Drents-Friese_Wold._11-08-2025._%28actm.%29_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "Aekingerzand Drents-Friese Wold National Park. Pinus sylvestris on the sand drift.",
-      "creator": "Agnes Monkelbaan",
-      "credit": "Own work",
+      "title": "File:002 Asian green bee-eaters in Keoladeo National Park Photo by Giles Laurent.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/002_Asian_green_bee-eaters_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg/960px-002_Asian_green_bee-eaters_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Asian green bee-eater (Merops orientalis orientalis) couple in Keoladeo National Park, India",
+      "creator": "Giles Laurent",
+      "credit": "Own work, from gileslaurent.com",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aekingerzand_Nationaal_Park_Drents-Friese_Wold._11-08-2025._(actm.)_10.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:002_Asian_green_bee-eaters_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg"
     },
     "culture": {
       "status": "live",
-      "year": 2017,
-      "text": "Shamshad TV is attacked by gunmen and suicide bombers, with a security guard killed and 20 people wounded; ISIS claims responsibility for the attack.",
-      "title": "Shamshad TV",
-      "description": "Pashto-language television channel",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Shamshad_TV"
+      "year": 1972,
+      "text": "American pay television network Home Box Office (HBO) launches.",
+      "title": "HBO",
+      "description": "American pay television network",
+      "sourceUrl": "https://en.wikipedia.org/wiki/HBO"
     }
   }
 }
