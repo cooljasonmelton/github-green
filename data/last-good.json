@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1936,
-      "text": "Spanish Civil War: Francoist troops fail in their effort to capture Madrid, but begin the three-year Siege of Madrid afterwards.",
-      "title": "Spanish Civil War",
-      "description": "1936–1939 civil war in Spain",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Spanish_Civil_War"
+      "year": 1870,
+      "text": "The Battle of Coulmiers ends in a Pyrrhic victory for the French army during the Franco-German War of 1870.",
+      "title": "Battle of Coulmiers",
+      "description": "Franco-Prussian War, 9 Nov 1870",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Coulmiers"
     },
     "birthday": {
       "status": "live",
-      "name": "Greg and Colin Strause",
-      "birthYear": 1976,
-      "knownFor": "American brother film directors",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Greg_and_Colin_Strause"
+      "name": "Stanford White",
+      "birthYear": 1853,
+      "knownFor": "American architect (1853–1906)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Stanford_White"
     },
     "photo": {
       "status": "live",
-      "title": "File:002 Asian green bee-eaters in Keoladeo National Park Photo by Giles Laurent.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/002_Asian_green_bee-eaters_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg/960px-002_Asian_green_bee-eaters_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "Asian green bee-eater (Merops orientalis orientalis) couple in Keoladeo National Park, India",
-      "creator": "Giles Laurent",
-      "credit": "Own work, from gileslaurent.com",
+      "title": "File:Panorama of Himalayas from Ranikhet, Uttarakhand, India.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Panorama_of_Himalayas_from_Ranikhet%2C_Uttarakhand%2C_India.jpg/960px-Panorama_of_Himalayas_from_Ranikhet%2C_Uttarakhand%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Panoramic view of the Kumaon Himalaya as seen from Ranikhet in the northern Indian state of Uttarakhand. Himalayan giants such as Trisul (7,120 m (23,360 ft)), Nanda Devi (7,817 m (25,646 ft)), Nanda Kot (6,861 m (22,510 ft)), Panchachuli (6,904 m (22,651 ft)) and other peaks are prominently visible.",
+      "creator": "Original:  Harshit SR\nDerivative work:  UnpetitproleX",
+      "credit": "This file was derived from:  Panorama of Himalayas.jpg",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:002_Asian_green_bee-eaters_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panorama_of_Himalayas_from_Ranikhet,_Uttarakhand,_India.jpg"
     },
     "culture": {
       "status": "live",
-      "year": 1972,
-      "text": "American pay television network Home Box Office (HBO) launches.",
-      "title": "HBO",
-      "description": "American pay television network",
-      "sourceUrl": "https://en.wikipedia.org/wiki/HBO"
+      "year": 1965,
+      "text": "Several U.S. states and parts of Canada are hit by a series of blackouts lasting up to 13 hours in the Northeast blackout of 1965.",
+      "title": "Power outage",
+      "description": "Loss of electric power to an area",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Power_outage"
     }
   }
 }

@@ -13,42 +13,43 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-11-08
+## Today — 2026-11-09
 
 ### Photo
-![Asian green bee-eater (Merops orientalis orientalis) couple in Keoladeo National Park, India](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/002_Asian_green_bee-eaters_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg/960px-002_Asian_green_bee-eaters_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Panoramic view of the Kumaon Himalaya as seen from Ranikhet in the northern Indian state of Uttarakhand. Himalayan giants such as Trisul (7,120 m (23,360 ft)), Nanda Devi (7,817 m (25,646 ft)), Nanda Kot (6,861 m (22,510 ft)), Panchachuli (6,904 m (22,651 ft)) and other peaks are prominently visible.](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Panorama_of_Himalayas_from_Ranikhet%2C_Uttarakhand%2C_India.jpg/960px-Panorama_of_Himalayas_from_Ranikhet%2C_Uttarakhand%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Asian green bee-eater (Merops orientalis orientalis) couple in Keoladeo National Park, India* — Giles Laurent. [Source](https://commons.wikimedia.org/wiki/File:002_Asian_green_bee-eaters_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Panoramic view of the Kumaon Himalaya as seen from Ranikhet in the northern Indian state of Uttarakhand. Himalayan giants such as Trisul (7,120 m (23,360 ft)), Nanda Devi (7,817 m (25,646 ft)), Nanda Kot (6,861 m (22,510 ft)), Panchachuli (6,904 m (22,651 ft)) and other peaks are prominently visible.* — Original:  Harshit SR
+Derivative work:  UnpetitproleX. [Source](https://commons.wikimedia.org/wiki/File:Panorama_of_Himalayas_from_Ranikhet,_Uttarakhand,_India.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**serendipity** — *noun*
+**meticulous** — *adjective*
 
-The occurrence of a fortunate discovery by chance.
+Showing great attention to detail.
 
-Finding the note in the old book was pure serendipity.
+The meticulous inventory made the handoff straightforward.
 
 ### Quote
-> Hope is the thing with feathers.
+> Not all those who wander are lost.
 
-— Emily Dickinson, *"Hope" is the thing with feathers*
+— J. R. R. Tolkien, *The Fellowship of the Ring*
 
 ### On This Day
-Spanish Civil War: Francoist troops fail in their effort to capture Madrid, but begin the three-year Siege of Madrid afterwards.
+The Battle of Coulmiers ends in a Pyrrhic victory for the French army during the Franco-German War of 1870.
 
-[Source](https://en.wikipedia.org/wiki/Spanish_Civil_War)
+[Source](https://en.wikipedia.org/wiki/Battle_of_Coulmiers)
 
 ### Born Today
-**Greg and Colin Strause** (1976) — American brother film directors
+**Stanford White** (1853) — American architect (1853–1906)
 
-[Source](https://en.wikipedia.org/wiki/Greg_and_Colin_Strause)
+[Source](https://en.wikipedia.org/wiki/Stanford_White)
 
 ### Pop Culture
-American pay television network Home Box Office (HBO) launches.
+Several U.S. states and parts of Canada are hit by a series of blackouts lasting up to 13 hours in the Northeast blackout of 1965.
 
-[Source](https://en.wikipedia.org/wiki/HBO)
+[Source](https://en.wikipedia.org/wiki/Power_outage)
 
 ### Miscellaneous
-**geography:** Africa is the only continent that extends into all four hemispheres.
+**technology:** The first computer bug was a moth found in a relay of the Harvard Mark II.
 
 <!-- DAILY_CONTENT_END -->
 
