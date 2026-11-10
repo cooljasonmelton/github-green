@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1870,
-      "text": "The Battle of Coulmiers ends in a Pyrrhic victory for the French army during the Franco-German War of 1870.",
-      "title": "Battle of Coulmiers",
-      "description": "Franco-Prussian War, 9 Nov 1870",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Coulmiers"
+      "year": 1971,
+      "text": "A Merpati Nusantara Airlines Vickers Viscount crashes into the Indian Ocean near Padang, West Sumatra, Indonesia, killing all 69 people on board.",
+      "title": "Merpati Nusantara Airlines",
+      "description": "Airline of Indonesia (1962–2014)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Merpati_Nusantara_Airlines"
     },
     "birthday": {
       "status": "live",
-      "name": "Stanford White",
-      "birthYear": 1853,
-      "knownFor": "American architect (1853–1906)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Stanford_White"
+      "name": "Zofia Nałkowska",
+      "birthYear": 1884,
+      "knownFor": "Polish prose writer and dramatist (1884–1954)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Zofia_Na%C5%82kowska"
     },
     "photo": {
       "status": "live",
-      "title": "File:Panorama of Himalayas from Ranikhet, Uttarakhand, India.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Panorama_of_Himalayas_from_Ranikhet%2C_Uttarakhand%2C_India.jpg/960px-Panorama_of_Himalayas_from_Ranikhet%2C_Uttarakhand%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "Panoramic view of the Kumaon Himalaya as seen from Ranikhet in the northern Indian state of Uttarakhand. Himalayan giants such as Trisul (7,120 m (23,360 ft)), Nanda Devi (7,817 m (25,646 ft)), Nanda Kot (6,861 m (22,510 ft)), Panchachuli (6,904 m (22,651 ft)) and other peaks are prominently visible.",
-      "creator": "Original:  Harshit SR\nDerivative work:  UnpetitproleX",
-      "credit": "This file was derived from:  Panorama of Himalayas.jpg",
+      "title": "File:Verdun – Cathédrale Notre-Dame – Crypte 2025 08 16.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Verdun_%E2%80%93_Cath%C3%A9drale_Notre-Dame_%E2%80%93_Crypte_2025_08_16.jpg/960px-Verdun_%E2%80%93_Cath%C3%A9drale_Notre-Dame_%E2%80%93_Crypte_2025_08_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "12th-century crypt of Verdun Cathedral, France, rediscovered after the Great War during the restoration works. When the reconstruction of the crypt was completed, the cathedral was reconsecrated on 10 November 1935.",
+      "creator": "Andreas F. Borchert",
+      "credit": "Self-photographed",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panorama_of_Himalayas_from_Ranikhet,_Uttarakhand,_India.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Verdun_%E2%80%93_Cath%C3%A9drale_Notre-Dame_%E2%80%93_Crypte_2025_08_16.jpg"
     },
     "culture": {
       "status": "live",
-      "year": 1965,
-      "text": "Several U.S. states and parts of Canada are hit by a series of blackouts lasting up to 13 hours in the Northeast blackout of 1965.",
-      "title": "Power outage",
-      "description": "Loss of electric power to an area",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Power_outage"
+      "year": 1969,
+      "text": "National Educational Television (the predecessor to the Public Broadcasting Service) in the United States debuts Sesame Street.",
+      "title": "National Educational Television",
+      "description": "Former American television network",
+      "sourceUrl": "https://en.wikipedia.org/wiki/National_Educational_Television"
     }
   }
 }

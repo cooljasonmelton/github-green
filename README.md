@@ -13,43 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-11-09
+## Today — 2026-11-10
 
 ### Photo
-![Panoramic view of the Kumaon Himalaya as seen from Ranikhet in the northern Indian state of Uttarakhand. Himalayan giants such as Trisul (7,120 m (23,360 ft)), Nanda Devi (7,817 m (25,646 ft)), Nanda Kot (6,861 m (22,510 ft)), Panchachuli (6,904 m (22,651 ft)) and other peaks are prominently visible.](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Panorama_of_Himalayas_from_Ranikhet%2C_Uttarakhand%2C_India.jpg/960px-Panorama_of_Himalayas_from_Ranikhet%2C_Uttarakhand%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![12th-century crypt of Verdun Cathedral, France, rediscovered after the Great War during the restoration works. When the reconstruction of the crypt was completed, the cathedral was reconsecrated on 10 November 1935.](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Verdun_%E2%80%93_Cath%C3%A9drale_Notre-Dame_%E2%80%93_Crypte_2025_08_16.jpg/960px-Verdun_%E2%80%93_Cath%C3%A9drale_Notre-Dame_%E2%80%93_Crypte_2025_08_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Panoramic view of the Kumaon Himalaya as seen from Ranikhet in the northern Indian state of Uttarakhand. Himalayan giants such as Trisul (7,120 m (23,360 ft)), Nanda Devi (7,817 m (25,646 ft)), Nanda Kot (6,861 m (22,510 ft)), Panchachuli (6,904 m (22,651 ft)) and other peaks are prominently visible.* — Original:  Harshit SR
-Derivative work:  UnpetitproleX. [Source](https://commons.wikimedia.org/wiki/File:Panorama_of_Himalayas_from_Ranikhet,_Uttarakhand,_India.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*12th-century crypt of Verdun Cathedral, France, rediscovered after the Great War during the restoration works. When the reconstruction of the crypt was completed, the cathedral was reconsecrated on 10 November 1935.* — Andreas F. Borchert. [Source](https://commons.wikimedia.org/wiki/File:Verdun_%E2%80%93_Cath%C3%A9drale_Notre-Dame_%E2%80%93_Crypte_2025_08_16.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**meticulous** — *adjective*
+**resilient** — *adjective*
 
-Showing great attention to detail.
+Able to recover quickly from difficulty or change.
 
-The meticulous inventory made the handoff straightforward.
+The resilient process continued after one input failed.
 
 ### Quote
-> Not all those who wander are lost.
+> There is no charm equal to tenderness of heart.
 
-— J. R. R. Tolkien, *The Fellowship of the Ring*
+— Jane Austen, *Emma*
 
 ### On This Day
-The Battle of Coulmiers ends in a Pyrrhic victory for the French army during the Franco-German War of 1870.
+A Merpati Nusantara Airlines Vickers Viscount crashes into the Indian Ocean near Padang, West Sumatra, Indonesia, killing all 69 people on board.
 
-[Source](https://en.wikipedia.org/wiki/Battle_of_Coulmiers)
+[Source](https://en.wikipedia.org/wiki/Merpati_Nusantara_Airlines)
 
 ### Born Today
-**Stanford White** (1853) — American architect (1853–1906)
+**Zofia Nałkowska** (1884) — Polish prose writer and dramatist (1884–1954)
 
-[Source](https://en.wikipedia.org/wiki/Stanford_White)
+[Source](https://en.wikipedia.org/wiki/Zofia_Na%C5%82kowska)
 
 ### Pop Culture
-Several U.S. states and parts of Canada are hit by a series of blackouts lasting up to 13 hours in the Northeast blackout of 1965.
+National Educational Television (the predecessor to the Public Broadcasting Service) in the United States debuts Sesame Street.
 
-[Source](https://en.wikipedia.org/wiki/Power_outage)
+[Source](https://en.wikipedia.org/wiki/National_Educational_Television)
 
 ### Miscellaneous
-**technology:** The first computer bug was a moth found in a relay of the Harvard Mark II.
+**art:** The Louvre began as a medieval fortress before becoming a museum.
 
 <!-- DAILY_CONTENT_END -->
 
