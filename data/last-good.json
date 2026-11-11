@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1971,
-      "text": "A Merpati Nusantara Airlines Vickers Viscount crashes into the Indian Ocean near Padang, West Sumatra, Indonesia, killing all 69 people on board.",
-      "title": "Merpati Nusantara Airlines",
-      "description": "Airline of Indonesia (1962–2014)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Merpati_Nusantara_Airlines"
+      "year": 308,
+      "text": "At Carnuntum, Emperor emeritus Diocletian confers with Galerius, Augustus of the East, and Maximianus, the recently returned former Augustus of the West, in an attempt to end the civil wars of the Tetrarchy.",
+      "title": "Carnuntum",
+      "description": "Ancient Roman military outpost in modern Austria",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Carnuntum"
     },
     "birthday": {
       "status": "live",
-      "name": "Zofia Nałkowska",
-      "birthYear": 1884,
-      "knownFor": "Polish prose writer and dramatist (1884–1954)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Zofia_Na%C5%82kowska"
+      "name": "Peter B. Lewis",
+      "birthYear": 1933,
+      "knownFor": "American businessman (1933–2013)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Peter_B._Lewis"
     },
     "photo": {
       "status": "live",
-      "title": "File:Verdun – Cathédrale Notre-Dame – Crypte 2025 08 16.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Verdun_%E2%80%93_Cath%C3%A9drale_Notre-Dame_%E2%80%93_Crypte_2025_08_16.jpg/960px-Verdun_%E2%80%93_Cath%C3%A9drale_Notre-Dame_%E2%80%93_Crypte_2025_08_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "12th-century crypt of Verdun Cathedral, France, rediscovered after the Great War during the restoration works. When the reconstruction of the crypt was completed, the cathedral was reconsecrated on 10 November 1935.",
-      "creator": "Andreas F. Borchert",
-      "credit": "Self-photographed",
+      "title": "File:Kościelec view 2.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Ko%C5%9Bcielec_view_2.jpg/960px-Ko%C5%9Bcielec_view_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Panoramic view towards Świnica from Kościelec, Tatra National Park, Zakopane. Today is Poland's National Independence Day.",
+      "creator": "kallerna",
+      "credit": "Own work",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Verdun_%E2%80%93_Cath%C3%A9drale_Notre-Dame_%E2%80%93_Crypte_2025_08_16.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ko%C5%9Bcielec_view_2.jpg"
     },
     "culture": {
       "status": "live",
-      "year": 1969,
-      "text": "National Educational Television (the predecessor to the Public Broadcasting Service) in the United States debuts Sesame Street.",
-      "title": "National Educational Television",
-      "description": "Former American television network",
-      "sourceUrl": "https://en.wikipedia.org/wiki/National_Educational_Television"
+      "year": 1805,
+      "text": "Napoleonic Wars: Battle of Dürenstein: Eight thousand French troops attempt to slow the retreat of a vastly superior Russian and Austrian force.",
+      "title": "Napoleonic Wars",
+      "description": "1803–1815 series of wars led by Napoleon",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Napoleonic_Wars"
     }
   }
 }

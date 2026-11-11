@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-11-10
+## Today — 2026-11-11
 
 ### Photo
-![12th-century crypt of Verdun Cathedral, France, rediscovered after the Great War during the restoration works. When the reconstruction of the crypt was completed, the cathedral was reconsecrated on 10 November 1935.](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Verdun_%E2%80%93_Cath%C3%A9drale_Notre-Dame_%E2%80%93_Crypte_2025_08_16.jpg/960px-Verdun_%E2%80%93_Cath%C3%A9drale_Notre-Dame_%E2%80%93_Crypte_2025_08_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Panoramic view towards Świnica from Kościelec, Tatra National Park, Zakopane. Today is Poland's National Independence Day.](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Ko%C5%9Bcielec_view_2.jpg/960px-Ko%C5%9Bcielec_view_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*12th-century crypt of Verdun Cathedral, France, rediscovered after the Great War during the restoration works. When the reconstruction of the crypt was completed, the cathedral was reconsecrated on 10 November 1935.* — Andreas F. Borchert. [Source](https://commons.wikimedia.org/wiki/File:Verdun_%E2%80%93_Cath%C3%A9drale_Notre-Dame_%E2%80%93_Crypte_2025_08_16.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Panoramic view towards Świnica from Kościelec, Tatra National Park, Zakopane. Today is Poland's National Independence Day.* — kallerna. [Source](https://commons.wikimedia.org/wiki/File:Ko%C5%9Bcielec_view_2.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**resilient** — *adjective*
+**curious** — *adjective*
 
-Able to recover quickly from difficulty or change.
+Eager to know or learn something.
 
-The resilient process continued after one input failed.
+A curious question often reveals the useful edge case.
 
 ### Quote
-> There is no charm equal to tenderness of heart.
+> All that we see or seem is but a dream within a dream.
 
-— Jane Austen, *Emma*
+— Edgar Allan Poe, *A Dream Within a Dream*
 
 ### On This Day
-A Merpati Nusantara Airlines Vickers Viscount crashes into the Indian Ocean near Padang, West Sumatra, Indonesia, killing all 69 people on board.
+At Carnuntum, Emperor emeritus Diocletian confers with Galerius, Augustus of the East, and Maximianus, the recently returned former Augustus of the West, in an attempt to end the civil wars of the Tetrarchy.
 
-[Source](https://en.wikipedia.org/wiki/Merpati_Nusantara_Airlines)
+[Source](https://en.wikipedia.org/wiki/Carnuntum)
 
 ### Born Today
-**Zofia Nałkowska** (1884) — Polish prose writer and dramatist (1884–1954)
+**Peter B. Lewis** (1933) — American businessman (1933–2013)
 
-[Source](https://en.wikipedia.org/wiki/Zofia_Na%C5%82kowska)
+[Source](https://en.wikipedia.org/wiki/Peter_B._Lewis)
 
 ### Pop Culture
-National Educational Television (the predecessor to the Public Broadcasting Service) in the United States debuts Sesame Street.
+Napoleonic Wars: Battle of Dürenstein: Eight thousand French troops attempt to slow the retreat of a vastly superior Russian and Austrian force.
 
-[Source](https://en.wikipedia.org/wiki/National_Educational_Television)
+[Source](https://en.wikipedia.org/wiki/Napoleonic_Wars)
 
 ### Miscellaneous
-**art:** The Louvre began as a medieval fortress before becoming a museum.
+**literature:** The Gutenberg Bible was printed in Mainz around 1455.
 
 <!-- DAILY_CONTENT_END -->
 
