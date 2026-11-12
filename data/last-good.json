@@ -2,18 +2,18 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 308,
-      "text": "At Carnuntum, Emperor emeritus Diocletian confers with Galerius, Augustus of the East, and Maximianus, the recently returned former Augustus of the West, in an attempt to end the civil wars of the Tetrarchy.",
-      "title": "Carnuntum",
-      "description": "Ancient Roman military outpost in modern Austria",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Carnuntum"
+      "year": 2014,
+      "text": "An Armenian Mil Mi-24 attack helicopter is shot down by Azerbaijani forces, killing all three people on board.",
+      "title": "Mil Mi-24",
+      "description": "Family of assault and attack helicopters",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mil_Mi-24"
     },
     "birthday": {
       "status": "live",
-      "name": "Peter B. Lewis",
-      "birthYear": 1933,
-      "knownFor": "American businessman (1933–2013)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Peter_B._Lewis"
+      "name": "John Walker (musician)",
+      "birthYear": 1943,
+      "knownFor": "American guitarist (1943–2011)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/John_Walker_(musician)"
     },
     "photo": {
       "status": "live",
@@ -28,11 +28,11 @@
     },
     "culture": {
       "status": "live",
-      "year": 1805,
-      "text": "Napoleonic Wars: Battle of Dürenstein: Eight thousand French troops attempt to slow the retreat of a vastly superior Russian and Austrian force.",
-      "title": "Napoleonic Wars",
-      "description": "1803–1815 series of wars led by Napoleon",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Napoleonic_Wars"
+      "year": 1977,
+      "text": "France conducts the Oreste nuclear test as 14th in the group of 29, 1975–78 French nuclear tests series.",
+      "title": "France",
+      "description": "Country primarily in Western Europe",
+      "sourceUrl": "https://en.wikipedia.org/wiki/France"
     }
   }
 }
