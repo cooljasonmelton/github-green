@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-11-12
+## Today — 2026-11-13
 
 ### Photo
-![Breil-Brigels. Lag da Breil. Reservoir with low water level.](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Breil-Brigels._%28actm%29_02.jpg/960px-Breil-Brigels._%28actm%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Cursorius coromandelicus (Indian courser) in Bhigwan, Maharashtra, India](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Indian_Courser_in_Bhigwan_August_2025_by_Tisha_Mukherjee_07.jpg/960px-Indian_Courser_in_Bhigwan_August_2025_by_Tisha_Mukherjee_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Breil-Brigels. Lag da Breil. Reservoir with low water level.* — Agnes Monkelbaan. [Source](https://commons.wikimedia.org/wiki/File:Breil-Brigels._(actm)_02.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Cursorius coromandelicus (Indian courser) in Bhigwan, Maharashtra, India* — Tisha Mukherjee. [Source](https://commons.wikimedia.org/wiki/File:Indian_Courser_in_Bhigwan_August_2025_by_Tisha_Mukherjee_07.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**lucid** — *adjective*
+**tenacious** — *adjective*
 
-Expressed clearly and easy to understand.
+Tending to keep a firm hold of something; persistent.
 
-Her lucid explanation made the new process less intimidating.
+The tenacious researcher checked each source twice.
 
 ### Quote
-> The unexamined life is not worth living.
+> To thine own self be true.
 
-— Socrates, *Plato, Apology*
+— William Shakespeare, *Hamlet, Act 1, Scene 3*
 
 ### On This Day
-An Armenian Mil Mi-24 attack helicopter is shot down by Azerbaijani forces, killing all three people on board.
+General Carlos Delgado Chalbaud, President of Venezuela, is assassinated in Caracas.
 
-[Source](https://en.wikipedia.org/wiki/Mil_Mi-24)
+[Source](https://en.wikipedia.org/wiki/Carlos_Delgado_Chalbaud)
 
 ### Born Today
-**John Walker (musician)** (1943) — American guitarist (1943–2011)
+**Leo Goodwin (swimmer)** (1883) — American Olympic swimmer, diver, and water polo player (1883–1957)
 
-[Source](https://en.wikipedia.org/wiki/John_Walker_(musician))
+[Source](https://en.wikipedia.org/wiki/Leo_Goodwin_(swimmer))
 
 ### Pop Culture
-France conducts the Oreste nuclear test as 14th in the group of 29, 1975–78 French nuclear tests series.
+Walt Disney's animated musical film Fantasia is first released at New York's Broadway Theatre, on the first night of a roadshow.
 
-[Source](https://en.wikipedia.org/wiki/France)
+[Source](https://en.wikipedia.org/wiki/Walt_Disney)
 
 ### Miscellaneous
-**space:** A day on Venus lasts longer than a Venusian year.
+**animals:** Octopuses have three hearts.
 
 <!-- DAILY_CONTENT_END -->
 

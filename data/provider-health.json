@@ -3,23 +3,23 @@
   "providers": {
     "history": {
       "consecutiveFailures": 0,
-      "lastCheckedDate": "2026-11-12",
+      "lastCheckedDate": "2026-11-13",
       "lastFailureDate": "2026-09-13",
       "lastOutcome": "success",
       "alerted": false
     },
     "birthday": {
       "consecutiveFailures": 0,
-      "lastCheckedDate": "2026-11-12",
+      "lastCheckedDate": "2026-11-13",
       "lastFailureDate": "2026-09-13",
       "lastOutcome": "success",
       "alerted": false
     },
     "photo": {
-      "consecutiveFailures": 1,
-      "lastCheckedDate": "2026-11-12",
+      "consecutiveFailures": 0,
+      "lastCheckedDate": "2026-11-13",
       "lastFailureDate": "2026-11-12",
-      "lastOutcome": "failure",
+      "lastOutcome": "success",
       "alerted": false
     }
   }

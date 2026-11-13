@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 2014,
-      "text": "An Armenian Mil Mi-24 attack helicopter is shot down by Azerbaijani forces, killing all three people on board.",
-      "title": "Mil Mi-24",
-      "description": "Family of assault and attack helicopters",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Mil_Mi-24"
+      "year": 1950,
+      "text": "General Carlos Delgado Chalbaud, President of Venezuela, is assassinated in Caracas.",
+      "title": "Carlos Delgado Chalbaud",
+      "description": "President of Venezuela from 1948 to 1950",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Carlos_Delgado_Chalbaud"
     },
     "birthday": {
       "status": "live",
-      "name": "John Walker (musician)",
-      "birthYear": 1943,
-      "knownFor": "American guitarist (1943–2011)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/John_Walker_(musician)"
+      "name": "Leo Goodwin (swimmer)",
+      "birthYear": 1883,
+      "knownFor": "American Olympic swimmer, diver, and water polo player (1883–1957)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Leo_Goodwin_(swimmer)"
     },
     "photo": {
       "status": "live",
-      "title": "File:Kościelec view 2.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Ko%C5%9Bcielec_view_2.jpg/960px-Ko%C5%9Bcielec_view_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "Panoramic view towards Świnica from Kościelec, Tatra National Park, Zakopane. Today is Poland's National Independence Day.",
-      "creator": "kallerna",
+      "title": "File:Indian Courser in Bhigwan August 2025 by Tisha Mukherjee 07.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Indian_Courser_in_Bhigwan_August_2025_by_Tisha_Mukherjee_07.jpg/960px-Indian_Courser_in_Bhigwan_August_2025_by_Tisha_Mukherjee_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Cursorius coromandelicus (Indian courser) in Bhigwan, Maharashtra, India",
+      "creator": "Tisha Mukherjee",
       "credit": "Own work",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ko%C5%9Bcielec_view_2.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Indian_Courser_in_Bhigwan_August_2025_by_Tisha_Mukherjee_07.jpg"
     },
     "culture": {
       "status": "live",
-      "year": 1977,
-      "text": "France conducts the Oreste nuclear test as 14th in the group of 29, 1975–78 French nuclear tests series.",
-      "title": "France",
-      "description": "Country primarily in Western Europe",
-      "sourceUrl": "https://en.wikipedia.org/wiki/France"
+      "year": 1940,
+      "text": "Walt Disney's animated musical film Fantasia is first released at New York's Broadway Theatre, on the first night of a roadshow.",
+      "title": "Walt Disney",
+      "description": "American animator, producer and entrepreneur (1901–1966)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Walt_Disney"
     }
   }
 }
