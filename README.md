@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-11-13
+## Today — 2026-11-14
 
 ### Photo
-![Cursorius coromandelicus (Indian courser) in Bhigwan, Maharashtra, India](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Indian_Courser_in_Bhigwan_August_2025_by_Tisha_Mukherjee_07.jpg/960px-Indian_Courser_in_Bhigwan_August_2025_by_Tisha_Mukherjee_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Eastern quoll (Dasyurus viverrinus) fawn morph, Esk Valley, Tasmania, Australia.](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Eastern_quoll_%28Dasyurus_viverrinus%29_fawn_morph_Esk_Valley.jpg/960px-Eastern_quoll_%28Dasyurus_viverrinus%29_fawn_morph_Esk_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Cursorius coromandelicus (Indian courser) in Bhigwan, Maharashtra, India* — Tisha Mukherjee. [Source](https://commons.wikimedia.org/wiki/File:Indian_Courser_in_Bhigwan_August_2025_by_Tisha_Mukherjee_07.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Eastern quoll (Dasyurus viverrinus) fawn morph, Esk Valley, Tasmania, Australia.* — Charles J. Sharp. [Source](https://commons.wikimedia.org/wiki/File:Eastern_quoll_(Dasyurus_viverrinus)_fawn_morph_Esk_Valley.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**tenacious** — *adjective*
+**pragmatic** — *adjective*
 
-Tending to keep a firm hold of something; persistent.
+Dealing with problems in a practical way.
 
-The tenacious researcher checked each source twice.
+A pragmatic plan focused on the smallest useful next step.
 
 ### Quote
-> To thine own self be true.
+> I have measured out my life with coffee spoons.
 
-— William Shakespeare, *Hamlet, Act 1, Scene 3*
+— T. S. Eliot, *The Love Song of J. Alfred Prufrock*
 
 ### On This Day
-General Carlos Delgado Chalbaud, President of Venezuela, is assassinated in Caracas.
+In the United Kingdom, Princess Anne marries Captain Mark Phillips, in Westminster Abbey.
 
-[Source](https://en.wikipedia.org/wiki/Carlos_Delgado_Chalbaud)
+[Source](https://en.wikipedia.org/wiki/Anne%2C_Princess_Royal)
 
 ### Born Today
-**Leo Goodwin (swimmer)** (1883) — American Olympic swimmer, diver, and water polo player (1883–1957)
+**John Henry Barbee** (1905) — American blues singer and guitarist (1905–1964)
 
-[Source](https://en.wikipedia.org/wiki/Leo_Goodwin_(swimmer))
+[Source](https://en.wikipedia.org/wiki/John_Henry_Barbee)
 
 ### Pop Culture
-Walt Disney's animated musical film Fantasia is first released at New York's Broadway Theatre, on the first night of a roadshow.
+The New Musical Express publishes the first regular UK Singles Chart.
 
-[Source](https://en.wikipedia.org/wiki/Walt_Disney)
+[Source](https://en.wikipedia.org/wiki/NME)
 
 ### Miscellaneous
-**animals:** Octopuses have three hearts.
+**science:** Light from the Sun reaches Earth in about eight minutes and twenty seconds.
 
 <!-- DAILY_CONTENT_END -->
 
