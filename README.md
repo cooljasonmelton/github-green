@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-11-14
+## Today — 2026-11-15
 
 ### Photo
-![Eastern quoll (Dasyurus viverrinus) fawn morph, Esk Valley, Tasmania, Australia.](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Eastern_quoll_%28Dasyurus_viverrinus%29_fawn_morph_Esk_Valley.jpg/960px-Eastern_quoll_%28Dasyurus_viverrinus%29_fawn_morph_Esk_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Véu da Noiva Waterfall, Seixal, Madeira, Portugal](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Mirador_del_Velo_de_Novia%2C_Seixal%2C_Madeira%2C_Portugal%2C_2019-05-30%2C_DD_67.jpg/960px-Mirador_del_Velo_de_Novia%2C_Seixal%2C_Madeira%2C_Portugal%2C_2019-05-30%2C_DD_67.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Eastern quoll (Dasyurus viverrinus) fawn morph, Esk Valley, Tasmania, Australia.* — Charles J. Sharp. [Source](https://commons.wikimedia.org/wiki/File:Eastern_quoll_(Dasyurus_viverrinus)_fawn_morph_Esk_Valley.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Véu da Noiva Waterfall, Seixal, Madeira, Portugal* — Diego Delso. [Source](https://commons.wikimedia.org/wiki/File:Mirador_del_Velo_de_Novia,_Seixal,_Madeira,_Portugal,_2019-05-30,_DD_67.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**pragmatic** — *adjective*
+**serendipity** — *noun*
 
-Dealing with problems in a practical way.
+The occurrence of a fortunate discovery by chance.
 
-A pragmatic plan focused on the smallest useful next step.
+Finding the note in the old book was pure serendipity.
 
 ### Quote
-> I have measured out my life with coffee spoons.
+> Hope is the thing with feathers.
 
-— T. S. Eliot, *The Love Song of J. Alfred Prufrock*
+— Emily Dickinson, *"Hope" is the thing with feathers*
 
 ### On This Day
-In the United Kingdom, Princess Anne marries Captain Mark Phillips, in Westminster Abbey.
+A flood a few miles outside of Athens results in the death of 25 people.
 
-[Source](https://en.wikipedia.org/wiki/Anne%2C_Princess_Royal)
+[Source](https://en.wikipedia.org/wiki/2017_West_Attica_floods)
 
 ### Born Today
-**John Henry Barbee** (1905) — American blues singer and guitarist (1905–1964)
+**W. Averell Harriman** (1891) — American businessman, politician and diplomat (1891–1986)
 
-[Source](https://en.wikipedia.org/wiki/John_Henry_Barbee)
+[Source](https://en.wikipedia.org/wiki/W._Averell_Harriman)
 
 ### Pop Culture
-The New Musical Express publishes the first regular UK Singles Chart.
+Microsoft launches the Xbox game console in North America.
 
-[Source](https://en.wikipedia.org/wiki/NME)
+[Source](https://en.wikipedia.org/wiki/Microsoft)
 
 ### Miscellaneous
-**science:** Light from the Sun reaches Earth in about eight minutes and twenty seconds.
+**geography:** Africa is the only continent that extends into all four hemispheres.
 
 <!-- DAILY_CONTENT_END -->
 
