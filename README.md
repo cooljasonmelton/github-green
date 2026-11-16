@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-11-15
+## Today — 2026-11-16
 
 ### Photo
-![Véu da Noiva Waterfall, Seixal, Madeira, Portugal](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Mirador_del_Velo_de_Novia%2C_Seixal%2C_Madeira%2C_Portugal%2C_2019-05-30%2C_DD_67.jpg/960px-Mirador_del_Velo_de_Novia%2C_Seixal%2C_Madeira%2C_Portugal%2C_2019-05-30%2C_DD_67.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![International Air Balloon Festival in Leon,  Guanajuato, Mexico, 2012](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/International_hot_air_balloon_festival_in_leon_guanajuato_mexico_2012.jpg/960px-International_hot_air_balloon_festival_in_leon_guanajuato_mexico_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Véu da Noiva Waterfall, Seixal, Madeira, Portugal* — Diego Delso. [Source](https://commons.wikimedia.org/wiki/File:Mirador_del_Velo_de_Novia,_Seixal,_Madeira,_Portugal,_2019-05-30,_DD_67.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*International Air Balloon Festival in Leon,  Guanajuato, Mexico, 2012* — Tomascastelazo. [Source](https://commons.wikimedia.org/wiki/File:International_hot_air_balloon_festival_in_leon_guanajuato_mexico_2012.jpg) · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
 
 ### Word
-**serendipity** — *noun*
+**meticulous** — *adjective*
 
-The occurrence of a fortunate discovery by chance.
+Showing great attention to detail.
 
-Finding the note in the old book was pure serendipity.
+The meticulous inventory made the handoff straightforward.
 
 ### Quote
-> Hope is the thing with feathers.
+> Not all those who wander are lost.
 
-— Emily Dickinson, *"Hope" is the thing with feathers*
+— J. R. R. Tolkien, *The Fellowship of the Ring*
 
 ### On This Day
-A flood a few miles outside of Athens results in the death of 25 people.
+Emperor Li Jing sends a Southern Tang expeditionary force of 10,000 men under Bian Hao to conquer Chu. Li Jing removes the ruling family to his own capital in Nanjing, ending the Chu Kingdom.
 
-[Source](https://en.wikipedia.org/wiki/2017_West_Attica_floods)
+[Source](https://en.wikipedia.org/wiki/Li_Jing_(Southern_Tang))
 
 ### Born Today
-**W. Averell Harriman** (1891) — American businessman, politician and diplomat (1891–1986)
+**Angelo Gilardino** (1941) — Italian composer, guitarist, and musicologist (1941–2022)
 
-[Source](https://en.wikipedia.org/wiki/W._Averell_Harriman)
+[Source](https://en.wikipedia.org/wiki/Angelo_Gilardino)
 
 ### Pop Culture
-Microsoft launches the Xbox game console in North America.
+Pop group Milli Vanilli are stripped of their Grammy Award because the duo did not sing at all on the Girl You Know It's True album. Session musicians had provided all the vocals.
 
-[Source](https://en.wikipedia.org/wiki/Microsoft)
+[Source](https://en.wikipedia.org/wiki/Pop_music)
 
 ### Miscellaneous
-**geography:** Africa is the only continent that extends into all four hemispheres.
+**technology:** The first computer bug was a moth found in a relay of the Harvard Mark II.
 
 <!-- DAILY_CONTENT_END -->
 
