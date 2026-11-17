@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-11-16
+## Today — 2026-11-17
 
 ### Photo
-![International Air Balloon Festival in Leon,  Guanajuato, Mexico, 2012](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/International_hot_air_balloon_festival_in_leon_guanajuato_mexico_2012.jpg/960px-International_hot_air_balloon_festival_in_leon_guanajuato_mexico_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Photographic art “Witches’ Dance Trilogy” (based on a view of the buoys at the buoy yard in Norderney, Lower Saxony, Germany)](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Trilogie_%22Hexentanz%22_--_2025.jpg/960px-Trilogie_%22Hexentanz%22_--_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*International Air Balloon Festival in Leon,  Guanajuato, Mexico, 2012* — Tomascastelazo. [Source](https://commons.wikimedia.org/wiki/File:International_hot_air_balloon_festival_in_leon_guanajuato_mexico_2012.jpg) · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
+*Photographic art “Witches’ Dance Trilogy” (based on a view of the buoys at the buoy yard in Norderney, Lower Saxony, Germany)* — Dietmar Rabich. [Source](https://commons.wikimedia.org/wiki/File:Trilogie_%22Hexentanz%22_--_2025.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**meticulous** — *adjective*
+**resilient** — *adjective*
 
-Showing great attention to detail.
+Able to recover quickly from difficulty or change.
 
-The meticulous inventory made the handoff straightforward.
+The resilient process continued after one input failed.
 
 ### Quote
-> Not all those who wander are lost.
+> There is no charm equal to tenderness of heart.
 
-— J. R. R. Tolkien, *The Fellowship of the Ring*
+— Jane Austen, *Emma*
 
 ### On This Day
-Emperor Li Jing sends a Southern Tang expeditionary force of 10,000 men under Bian Hao to conquer Chu. Li Jing removes the ruling family to his own capital in Nanjing, ending the Chu Kingdom.
+Genpei War: The Battle of Mizushima takes place off the Japanese coast, where Minamoto no Yoshinaka's invasion force is intercepted and defeated by the Taira clan.
 
-[Source](https://en.wikipedia.org/wiki/Li_Jing_(Southern_Tang))
+[Source](https://en.wikipedia.org/wiki/Battle_of_Mizushima)
 
 ### Born Today
-**Angelo Gilardino** (1941) — Italian composer, guitarist, and musicologist (1941–2022)
+**Mark "Chopper" Read** (1954) — Australian criminal (1954–2013)
 
-[Source](https://en.wikipedia.org/wiki/Angelo_Gilardino)
+[Source](https://en.wikipedia.org/wiki/Mark_%22Chopper%22_Read)
 
 ### Pop Culture
-Pop group Milli Vanilli are stripped of their Grammy Award because the duo did not sing at all on the Girl You Know It's True album. Session musicians had provided all the vocals.
+Luna programme: The Soviet Union lands Lunokhod 1 on Mare Imbrium (Sea of Rains) on the Moon. This is the first roving remote-controlled robot to land on another world and is released by the orbiting Luna 17 spacecraft.
 
-[Source](https://en.wikipedia.org/wiki/Pop_music)
+[Source](https://en.wikipedia.org/wiki/Luna_programme)
 
 ### Miscellaneous
-**technology:** The first computer bug was a moth found in a relay of the Harvard Mark II.
+**art:** The Louvre began as a medieval fortress before becoming a museum.
 
 <!-- DAILY_CONTENT_END -->
 

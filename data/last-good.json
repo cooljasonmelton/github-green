@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 951,
-      "text": "Emperor Li Jing sends a Southern Tang expeditionary force of 10,000 men under Bian Hao to conquer Chu. Li Jing removes the ruling family to his own capital in Nanjing, ending the Chu Kingdom.",
-      "title": "Li Jing (Southern Tang)",
-      "description": "Emperor of Southern Tang from 943 to 961",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Li_Jing_(Southern_Tang)"
+      "year": 1183,
+      "text": "Genpei War: The Battle of Mizushima takes place off the Japanese coast, where Minamoto no Yoshinaka's invasion force is intercepted and defeated by the Taira clan.",
+      "title": "Battle of Mizushima",
+      "description": "1183 naval battle of the Genpei War",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Battle_of_Mizushima"
     },
     "birthday": {
       "status": "live",
-      "name": "Angelo Gilardino",
-      "birthYear": 1941,
-      "knownFor": "Italian composer, guitarist, and musicologist (1941–2022)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Angelo_Gilardino"
+      "name": "Mark \"Chopper\" Read",
+      "birthYear": 1954,
+      "knownFor": "Australian criminal (1954–2013)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mark_%22Chopper%22_Read"
     },
     "photo": {
       "status": "live",
-      "title": "File:International hot air balloon festival in leon guanajuato mexico 2012.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/International_hot_air_balloon_festival_in_leon_guanajuato_mexico_2012.jpg/960px-International_hot_air_balloon_festival_in_leon_guanajuato_mexico_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "International Air Balloon Festival in Leon,  Guanajuato, Mexico, 2012",
-      "creator": "Tomascastelazo",
-      "credit": "Own work",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:International_hot_air_balloon_festival_in_leon_guanajuato_mexico_2012.jpg"
+      "title": "File:Trilogie \"Hexentanz\" -- 2025.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Trilogie_%22Hexentanz%22_--_2025.jpg/960px-Trilogie_%22Hexentanz%22_--_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Photographic art “Witches’ Dance Trilogy” (based on a view of the buoys at the buoy yard in Norderney, Lower Saxony, Germany)",
+      "creator": "Dietmar Rabich",
+      "credit": "Own workThis file was derived from: \n\n Norderney, Tonnenhof, Trilogie \"Hexentanz\" -- 2025 -- 9366.jpg\nNorderney, Tonnenhof, Trilogie \"Hexentanz\" -- 2025 -- 9359.jpg\nNorderney, Tonnenhof, Trilogie \"Hexentanz\" -- 2025 -- 9356.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trilogie_%22Hexentanz%22_--_2025.jpg"
     },
     "culture": {
       "status": "live",
-      "year": 1990,
-      "text": "Pop group Milli Vanilli are stripped of their Grammy Award because the duo did not sing at all on the Girl You Know It's True album. Session musicians had provided all the vocals.",
-      "title": "Pop music",
-      "description": "Genre of music",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Pop_music"
+      "year": 1970,
+      "text": "Luna programme: The Soviet Union lands Lunokhod 1 on Mare Imbrium (Sea of Rains) on the Moon. This is the first roving remote-controlled robot to land on another world and is released by the orbiting Luna 17 spacecraft.",
+      "title": "Luna programme",
+      "description": "Robotic spacecraft missions to the Moon by the Soviet Union (1958–1976)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Luna_programme"
     }
   }
 }
