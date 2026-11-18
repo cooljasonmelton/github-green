@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-11-17
+## Today — 2026-11-18
 
 ### Photo
-![Photographic art “Witches’ Dance Trilogy” (based on a view of the buoys at the buoy yard in Norderney, Lower Saxony, Germany)](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Trilogie_%22Hexentanz%22_--_2025.jpg/960px-Trilogie_%22Hexentanz%22_--_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Dusk at St. Peter's Basilica, Vittorio-Emmanuele II bridge, and Tiber river in Rome, Italy. The Catholic Church celebrates the Dedication of the Basilicas of Saints Peter and Paul today.](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Ponte_Vittorio_Emanuele_II_San_Pietro%2C_Rome%2C_Italy.jpg/960px-Ponte_Vittorio_Emanuele_II_San_Pietro%2C_Rome%2C_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Photographic art “Witches’ Dance Trilogy” (based on a view of the buoys at the buoy yard in Norderney, Lower Saxony, Germany)* — Dietmar Rabich. [Source](https://commons.wikimedia.org/wiki/File:Trilogie_%22Hexentanz%22_--_2025.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Dusk at St. Peter's Basilica, Vittorio-Emmanuele II bridge, and Tiber river in Rome, Italy. The Catholic Church celebrates the Dedication of the Basilicas of Saints Peter and Paul today.* — Jebulon. [Source](https://commons.wikimedia.org/wiki/File:Ponte_Vittorio_Emanuele_II_San_Pietro,_Rome,_Italy.jpg) · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
 
 ### Word
-**resilient** — *adjective*
+**curious** — *adjective*
 
-Able to recover quickly from difficulty or change.
+Eager to know or learn something.
 
-The resilient process continued after one input failed.
+A curious question often reveals the useful edge case.
 
 ### Quote
-> There is no charm equal to tenderness of heart.
+> All that we see or seem is but a dream within a dream.
 
-— Jane Austen, *Emma*
+— Edgar Allan Poe, *A Dream Within a Dream*
 
 ### On This Day
-Genpei War: The Battle of Mizushima takes place off the Japanese coast, where Minamoto no Yoshinaka's invasion force is intercepted and defeated by the Taira clan.
+In their campaign for women's voting rights, hundreds of suffragettes march to the British Parliament in London. Several are beaten by police, newspaper attention embarrasses the authorities, and the march is dubbed Black Friday.
 
-[Source](https://en.wikipedia.org/wiki/Battle_of_Mizushima)
+[Source](https://en.wikipedia.org/wiki/Suffragette)
 
 ### Born Today
-**Mark "Chopper" Read** (1954) — Australian criminal (1954–2013)
+**Matthew Rodwell** (1971) — Australian rugby league footballer
 
-[Source](https://en.wikipedia.org/wiki/Mark_%22Chopper%22_Read)
+[Source](https://en.wikipedia.org/wiki/Matthew_Rodwell)
 
 ### Pop Culture
-Luna programme: The Soviet Union lands Lunokhod 1 on Mare Imbrium (Sea of Rains) on the Moon. This is the first roving remote-controlled robot to land on another world and is released by the orbiting Luna 17 spacecraft.
+Release of the animated short Steamboat Willie, the first fully synchronized sound cartoon.
 
-[Source](https://en.wikipedia.org/wiki/Luna_programme)
+[Source](https://en.wikipedia.org/wiki/Steamboat_Willie)
 
 ### Miscellaneous
-**art:** The Louvre began as a medieval fortress before becoming a museum.
+**literature:** The Gutenberg Bible was printed in Mainz around 1455.
 
 <!-- DAILY_CONTENT_END -->
 
