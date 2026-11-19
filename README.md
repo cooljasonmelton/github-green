@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-11-18
+## Today — 2026-11-19
 
 ### Photo
-![Dusk at St. Peter's Basilica, Vittorio-Emmanuele II bridge, and Tiber river in Rome, Italy. The Catholic Church celebrates the Dedication of the Basilicas of Saints Peter and Paul today.](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Ponte_Vittorio_Emanuele_II_San_Pietro%2C_Rome%2C_Italy.jpg/960px-Ponte_Vittorio_Emanuele_II_San_Pietro%2C_Rome%2C_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Eurasian hoopoe (Upupa epops) eating in Keoladeo National Park, India](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/008_Eurasian_hoopoe_eating_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg/960px-008_Eurasian_hoopoe_eating_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Dusk at St. Peter's Basilica, Vittorio-Emmanuele II bridge, and Tiber river in Rome, Italy. The Catholic Church celebrates the Dedication of the Basilicas of Saints Peter and Paul today.* — Jebulon. [Source](https://commons.wikimedia.org/wiki/File:Ponte_Vittorio_Emanuele_II_San_Pietro,_Rome,_Italy.jpg) · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
+*Eurasian hoopoe (Upupa epops) eating in Keoladeo National Park, India* — Giles Laurent. [Source](https://commons.wikimedia.org/wiki/File:008_Eurasian_hoopoe_eating_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**curious** — *adjective*
+**lucid** — *adjective*
 
-Eager to know or learn something.
+Expressed clearly and easy to understand.
 
-A curious question often reveals the useful edge case.
+Her lucid explanation made the new process less intimidating.
 
 ### Quote
-> All that we see or seem is but a dream within a dream.
+> The unexamined life is not worth living.
 
-— Edgar Allan Poe, *A Dream Within a Dream*
+— Socrates, *Plato, Apology*
 
 ### On This Day
-In their campaign for women's voting rights, hundreds of suffragettes march to the British Parliament in London. Several are beaten by police, newspaper attention embarrasses the authorities, and the march is dubbed Black Friday.
+Rohingya genocide: The International Court of Justice delivers a 9-6 ruling finding Myanmar committed a genocide against the Rohingya people.
 
-[Source](https://en.wikipedia.org/wiki/Suffragette)
+[Source](https://en.wikipedia.org/wiki/Rohingya_genocide)
 
 ### Born Today
-**Matthew Rodwell** (1971) — Australian rugby league footballer
+**Miss Elizabeth** (1960) — American professional wrestling manager (1960–2003)
 
-[Source](https://en.wikipedia.org/wiki/Matthew_Rodwell)
+[Source](https://en.wikipedia.org/wiki/Miss_Elizabeth)
 
 ### Pop Culture
-Release of the animated short Steamboat Willie, the first fully synchronized sound cartoon.
+John Carpenter becomes the first person to win the top prize in the TV game show Who Wants to Be a Millionaire?
 
-[Source](https://en.wikipedia.org/wiki/Steamboat_Willie)
+[Source](https://en.wikipedia.org/wiki/John_Carpenter_(game_show_contestant))
 
 ### Miscellaneous
-**literature:** The Gutenberg Bible was printed in Mainz around 1455.
+**space:** A day on Venus lasts longer than a Venusian year.
 
 <!-- DAILY_CONTENT_END -->
 
