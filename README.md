@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-11-19
+## Today — 2026-11-20
 
 ### Photo
-![Eurasian hoopoe (Upupa epops) eating in Keoladeo National Park, India](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/008_Eurasian_hoopoe_eating_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg/960px-008_Eurasian_hoopoe_eating_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Trail from Andiast to Breil-Brigels. Bad weather in the Breil-Brigels region, but it has now dried up.](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Andiast-Breil-Brigels._24-09-2025._%28d.j.b.%29_08.jpg/960px-Andiast-Breil-Brigels._24-09-2025._%28d.j.b.%29_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Eurasian hoopoe (Upupa epops) eating in Keoladeo National Park, India* — Giles Laurent. [Source](https://commons.wikimedia.org/wiki/File:008_Eurasian_hoopoe_eating_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Trail from Andiast to Breil-Brigels. Bad weather in the Breil-Brigels region, but it has now dried up.* — Dominicus Johannes Bergsma.. [Source](https://commons.wikimedia.org/wiki/File:Andiast-Breil-Brigels._24-09-2025._(d.j.b.)_08.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**lucid** — *adjective*
+**tenacious** — *adjective*
 
-Expressed clearly and easy to understand.
+Tending to keep a firm hold of something; persistent.
 
-Her lucid explanation made the new process less intimidating.
+The tenacious researcher checked each source twice.
 
 ### Quote
-> The unexamined life is not worth living.
+> To thine own self be true.
 
-— Socrates, *Plato, Apology*
+— William Shakespeare, *Hamlet, Act 1, Scene 3*
 
 ### On This Day
-Rohingya genocide: The International Court of Justice delivers a 9-6 ruling finding Myanmar committed a genocide against the Rohingya people.
+Nuremberg trials: Trials against 24 Nazi war criminals start at the Palace of Justice at Nuremberg.
 
-[Source](https://en.wikipedia.org/wiki/Rohingya_genocide)
+[Source](https://en.wikipedia.org/wiki/Nuremberg_trials)
 
 ### Born Today
-**Miss Elizabeth** (1960) — American professional wrestling manager (1960–2003)
+**Helma Sanders-Brahms** (1940) — German film director, screenwriter, producer and actress (1940–2014)
 
-[Source](https://en.wikipedia.org/wiki/Miss_Elizabeth)
+[Source](https://en.wikipedia.org/wiki/Helma_Sanders-Brahms)
 
 ### Pop Culture
-John Carpenter becomes the first person to win the top prize in the TV game show Who Wants to Be a Millionaire?
+An 80-ton sperm whale attacks and sinks the Essex (a whaling ship from Nantucket, Massachusetts) 3,200 kilometres (2,000 mi) from the western coast of South America. (Herman Melville's 1851 novel Moby-Dick was in part inspired by this incident.)
 
-[Source](https://en.wikipedia.org/wiki/John_Carpenter_(game_show_contestant))
+[Source](https://en.wikipedia.org/wiki/Sperm_whale)
 
 ### Miscellaneous
-**space:** A day on Venus lasts longer than a Venusian year.
+**animals:** Octopuses have three hearts.
 
 <!-- DAILY_CONTENT_END -->
 
