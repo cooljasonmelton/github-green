@@ -2,18 +2,18 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1945,
-      "text": "Nuremberg trials: Trials against 24 Nazi war criminals start at the Palace of Justice at Nuremberg.",
-      "title": "Nuremberg trials",
-      "description": "Trials of Nazi German leaders",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Nuremberg_trials"
+      "year": 1944,
+      "text": "World War II: American submarine USS Sealion sinks the Japanese battleship Kongō and Japanese destroyer Urakaze in the Formosa Strait.",
+      "title": "World War II",
+      "description": "Global conflict from 1939 to 1945",
+      "sourceUrl": "https://en.wikipedia.org/wiki/World_War_II"
     },
     "birthday": {
       "status": "live",
-      "name": "Helma Sanders-Brahms",
-      "birthYear": 1940,
-      "knownFor": "German film director, screenwriter, producer and actress (1940–2014)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Helma_Sanders-Brahms"
+      "name": "Lewis H. Morgan",
+      "birthYear": 1818,
+      "knownFor": "American anthropologist (1818–1881)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lewis_H._Morgan"
     },
     "photo": {
       "status": "live",
@@ -28,11 +28,11 @@
     },
     "culture": {
       "status": "live",
-      "year": 1820,
-      "text": "An 80-ton sperm whale attacks and sinks the Essex (a whaling ship from Nantucket, Massachusetts) 3,200 kilometres (2,000 mi) from the western coast of South America. (Herman Melville's 1851 novel Moby-Dick was in part inspired by this incident.)",
-      "title": "Sperm whale",
-      "description": "Largest species of toothed whale",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Sperm_whale"
+      "year": 1959,
+      "text": "American disc jockey Alan Freed, who had popularized the term \"rock and roll\" and music of that style, is fired from WABC radio over allegations he had participated in the payola scandal.",
+      "title": "Alan Freed",
+      "description": "American disc jockey and rock-and-roll figure (1921–1965)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Alan_Freed"
     }
   }
 }

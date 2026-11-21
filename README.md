@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-11-20
+## Today — 2026-11-21
 
 ### Photo
-![Trail from Andiast to Breil-Brigels. Bad weather in the Breil-Brigels region, but it has now dried up.](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Andiast-Breil-Brigels._24-09-2025._%28d.j.b.%29_08.jpg/960px-Andiast-Breil-Brigels._24-09-2025._%28d.j.b.%29_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Breil-Brigels. Lag da Breil. Reservoir with low water level.](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Breil-Brigels._%28actm%29_02.jpg/960px-Breil-Brigels._%28actm%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Trail from Andiast to Breil-Brigels. Bad weather in the Breil-Brigels region, but it has now dried up.* — Dominicus Johannes Bergsma.. [Source](https://commons.wikimedia.org/wiki/File:Andiast-Breil-Brigels._24-09-2025._(d.j.b.)_08.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Breil-Brigels. Lag da Breil. Reservoir with low water level.* — Agnes Monkelbaan. [Source](https://commons.wikimedia.org/wiki/File:Breil-Brigels._(actm)_02.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**tenacious** — *adjective*
+**pragmatic** — *adjective*
 
-Tending to keep a firm hold of something; persistent.
+Dealing with problems in a practical way.
 
-The tenacious researcher checked each source twice.
+A pragmatic plan focused on the smallest useful next step.
 
 ### Quote
-> To thine own self be true.
+> I have measured out my life with coffee spoons.
 
-— William Shakespeare, *Hamlet, Act 1, Scene 3*
+— T. S. Eliot, *The Love Song of J. Alfred Prufrock*
 
 ### On This Day
-Nuremberg trials: Trials against 24 Nazi war criminals start at the Palace of Justice at Nuremberg.
+World War II: American submarine USS Sealion sinks the Japanese battleship Kongō and Japanese destroyer Urakaze in the Formosa Strait.
 
-[Source](https://en.wikipedia.org/wiki/Nuremberg_trials)
+[Source](https://en.wikipedia.org/wiki/World_War_II)
 
 ### Born Today
-**Helma Sanders-Brahms** (1940) — German film director, screenwriter, producer and actress (1940–2014)
+**Lewis H. Morgan** (1818) — American anthropologist (1818–1881)
 
-[Source](https://en.wikipedia.org/wiki/Helma_Sanders-Brahms)
+[Source](https://en.wikipedia.org/wiki/Lewis_H._Morgan)
 
 ### Pop Culture
-An 80-ton sperm whale attacks and sinks the Essex (a whaling ship from Nantucket, Massachusetts) 3,200 kilometres (2,000 mi) from the western coast of South America. (Herman Melville's 1851 novel Moby-Dick was in part inspired by this incident.)
+American disc jockey Alan Freed, who had popularized the term "rock and roll" and music of that style, is fired from WABC radio over allegations he had participated in the payola scandal.
 
-[Source](https://en.wikipedia.org/wiki/Sperm_whale)
+[Source](https://en.wikipedia.org/wiki/Alan_Freed)
 
 ### Miscellaneous
-**animals:** Octopuses have three hearts.
+**science:** Light from the Sun reaches Earth in about eight minutes and twenty seconds.
 
 <!-- DAILY_CONTENT_END -->
 
