@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1944,
-      "text": "World War II: American submarine USS Sealion sinks the Japanese battleship Kongō and Japanese destroyer Urakaze in the Formosa Strait.",
-      "title": "World War II",
-      "description": "Global conflict from 1939 to 1945",
-      "sourceUrl": "https://en.wikipedia.org/wiki/World_War_II"
+      "year": 1837,
+      "text": "Canadian journalist and politician William Lyon Mackenzie calls for a rebellion against the United Kingdom in his essay \"To the People of Upper Canada\", published in his newspaper The Constitution.",
+      "title": "William Lyon Mackenzie",
+      "description": "Canadian-American journalist and politician (1795–1861)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/William_Lyon_Mackenzie"
     },
     "birthday": {
       "status": "live",
-      "name": "Lewis H. Morgan",
-      "birthYear": 1818,
-      "knownFor": "American anthropologist (1818–1881)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Lewis_H._Morgan"
+      "name": "Leos Carax",
+      "birthYear": 1960,
+      "knownFor": "French director and writer (born 1960)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Leos_Carax"
     },
     "photo": {
       "status": "live",
-      "title": "File:Andiast-Breil-Brigels. 24-09-2025. (d.j.b.) 08.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Andiast-Breil-Brigels._24-09-2025._%28d.j.b.%29_08.jpg/960px-Andiast-Breil-Brigels._24-09-2025._%28d.j.b.%29_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "Trail from Andiast to Breil-Brigels. Bad weather in the Breil-Brigels region, but it has now dried up.",
-      "creator": "Dominicus Johannes Bergsma.",
+      "title": "File:Red Avadavat in Baruipur September 2025 by Tisha Mukherjee 06.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Red_Avadavat_in_Baruipur_September_2025_by_Tisha_Mukherjee_06.jpg/960px-Red_Avadavat_in_Baruipur_September_2025_by_Tisha_Mukherjee_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Amandava amandava (Red Avadavat) in Baruipur, West Bengal, India",
+      "creator": "Tisha Mukherjee",
       "credit": "Own work",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Andiast-Breil-Brigels._24-09-2025._(d.j.b.)_08.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_Avadavat_in_Baruipur_September_2025_by_Tisha_Mukherjee_06.jpg"
     },
     "culture": {
       "status": "live",
-      "year": 1959,
-      "text": "American disc jockey Alan Freed, who had popularized the term \"rock and roll\" and music of that style, is fired from WABC radio over allegations he had participated in the payola scandal.",
-      "title": "Alan Freed",
-      "description": "American disc jockey and rock-and-roll figure (1921–1965)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Alan_Freed"
+      "year": 1987,
+      "text": "The Max Headroom signal hijacking incident takes place, in which a pirate broadcast interrupts television broadcasts in Chicago.",
+      "title": "Max Headroom signal hijackings",
+      "description": "1987 Chicago television hijacking incident",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Max_Headroom_signal_hijackings"
     }
   }
 }

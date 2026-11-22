@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-11-21
+## Today — 2026-11-22
 
 ### Photo
-![Breil-Brigels. Lag da Breil. Reservoir with low water level.](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Breil-Brigels._%28actm%29_02.jpg/960px-Breil-Brigels._%28actm%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Amandava amandava (Red Avadavat) in Baruipur, West Bengal, India](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Red_Avadavat_in_Baruipur_September_2025_by_Tisha_Mukherjee_06.jpg/960px-Red_Avadavat_in_Baruipur_September_2025_by_Tisha_Mukherjee_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Breil-Brigels. Lag da Breil. Reservoir with low water level.* — Agnes Monkelbaan. [Source](https://commons.wikimedia.org/wiki/File:Breil-Brigels._(actm)_02.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Amandava amandava (Red Avadavat) in Baruipur, West Bengal, India* — Tisha Mukherjee. [Source](https://commons.wikimedia.org/wiki/File:Red_Avadavat_in_Baruipur_September_2025_by_Tisha_Mukherjee_06.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**pragmatic** — *adjective*
+**serendipity** — *noun*
 
-Dealing with problems in a practical way.
+The occurrence of a fortunate discovery by chance.
 
-A pragmatic plan focused on the smallest useful next step.
+Finding the note in the old book was pure serendipity.
 
 ### Quote
-> I have measured out my life with coffee spoons.
+> Hope is the thing with feathers.
 
-— T. S. Eliot, *The Love Song of J. Alfred Prufrock*
+— Emily Dickinson, *"Hope" is the thing with feathers*
 
 ### On This Day
-World War II: American submarine USS Sealion sinks the Japanese battleship Kongō and Japanese destroyer Urakaze in the Formosa Strait.
+Canadian journalist and politician William Lyon Mackenzie calls for a rebellion against the United Kingdom in his essay "To the People of Upper Canada", published in his newspaper The Constitution.
 
-[Source](https://en.wikipedia.org/wiki/World_War_II)
+[Source](https://en.wikipedia.org/wiki/William_Lyon_Mackenzie)
 
 ### Born Today
-**Lewis H. Morgan** (1818) — American anthropologist (1818–1881)
+**Leos Carax** (1960) — French director and writer (born 1960)
 
-[Source](https://en.wikipedia.org/wiki/Lewis_H._Morgan)
+[Source](https://en.wikipedia.org/wiki/Leos_Carax)
 
 ### Pop Culture
-American disc jockey Alan Freed, who had popularized the term "rock and roll" and music of that style, is fired from WABC radio over allegations he had participated in the payola scandal.
+The Max Headroom signal hijacking incident takes place, in which a pirate broadcast interrupts television broadcasts in Chicago.
 
-[Source](https://en.wikipedia.org/wiki/Alan_Freed)
+[Source](https://en.wikipedia.org/wiki/Max_Headroom_signal_hijackings)
 
 ### Miscellaneous
-**science:** Light from the Sun reaches Earth in about eight minutes and twenty seconds.
+**geography:** Africa is the only continent that extends into all four hemispheres.
 
 <!-- DAILY_CONTENT_END -->
 
