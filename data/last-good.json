@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1837,
-      "text": "Canadian journalist and politician William Lyon Mackenzie calls for a rebellion against the United Kingdom in his essay \"To the People of Upper Canada\", published in his newspaper The Constitution.",
-      "title": "William Lyon Mackenzie",
-      "description": "Canadian-American journalist and politician (1795–1861)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/William_Lyon_Mackenzie"
+      "year": 2010,
+      "text": "Bombardment of Yeonpyeong: North Korean artillery attack kills two civilians and two marines on Yeonpyeong Island, South Korea.",
+      "title": "2010 Yeonpyeongdo bombardment",
+      "description": "North–South Korea artillery engagement",
+      "sourceUrl": "https://en.wikipedia.org/wiki/2010_Yeonpyeongdo_bombardment"
     },
     "birthday": {
       "status": "live",
-      "name": "Leos Carax",
-      "birthYear": 1960,
-      "knownFor": "French director and writer (born 1960)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Leos_Carax"
+      "name": "John Coleman (Australian footballer)",
+      "birthYear": 1928,
+      "knownFor": "Australian rules footballer (1928–1973)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/John_Coleman_(Australian_footballer)"
     },
     "photo": {
       "status": "live",
-      "title": "File:Red Avadavat in Baruipur September 2025 by Tisha Mukherjee 06.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Red_Avadavat_in_Baruipur_September_2025_by_Tisha_Mukherjee_06.jpg/960px-Red_Avadavat_in_Baruipur_September_2025_by_Tisha_Mukherjee_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "Amandava amandava (Red Avadavat) in Baruipur, West Bengal, India",
-      "creator": "Tisha Mukherjee",
+      "title": "File:Pointe Saint Mathieu - Phare.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Pointe_Saint_Mathieu_-_Phare.jpg/960px-Pointe_Saint_Mathieu_-_Phare.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "View of Pointe Saint-Mathieu with the lighthouse (center), semaphore building (left), Chapel of Saint-Jean de Plougonvelin (right), and the ruins of the Abbey of Saint-Mathieu de Fine-Terre. Plougonvelin, Finistère, France",
+      "creator": "JackyM59",
       "credit": "Own work",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_Avadavat_in_Baruipur_September_2025_by_Tisha_Mukherjee_06.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pointe_Saint_Mathieu_-_Phare.jpg"
     },
     "culture": {
       "status": "live",
-      "year": 1987,
-      "text": "The Max Headroom signal hijacking incident takes place, in which a pirate broadcast interrupts television broadcasts in Chicago.",
-      "title": "Max Headroom signal hijackings",
-      "description": "1987 Chicago television hijacking incident",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Max_Headroom_signal_hijackings"
+      "year": 1963,
+      "text": "The first episode of Doctor Who (\"An Unearthly Child\") is broadcast by the BBC, which is now the world's longest running science fiction drama.",
+      "title": "Doctor Who",
+      "description": "British science fiction TV series (1963–2025)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Doctor_Who"
     }
   }
 }

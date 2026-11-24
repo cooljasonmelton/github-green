@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-11-22
+## Today — 2026-11-23
 
 ### Photo
-![Amandava amandava (Red Avadavat) in Baruipur, West Bengal, India](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Red_Avadavat_in_Baruipur_September_2025_by_Tisha_Mukherjee_06.jpg/960px-Red_Avadavat_in_Baruipur_September_2025_by_Tisha_Mukherjee_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![View of Pointe Saint-Mathieu with the lighthouse (center), semaphore building (left), Chapel of Saint-Jean de Plougonvelin (right), and the ruins of the Abbey of Saint-Mathieu de Fine-Terre. Plougonvelin, Finistère, France](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Pointe_Saint_Mathieu_-_Phare.jpg/960px-Pointe_Saint_Mathieu_-_Phare.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Amandava amandava (Red Avadavat) in Baruipur, West Bengal, India* — Tisha Mukherjee. [Source](https://commons.wikimedia.org/wiki/File:Red_Avadavat_in_Baruipur_September_2025_by_Tisha_Mukherjee_06.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*View of Pointe Saint-Mathieu with the lighthouse (center), semaphore building (left), Chapel of Saint-Jean de Plougonvelin (right), and the ruins of the Abbey of Saint-Mathieu de Fine-Terre. Plougonvelin, Finistère, France* — JackyM59. [Source](https://commons.wikimedia.org/wiki/File:Pointe_Saint_Mathieu_-_Phare.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**serendipity** — *noun*
+**meticulous** — *adjective*
 
-The occurrence of a fortunate discovery by chance.
+Showing great attention to detail.
 
-Finding the note in the old book was pure serendipity.
+The meticulous inventory made the handoff straightforward.
 
 ### Quote
-> Hope is the thing with feathers.
+> Not all those who wander are lost.
 
-— Emily Dickinson, *"Hope" is the thing with feathers*
+— J. R. R. Tolkien, *The Fellowship of the Ring*
 
 ### On This Day
-Canadian journalist and politician William Lyon Mackenzie calls for a rebellion against the United Kingdom in his essay "To the People of Upper Canada", published in his newspaper The Constitution.
+Bombardment of Yeonpyeong: North Korean artillery attack kills two civilians and two marines on Yeonpyeong Island, South Korea.
 
-[Source](https://en.wikipedia.org/wiki/William_Lyon_Mackenzie)
+[Source](https://en.wikipedia.org/wiki/2010_Yeonpyeongdo_bombardment)
 
 ### Born Today
-**Leos Carax** (1960) — French director and writer (born 1960)
+**John Coleman (Australian footballer)** (1928) — Australian rules footballer (1928–1973)
 
-[Source](https://en.wikipedia.org/wiki/Leos_Carax)
+[Source](https://en.wikipedia.org/wiki/John_Coleman_(Australian_footballer))
 
 ### Pop Culture
-The Max Headroom signal hijacking incident takes place, in which a pirate broadcast interrupts television broadcasts in Chicago.
+The first episode of Doctor Who ("An Unearthly Child") is broadcast by the BBC, which is now the world's longest running science fiction drama.
 
-[Source](https://en.wikipedia.org/wiki/Max_Headroom_signal_hijackings)
+[Source](https://en.wikipedia.org/wiki/Doctor_Who)
 
 ### Miscellaneous
-**geography:** Africa is the only continent that extends into all four hemispheres.
+**technology:** The first computer bug was a moth found in a relay of the Harvard Mark II.
 
 <!-- DAILY_CONTENT_END -->
 
