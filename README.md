@@ -13,42 +13,46 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-11-23
+## Today — 2026-11-24
 
 ### Photo
-![View of Pointe Saint-Mathieu with the lighthouse (center), semaphore building (left), Chapel of Saint-Jean de Plougonvelin (right), and the ruins of the Abbey of Saint-Mathieu de Fine-Terre. Plougonvelin, Finistère, France](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Pointe_Saint_Mathieu_-_Phare.jpg/960px-Pointe_Saint_Mathieu_-_Phare.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Panorama of the new section of Taza, view from the southwest, looking down from the old city, Fez-Meknes, Morocco](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/South_Panorama_Taza_Morocco_Nov25_A7CR_09655-62_PanoC.jpg/960px-South_Panorama_Taza_Morocco_Nov25_A7CR_09655-62_PanoC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*View of Pointe Saint-Mathieu with the lighthouse (center), semaphore building (left), Chapel of Saint-Jean de Plougonvelin (right), and the ruins of the Abbey of Saint-Mathieu de Fine-Terre. Plougonvelin, Finistère, France* — JackyM59. [Source](https://commons.wikimedia.org/wiki/File:Pointe_Saint_Mathieu_-_Phare.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Panorama of the new section of Taza, view from the southwest, looking down from the old city, Fez-Meknes, Morocco* — This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.
+
+
+
+Please do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.. [Source](https://commons.wikimedia.org/wiki/File:South_Panorama_Taza_Morocco_Nov25_A7CR_09655-62_PanoC.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**meticulous** — *adjective*
+**resilient** — *adjective*
 
-Showing great attention to detail.
+Able to recover quickly from difficulty or change.
 
-The meticulous inventory made the handoff straightforward.
+The resilient process continued after one input failed.
 
 ### Quote
-> Not all those who wander are lost.
+> There is no charm equal to tenderness of heart.
 
-— J. R. R. Tolkien, *The Fellowship of the Ring*
+— Jane Austen, *Emma*
 
 ### On This Day
-Bombardment of Yeonpyeong: North Korean artillery attack kills two civilians and two marines on Yeonpyeong Island, South Korea.
+An explosion on a bus carrying Tunisian Presidential Guard personnel in Tunisia's capital Tunis leaves at least 14 people dead.
 
-[Source](https://en.wikipedia.org/wiki/2010_Yeonpyeongdo_bombardment)
+[Source](https://en.wikipedia.org/wiki/2015_Tunis_bombing)
 
 ### Born Today
-**John Coleman (Australian footballer)** (1928) — Australian rules footballer (1928–1973)
+**Erich von Manstein** (1887) — German field marshal (1887–1973)
 
-[Source](https://en.wikipedia.org/wiki/John_Coleman_(Australian_footballer))
+[Source](https://en.wikipedia.org/wiki/Erich_von_Manstein)
 
 ### Pop Culture
-The first episode of Doctor Who ("An Unearthly Child") is broadcast by the BBC, which is now the world's longest running science fiction drama.
+Lee Harvey Oswald, the assassin of President John F. Kennedy, is killed by Jack Ruby on live television. Robert H. Jackson takes a photograph of the shooting that will win the 1964 Pulitzer Prize in Photography.
 
-[Source](https://en.wikipedia.org/wiki/Doctor_Who)
+[Source](https://en.wikipedia.org/wiki/Lee_Harvey_Oswald)
 
 ### Miscellaneous
-**technology:** The first computer bug was a moth found in a relay of the Harvard Mark II.
+**art:** The Louvre began as a medieval fortress before becoming a museum.
 
 <!-- DAILY_CONTENT_END -->
 
