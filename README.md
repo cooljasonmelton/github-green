@@ -13,46 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-11-24
+## Today — 2026-11-25
 
 ### Photo
-![Panorama of the new section of Taza, view from the southwest, looking down from the old city, Fez-Meknes, Morocco](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/South_Panorama_Taza_Morocco_Nov25_A7CR_09655-62_PanoC.jpg/960px-South_Panorama_Taza_Morocco_Nov25_A7CR_09655-62_PanoC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![The Wrede passage (Finnish: Wreden pasaasi. Swedish: Wredes passage; also known as the "Old merchant alley", Finnish: Vanha kauppakuja, or the "Grandma tunnel", Finnish: Mummotunneli) is an entity formed by two stone buildings in Kluuvi, Helsinki, Finland](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Wredes_passage_November_2025_01.jpg/960px-Wredes_passage_November_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Panorama of the new section of Taza, view from the southwest, looking down from the old city, Fez-Meknes, Morocco* — This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.
-
-
-
-Please do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.. [Source](https://commons.wikimedia.org/wiki/File:South_Panorama_Taza_Morocco_Nov25_A7CR_09655-62_PanoC.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*The Wrede passage (Finnish: Wreden pasaasi. Swedish: Wredes passage; also known as the "Old merchant alley", Finnish: Vanha kauppakuja, or the "Grandma tunnel", Finnish: Mummotunneli) is an entity formed by two stone buildings in Kluuvi, Helsinki, Finland* — ArildV. [Source](https://commons.wikimedia.org/wiki/File:Wredes_passage_November_2025_01.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**resilient** — *adjective*
+**curious** — *adjective*
 
-Able to recover quickly from difficulty or change.
+Eager to know or learn something.
 
-The resilient process continued after one input failed.
+A curious question often reveals the useful edge case.
 
 ### Quote
-> There is no charm equal to tenderness of heart.
+> All that we see or seem is but a dream within a dream.
 
-— Jane Austen, *Emma*
+— Edgar Allan Poe, *A Dream Within a Dream*
 
 ### On This Day
-An explosion on a bus carrying Tunisian Presidential Guard personnel in Tunisia's capital Tunis leaves at least 14 people dead.
+Coup of 25 November 1975, a failed military coup d'état by Portuguese far-left activists seeking to hijack the  Portuguese transition to democracy to establish a communist regime.
 
-[Source](https://en.wikipedia.org/wiki/2015_Tunis_bombing)
+[Source](https://en.wikipedia.org/wiki/Coup_of_25_November_1975)
 
 ### Born Today
-**Erich von Manstein** (1887) — German field marshal (1887–1973)
+**Carl Benz** (1844) — German designer and engineer (1844–1929)
 
-[Source](https://en.wikipedia.org/wiki/Erich_von_Manstein)
+[Source](https://en.wikipedia.org/wiki/Carl_Benz)
 
 ### Pop Culture
-Lee Harvey Oswald, the assassin of President John F. Kennedy, is killed by Jack Ruby on live television. Robert H. Jackson takes a photograph of the shooting that will win the 1964 Pulitzer Prize in Photography.
+An earthquake hits the Mediterranean destroying Beirut and Damascus and killing 30,000–40,000.
 
-[Source](https://en.wikipedia.org/wiki/Lee_Harvey_Oswald)
+[Source](https://en.wikipedia.org/wiki/1759_Near_East_earthquakes)
 
 ### Miscellaneous
-**art:** The Louvre began as a medieval fortress before becoming a museum.
+**literature:** The Gutenberg Bible was printed in Mainz around 1455.
 
 <!-- DAILY_CONTENT_END -->
 

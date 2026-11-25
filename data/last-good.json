@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 2015,
-      "text": "An explosion on a bus carrying Tunisian Presidential Guard personnel in Tunisia's capital Tunis leaves at least 14 people dead.",
-      "title": "2015 Tunis bombing",
-      "description": "Islamic State terror attack in Tunisia",
-      "sourceUrl": "https://en.wikipedia.org/wiki/2015_Tunis_bombing"
+      "year": 1975,
+      "text": "Coup of 25 November 1975, a failed military coup d'état by Portuguese far-left activists seeking to hijack the  Portuguese transition to democracy to establish a communist regime.",
+      "title": "Coup of 25 November 1975",
+      "description": "Failed Portuguese far-left military coup",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Coup_of_25_November_1975"
     },
     "birthday": {
       "status": "live",
-      "name": "Erich von Manstein",
-      "birthYear": 1887,
-      "knownFor": "German field marshal (1887–1973)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Erich_von_Manstein"
+      "name": "Carl Benz",
+      "birthYear": 1844,
+      "knownFor": "German designer and engineer (1844–1929)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Carl_Benz"
     },
     "photo": {
       "status": "live",
-      "title": "File:South Panorama Taza Morocco Nov25 A7CR 09655-62 PanoC.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/South_Panorama_Taza_Morocco_Nov25_A7CR_09655-62_PanoC.jpg/960px-South_Panorama_Taza_Morocco_Nov25_A7CR_09655-62_PanoC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "Panorama of the new section of Taza, view from the southwest, looking down from the old city, Fez-Meknes, Morocco",
-      "creator": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.\n\n\n\nPlease do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.",
+      "title": "File:Wredes passage November 2025 01.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Wredes_passage_November_2025_01.jpg/960px-Wredes_passage_November_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "The Wrede passage (Finnish: Wreden pasaasi. Swedish: Wredes passage; also known as the \"Old merchant alley\", Finnish: Vanha kauppakuja, or the \"Grandma tunnel\", Finnish: Mummotunneli) is an entity formed by two stone buildings in Kluuvi, Helsinki, Finland",
+      "creator": "ArildV",
       "credit": "Own work",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:South_Panorama_Taza_Morocco_Nov25_A7CR_09655-62_PanoC.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wredes_passage_November_2025_01.jpg"
     },
     "culture": {
       "status": "live",
-      "year": 1963,
-      "text": "Lee Harvey Oswald, the assassin of President John F. Kennedy, is killed by Jack Ruby on live television. Robert H. Jackson takes a photograph of the shooting that will win the 1964 Pulitzer Prize in Photography.",
-      "title": "Lee Harvey Oswald",
-      "description": "Assassin of John F. Kennedy (1939–1963)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Lee_Harvey_Oswald"
+      "year": 1759,
+      "text": "An earthquake hits the Mediterranean destroying Beirut and Damascus and killing 30,000–40,000.",
+      "title": "1759 Near East earthquakes",
+      "description": "Series of earthquakes in Levant",
+      "sourceUrl": "https://en.wikipedia.org/wiki/1759_Near_East_earthquakes"
     }
   }
 }
