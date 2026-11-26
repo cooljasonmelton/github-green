@@ -2,18 +2,18 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 1975,
-      "text": "Coup of 25 November 1975, a failed military coup d'état by Portuguese far-left activists seeking to hijack the  Portuguese transition to democracy to establish a communist regime.",
-      "title": "Coup of 25 November 1975",
-      "description": "Failed Portuguese far-left military coup",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Coup_of_25_November_1975"
+      "year": 2008,
+      "text": "The ocean liner Queen Elizabeth 2, now out of service, docks in Dubai.",
+      "title": "Queen Elizabeth 2",
+      "description": "British ocean liner",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Queen_Elizabeth_2"
     },
     "birthday": {
       "status": "live",
-      "name": "Carl Benz",
-      "birthYear": 1844,
-      "knownFor": "German designer and engineer (1844–1929)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Carl_Benz"
+      "name": "Art Shell",
+      "birthYear": 1946,
+      "knownFor": "American football player and coach (born 1946)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Art_Shell"
     },
     "photo": {
       "status": "live",
@@ -28,11 +28,11 @@
     },
     "culture": {
       "status": "live",
-      "year": 1759,
-      "text": "An earthquake hits the Mediterranean destroying Beirut and Damascus and killing 30,000–40,000.",
-      "title": "1759 Near East earthquakes",
-      "description": "Series of earthquakes in Levant",
-      "sourceUrl": "https://en.wikipedia.org/wiki/1759_Near_East_earthquakes"
+      "year": 1977,
+      "text": "An unidentified hijacker named Vrillon, claiming to be the representative of the \"Ashtar Galactic Command\", takes over Britain's Southern Television for six minutes, starting at 5:12 pm.",
+      "title": "Southern Television broadcast interruption",
+      "description": "TV audio transmission hoax in southern England (1977)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption"
     }
   }
 }

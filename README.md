@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-11-25
+## Today — 2026-11-26
 
 ### Photo
-![The Wrede passage (Finnish: Wreden pasaasi. Swedish: Wredes passage; also known as the "Old merchant alley", Finnish: Vanha kauppakuja, or the "Grandma tunnel", Finnish: Mummotunneli) is an entity formed by two stone buildings in Kluuvi, Helsinki, Finland](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Wredes_passage_November_2025_01.jpg/960px-Wredes_passage_November_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Breil-Brigels. Lag da Breil. Reservoir with low water level.](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Breil-Brigels._%28actm%29_02.jpg/960px-Breil-Brigels._%28actm%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*The Wrede passage (Finnish: Wreden pasaasi. Swedish: Wredes passage; also known as the "Old merchant alley", Finnish: Vanha kauppakuja, or the "Grandma tunnel", Finnish: Mummotunneli) is an entity formed by two stone buildings in Kluuvi, Helsinki, Finland* — ArildV. [Source](https://commons.wikimedia.org/wiki/File:Wredes_passage_November_2025_01.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Breil-Brigels. Lag da Breil. Reservoir with low water level.* — Agnes Monkelbaan. [Source](https://commons.wikimedia.org/wiki/File:Breil-Brigels._(actm)_02.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 ### Word
-**curious** — *adjective*
+**lucid** — *adjective*
 
-Eager to know or learn something.
+Expressed clearly and easy to understand.
 
-A curious question often reveals the useful edge case.
+Her lucid explanation made the new process less intimidating.
 
 ### Quote
-> All that we see or seem is but a dream within a dream.
+> The unexamined life is not worth living.
 
-— Edgar Allan Poe, *A Dream Within a Dream*
+— Socrates, *Plato, Apology*
 
 ### On This Day
-Coup of 25 November 1975, a failed military coup d'état by Portuguese far-left activists seeking to hijack the  Portuguese transition to democracy to establish a communist regime.
+The ocean liner Queen Elizabeth 2, now out of service, docks in Dubai.
 
-[Source](https://en.wikipedia.org/wiki/Coup_of_25_November_1975)
+[Source](https://en.wikipedia.org/wiki/Queen_Elizabeth_2)
 
 ### Born Today
-**Carl Benz** (1844) — German designer and engineer (1844–1929)
+**Art Shell** (1946) — American football player and coach (born 1946)
 
-[Source](https://en.wikipedia.org/wiki/Carl_Benz)
+[Source](https://en.wikipedia.org/wiki/Art_Shell)
 
 ### Pop Culture
-An earthquake hits the Mediterranean destroying Beirut and Damascus and killing 30,000–40,000.
+An unidentified hijacker named Vrillon, claiming to be the representative of the "Ashtar Galactic Command", takes over Britain's Southern Television for six minutes, starting at 5:12 pm.
 
-[Source](https://en.wikipedia.org/wiki/1759_Near_East_earthquakes)
+[Source](https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption)
 
 ### Miscellaneous
-**literature:** The Gutenberg Bible was printed in Mainz around 1455.
+**space:** A day on Venus lasts longer than a Venusian year.
 
 <!-- DAILY_CONTENT_END -->
 
