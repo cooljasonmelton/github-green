@@ -13,42 +13,42 @@ See [automation and content-health notes](#automation-and-content-health-notes) 
 
 <!-- DAILY_CONTENT_START -->
 
-## Today — 2026-11-26
+## Today — 2026-11-27
 
 ### Photo
-![Breil-Brigels. Lag da Breil. Reservoir with low water level.](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Breil-Brigels._%28actm%29_02.jpg/960px-Breil-Brigels._%28actm%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Magnified 100 times, a drop of liquid crystal was dispensed onto a glass plate and a cover slip placed on top. The liquid crystal spreads out into a uniform film under the weight of the cover slip. The image was captured using a microscope configured for crossed polarised light. The colours come about because liquid crystal is birefringent - it changes the polarisation state of the plane-polarised light passing through it. Now, the sort of labyrinthine pattern is caused by a phase transition. The liquid crystal sample is placed on a heat stage and at a particular temperature called the phase transition temperature, the liquid crystal changes from an opaque state to a transparent state, this is the transition front. The image width is about 2mm.](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Liquid_Crystal_Phase_Transition.jpg/960px-Liquid_Crystal_Phase_Transition.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Breil-Brigels. Lag da Breil. Reservoir with low water level.* — Agnes Monkelbaan. [Source](https://commons.wikimedia.org/wiki/File:Breil-Brigels._(actm)_02.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+*Magnified 100 times, a drop of liquid crystal was dispensed onto a glass plate and a cover slip placed on top. The liquid crystal spreads out into a uniform film under the weight of the cover slip. The image was captured using a microscope configured for crossed polarised light. The colours come about because liquid crystal is birefringent - it changes the polarisation state of the plane-polarised light passing through it. Now, the sort of labyrinthine pattern is caused by a phase transition. The liquid crystal sample is placed on a heat stage and at a particular temperature called the phase transition temperature, the liquid crystal changes from an opaque state to a transparent state, this is the transition front. The image width is about 2mm.* — KarlGaff. [Source](https://commons.wikimedia.org/wiki/File:Liquid_Crystal_Phase_Transition.jpg) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)
 
 ### Word
-**lucid** — *adjective*
+**tenacious** — *adjective*
 
-Expressed clearly and easy to understand.
+Tending to keep a firm hold of something; persistent.
 
-Her lucid explanation made the new process less intimidating.
+The tenacious researcher checked each source twice.
 
 ### Quote
-> The unexamined life is not worth living.
+> To thine own self be true.
 
-— Socrates, *Plato, Apology*
+— William Shakespeare, *Hamlet, Act 1, Scene 3*
 
 ### On This Day
-The ocean liner Queen Elizabeth 2, now out of service, docks in Dubai.
+Frederick II, Holy Roman Emperor, defeats the Lombard League in the battle of Cortenuova.
 
-[Source](https://en.wikipedia.org/wiki/Queen_Elizabeth_2)
+[Source](https://en.wikipedia.org/wiki/Frederick_II%2C_Holy_Roman_Emperor)
 
 ### Born Today
-**Art Shell** (1946) — American football player and coach (born 1946)
+**Pierre Dupuy (scholar)** (1582) — French scholar (1582–1651)
 
-[Source](https://en.wikipedia.org/wiki/Art_Shell)
+[Source](https://en.wikipedia.org/wiki/Pierre_Dupuy_(scholar))
 
 ### Pop Culture
-An unidentified hijacker named Vrillon, claiming to be the representative of the "Ashtar Galactic Command", takes over Britain's Southern Television for six minutes, starting at 5:12 pm.
+Penny Ann Early becomes the first woman to play in a major professional men's basketball league, for the Kentucky Colonels in an ABA game against the Los Angeles Stars.
 
-[Source](https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption)
+[Source](https://en.wikipedia.org/wiki/Penny_Ann_Early)
 
 ### Miscellaneous
-**space:** A day on Venus lasts longer than a Venusian year.
+**animals:** Octopuses have three hearts.
 
 <!-- DAILY_CONTENT_END -->
 

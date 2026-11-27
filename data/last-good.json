@@ -2,37 +2,37 @@
   "sections": {
     "history": {
       "status": "live",
-      "year": 2008,
-      "text": "The ocean liner Queen Elizabeth 2, now out of service, docks in Dubai.",
-      "title": "Queen Elizabeth 2",
-      "description": "British ocean liner",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Queen_Elizabeth_2"
+      "year": 1237,
+      "text": "Frederick II, Holy Roman Emperor, defeats the Lombard League in the battle of Cortenuova.",
+      "title": "Frederick II, Holy Roman Emperor",
+      "description": "Holy Roman Emperor from 1220 to 1250",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Frederick_II%2C_Holy_Roman_Emperor"
     },
     "birthday": {
       "status": "live",
-      "name": "Art Shell",
-      "birthYear": 1946,
-      "knownFor": "American football player and coach (born 1946)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Art_Shell"
+      "name": "Pierre Dupuy (scholar)",
+      "birthYear": 1582,
+      "knownFor": "French scholar (1582–1651)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pierre_Dupuy_(scholar)"
     },
     "photo": {
       "status": "live",
-      "title": "File:Wredes passage November 2025 01.jpg",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Wredes_passage_November_2025_01.jpg/960px-Wredes_passage_November_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "caption": "The Wrede passage (Finnish: Wreden pasaasi. Swedish: Wredes passage; also known as the \"Old merchant alley\", Finnish: Vanha kauppakuja, or the \"Grandma tunnel\", Finnish: Mummotunneli) is an entity formed by two stone buildings in Kluuvi, Helsinki, Finland",
-      "creator": "ArildV",
+      "title": "File:Liquid Crystal Phase Transition.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Liquid_Crystal_Phase_Transition.jpg/960px-Liquid_Crystal_Phase_Transition.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "Magnified 100 times, a drop of liquid crystal was dispensed onto a glass plate and a cover slip placed on top. The liquid crystal spreads out into a uniform film under the weight of the cover slip. The image was captured using a microscope configured for crossed polarised light. The colours come about because liquid crystal is birefringent - it changes the polarisation state of the plane-polarised light passing through it. Now, the sort of labyrinthine pattern is caused by a phase transition. The liquid crystal sample is placed on a heat stage and at a particular temperature called the phase transition temperature, the liquid crystal changes from an opaque state to a transparent state, this is the transition front. The image width is about 2mm.",
+      "creator": "KarlGaff",
       "credit": "Own work",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wredes_passage_November_2025_01.jpg"
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Liquid_Crystal_Phase_Transition.jpg"
     },
     "culture": {
       "status": "live",
-      "year": 1977,
-      "text": "An unidentified hijacker named Vrillon, claiming to be the representative of the \"Ashtar Galactic Command\", takes over Britain's Southern Television for six minutes, starting at 5:12 pm.",
-      "title": "Southern Television broadcast interruption",
-      "description": "TV audio transmission hoax in southern England (1977)",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption"
+      "year": 1968,
+      "text": "Penny Ann Early becomes the first woman to play in a major professional men's basketball league, for the Kentucky Colonels in an ABA game against the Los Angeles Stars.",
+      "title": "Penny Ann Early",
+      "description": "American athlete (1943–2023)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Penny_Ann_Early"
     }
   }
 }
